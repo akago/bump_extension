@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/togglz/togglz/pull/1204",
+  "project" : "togglz",
+  "projectOrganisation" : "togglz",
+  "breakingCommit" : "6634f5c2af86430e0f1fc562a97c8a6595dd27b1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework.security",
+    "dependencyArtifactID" : "spring-security-web",
+    "previousVersion" : "6.1.0",
+    "newVersion" : "6.3.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x-extras/pull/171",
+  "project" : "plc4x-extras",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f33252ca09e7f7d4cec060f628bb4a7dc072a84e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.11.1",
+    "newVersion" : "5.11.2",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

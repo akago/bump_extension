@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/osslabz/evm-abi-decoder/pull/113",
+  "project" : "evm-abi-decoder",
+  "projectOrganisation" : "osslabz",
+  "breakingCommit" : "507c6f9d54205a7e2d132dc3ef414b05955641fd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "unknown",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

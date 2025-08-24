@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jcabi/jcabi-matchers/pull/125",
+  "project" : "jcabi-matchers",
+  "projectOrganisation" : "jcabi",
+  "breakingCommit" : "9ae3eab1cd1f034b5d4b5d01ef9e92876db134c3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "2.0.2",
+    "newVersion" : "1.0.b2",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

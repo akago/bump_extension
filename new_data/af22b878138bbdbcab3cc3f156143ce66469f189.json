@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/opennlp-sandbox/pull/121",
+  "project" : "opennlp-sandbox",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "af22b878138bbdbcab3cc3f156143ce66469f189",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "info.bliki.wiki",
+    "dependencyArtifactID" : "bliki-core",
+    "previousVersion" : "3.0.19",
+    "newVersion" : "3.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/anypointcloud/json-logger/pull/16",
+  "project" : "json-logger",
+  "projectOrganisation" : "anypointcloud",
+  "breakingCommit" : "94127a2adc0c24ba4fa05108b0f7cc6f9616066d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-beanutils",
+    "dependencyArtifactID" : "commons-beanutils",
+    "previousVersion" : "1.9.4",
+    "newVersion" : "1.11.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

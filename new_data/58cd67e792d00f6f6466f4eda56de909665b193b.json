@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-pdf-plugin/pull/57",
+  "project" : "maven-pdf-plugin",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "58cd67e792d00f6f6466f4eda56de909665b193b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-utils",
+    "previousVersion" : "3.5.1",
+    "newVersion" : "4.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

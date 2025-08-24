@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/infinispan/infinispan/pull/13566",
+  "project" : "infinispan",
+  "projectOrganisation" : "infinispan",
+  "breakingCommit" : "6177e4c50a1da8592d89bce6c62f35edee27098a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.sf.saxon",
+    "dependencyArtifactID" : "Saxon-HE",
+    "previousVersion" : "12.4",
+    "newVersion" : "12.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

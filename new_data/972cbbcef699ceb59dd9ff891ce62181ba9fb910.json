@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/jackrabbit-oak/pull/2385",
+  "project" : "jackrabbit-oak",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "972cbbcef699ceb59dd9ff891ce62181ba9fb910",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.nimbusds",
+    "dependencyArtifactID" : "nimbus-jose-jwt",
+    "previousVersion" : "9.40",
+    "newVersion" : "10.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

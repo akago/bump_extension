@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/usdAG/cstc/pull/158",
+  "project" : "cstc",
+  "projectOrganisation" : "usdAG",
+  "breakingCommit" : "44770e075b03b08cb85c64363fe1a6ddbf0b6b0b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.17.2",
+    "newVersion" : "2.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

@@ -6,7 +6,7 @@ import org.kohsuke.github.*;
 import org.kohsuke.github.connector.GitHubConnectorResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+import org.kohsuke.github.HttpException;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Path;
@@ -184,15 +184,77 @@ public class GitHubMiner {
      */
     private void mineRepo(String repo, Date cutoffDate) throws IOException {
         log.info("Checking " + repo);
-        GHRepository repository = tokenQueue.getGitHub(httpConnector).getRepository(repo);
-        PagedIterator<GHPullRequest> pullRequests = repository.queryPullRequests()
-                .state(GHIssueState.ALL)
-                .sort(GHPullRequestQueryBuilder.Sort.CREATED)
-                .direction(GHDirection.DESC)
-                .list().iterator();
-
-        while (pullRequests.hasNext()) {
-            List<GHPullRequest> nextPage = pullRequests.nextPage();
+        GHRepository repository;
+                int attempts = 0;
+                while (true) {
+                    try {
+                        repository = tokenQueue.getGitHub(httpConnector).getRepository(repo);
+                        break;
+                    } catch (HttpException e) {
+                        if (isServerError(e) && attempts < 2) {
+                            attempts++;
+                            log.warn("Server error {} when fetching repo {}, retry {}/3", e.getResponseCode(), repo, attempts);
+                            try {
+                                Thread.sleep(1000L * attempts);
+                            } catch (InterruptedException ie) {
+                                Thread.currentThread().interrupt();
+                                return;
+                            }
+                        } else if (isServerError(e)) {
+                            log.warn("Skipping repo {} due to repeated server errors", repo);
+                            return;
+                        } else {
+                            throw e;
+                        }
+                    }
+                }
+        
+                PagedIterator<GHPullRequest> pullRequests;
+                attempts = 0;
+                while (true) {
+                    try {
+                        pullRequests = repository.queryPullRequests()
+                                .state(GHIssueState.ALL)
+                                .sort(GHPullRequestQueryBuilder.Sort.CREATED)
+                                .direction(GHDirection.DESC)
+                                .list().iterator();
+                        break;
+                    } catch (HttpException e) {
+                        if (isServerError(e) && attempts < 2) {
+                            attempts++;
+                            log.warn("Server error {} when querying PRs for {}, retry {}/3", e.getResponseCode(), repo, attempts);
+                            try {
+                                Thread.sleep(1000L * attempts);
+                            } catch (InterruptedException ie) {
+                                Thread.currentThread().interrupt();
+                                return;
+                            }
+                        } else if (isServerError(e)) {
+                            log.warn("Skipping repo {} due to repeated server errors when listing PRs", repo);
+                            return;
+                        } else {
+                            throw e;
+                        }
+                    }
+                }
+        
+                while (true) {
+                    List<GHPullRequest> nextPage;
+                    try {
+                        if (!pullRequests.hasNext())
+                            break;
+                        nextPage = pullRequests.nextPage();
+                    } catch (HttpException e) {
+                        if (isServerError(e)) {
+                            log.warn("Server error {} when fetching PR page for {}, skipping page", e.getResponseCode(), repo);
+                            continue;
+                        } else {
+                            throw e;
+                        }
+                    }
+        
+                    if (nextPage.isEmpty())
+                        continue;
             if (PullRequestFilters.createdBefore(cutoffDate).test(nextPage.get(0))) {
                 log.info("Checked all PRs for " + repo + " created after " + cutoffDate);
                 break;
@@ -218,6 +280,13 @@ public class GitHubMiner {
         Path path = outputDirectory.resolve(breakingUpdate.breakingCommit + JsonUtils.JSON_FILE_ENDING);
         JsonUtils.writeToFile(path, breakingUpdate);
     }
+    /**
+     * Check if the given exception is a server error (HTTP status code 5xx).
+     */
+    private static boolean isServerError(HttpException e) {
+        return e.getResponseCode() >= 500;
+    }
+
 
     /**
      * The RepositorySearchConfig contains information used when finding suitable repositories.
@@ -253,9 +322,13 @@ public class GitHubMiner {
         protected boolean checkRateLimit(GHRateLimit.Record rateLimitRecord, long count) throws InterruptedException {
             if (rateLimitRecord.getRemaining() < REMAINING_CALLS_CUTOFF) {
                 long timeToSleep = rateLimitRecord.getResetDate().getTime() - System.currentTimeMillis();
-                System.out.printf("Rate limit exceeded for token %s, sleeping %ds until %s\n",
-                                  apiToken, timeToSleep / 1000, rateLimitRecord.getResetDate());
-                Thread.sleep(timeToSleep);
+                if (timeToSleep <= 0) {
+                    System.out.printf("Rate limit for token %s already reset, skipping sleep%n", apiToken);
+                } else {
+                    System.out.printf("Rate limit exceeded for token %s, sleeping %ds until %s%n",
+                                      apiToken, timeToSleep / 1000, rateLimitRecord.getResetDate());
+                    Thread.sleep(timeToSleep);
+                }
                 return true;
             }
             return false;

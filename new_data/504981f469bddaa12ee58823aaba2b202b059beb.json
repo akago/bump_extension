@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tinkerpop/pull/3106",
+  "project" : "tinkerpop",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "504981f469bddaa12ee58823aaba2b202b059beb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.nimbusds",
+    "dependencyArtifactID" : "nimbus-jose-jwt",
+    "previousVersion" : "9.30.1",
+    "newVersion" : "10.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

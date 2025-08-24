@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/incubator-wayang/pull/478",
+  "project" : "incubator-wayang",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "7f2f45673dd78e010fafa835e64b0a8d9de13a6e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.hadoop",
+    "dependencyArtifactID" : "hadoop-common",
+    "previousVersion" : "3.2.4",
+    "newVersion" : "3.4.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

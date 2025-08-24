@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-indexer/pull/407",
+  "project" : "maven-indexer",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "04c874fc76d4e0b6c611ebf8bb8b3f7263066ab0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

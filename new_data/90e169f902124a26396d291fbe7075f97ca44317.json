@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/categolj/blog-api/pull/286",
+  "project" : "blog-api",
+  "projectOrganisation" : "categolj",
+  "breakingCommit" : "90e169f902124a26396d291fbe7075f97ca44317",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.opentelemetry.contrib",
+    "dependencyArtifactID" : "opentelemetry-samplers",
+    "previousVersion" : "1.36.0-alpha",
+    "newVersion" : "1.37.0-alpha",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

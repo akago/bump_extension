@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/awslabs/aws-athena-query-federation/pull/2149",
+  "project" : "aws-athena-query-federation",
+  "projectOrganisation" : "awslabs",
+  "breakingCommit" : "3bb7c753ba93a35586a53b278e0cf4a7ab34a840",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.squareup.wire",
+    "dependencyArtifactID" : "wire-schema-jvm",
+    "previousVersion" : "4.9.0",
+    "newVersion" : "5.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

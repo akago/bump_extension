@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/osslabz/evm-abi-decoder/pull/112",
+  "project" : "evm-abi-decoder",
+  "projectOrganisation" : "osslabz",
+  "breakingCommit" : "b50bc26e59f94a6731fc1e2ac29e2ee74bca6b86",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "unknown",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.32",
+    "newVersion" : "1.18.34",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/myfaces-tobago/pull/5727",
+  "project" : "myfaces-tobago",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e3cbf8920c5e5fe683070097c9a010b96fa459d1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.seleniumhq.selenium",
+    "dependencyArtifactID" : "selenium-java",
+    "previousVersion" : "4.26.0",
+    "newVersion" : "4.27.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

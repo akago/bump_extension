@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x-extras/pull/71",
+  "project" : "plc4x-extras",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "2e0af61362b665ded497473cce9ca02c276034dd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.milo",
+    "dependencyArtifactID" : "stack-server",
+    "previousVersion" : "0.6.12",
+    "newVersion" : "0.6.13",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

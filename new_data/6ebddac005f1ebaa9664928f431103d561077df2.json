@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13757",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "6ebddac005f1ebaa9664928f431103d561077df2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.azure",
+    "dependencyArtifactID" : "azure-core-http-netty",
+    "previousVersion" : "1.15.2",
+    "newVersion" : "1.15.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

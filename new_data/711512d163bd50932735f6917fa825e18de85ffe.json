@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/feiyuchuixue/sz-boot-parent/pull/133",
+  "project" : "sz-boot-parent",
+  "projectOrganisation" : "feiyuchuixue",
+  "breakingCommit" : "711512d163bd50932735f6917fa825e18de85ffe",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "software.amazon.awssdk.crt",
+    "dependencyArtifactID" : "aws-crt",
+    "previousVersion" : "0.33.7",
+    "newVersion" : "0.37.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

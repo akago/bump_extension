@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/14751",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "592e8f6df4f3959201ebb080a9078ccbe51d3a50",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.checkerframework",
+    "dependencyArtifactID" : "checker-qual",
+    "previousVersion" : "3.48.3",
+    "newVersion" : "3.48.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

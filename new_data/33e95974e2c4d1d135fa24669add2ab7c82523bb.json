@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rultor/pull/2110",
+  "project" : "rultor",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "33e95974e2c4d1d135fa24669add2ab7c82523bb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-xml",
+    "previousVersion" : "0.30.1",
+    "newVersion" : "0.34.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Alfresco/alfresco-transform-core/pull/1004",
+  "project" : "alfresco-transform-core",
+  "projectOrganisation" : "Alfresco",
+  "breakingCommit" : "97c9e7b64f2ae70aa8925fb547d655057b4c5f83",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven",
+    "dependencyArtifactID" : "maven-artifact",
+    "previousVersion" : "3.9.6",
+    "newVersion" : "3.9.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

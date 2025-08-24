@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x-extras/pull/78",
+  "project" : "plc4x-extras",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "5c8c956af6cee064ca1c7e6602a18c7628323155",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.protobuf",
+    "dependencyArtifactID" : "protobuf-java",
+    "previousVersion" : "3.25.3",
+    "newVersion" : "4.27.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

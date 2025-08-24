@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paulcwarren/spring-content/pull/2155",
+  "project" : "spring-content",
+  "projectOrganisation" : "paulcwarren",
+  "breakingCommit" : "d0d9171c0d63f0ef6501210102aa9a689ff1511a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "software.amazon.awssdk",
+    "dependencyArtifactID" : "s3",
+    "previousVersion" : "2.28.3",
+    "newVersion" : "2.28.22",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

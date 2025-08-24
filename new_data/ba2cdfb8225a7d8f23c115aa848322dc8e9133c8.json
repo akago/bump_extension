@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openmrs/openmrs-core/pull/4875",
+  "project" : "openmrs-core",
+  "projectOrganisation" : "openmrs",
+  "breakingCommit" : "ba2cdfb8225a7d8f23c115aa848322dc8e9133c8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.sf.ehcache",
+    "dependencyArtifactID" : "ehcache",
+    "previousVersion" : "2.10.10.4.43",
+    "newVersion" : "2.11.1.3.11",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

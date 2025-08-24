@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/threecopies/pull/128",
+  "project" : "threecopies",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "11e392a06bef46b725272df99cb49833e475aab6",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.stripe",
+    "dependencyArtifactID" : "stripe-java",
+    "previousVersion" : "24.4.0",
+    "newVersion" : "24.24.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

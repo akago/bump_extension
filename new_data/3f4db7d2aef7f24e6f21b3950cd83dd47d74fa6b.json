@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/commons-jelly/pull/58",
+  "project" : "commons-jelly",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "3f4db7d2aef7f24e6f21b3950cd83dd47d74fa6b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

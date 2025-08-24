@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openmrs/openmrs-core/pull/4762",
+  "project" : "openmrs-core",
+  "projectOrganisation" : "openmrs",
+  "breakingCommit" : "9e5198c266c34b5520e1ec191424d362c53f43f2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.bytebuddy",
+    "dependencyArtifactID" : "byte-buddy",
+    "previousVersion" : "1.15.2",
+    "newVersion" : "1.15.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "unknown"
+  },
+  "licenseInfo" : "Other"
+}

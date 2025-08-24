@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xsline/pull/255",
+  "project" : "xsline",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "cf14a35f9b83c269d40611f710f7db3987d73bf3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "1.0.b2",
+    "newVersion" : "1.4.01",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

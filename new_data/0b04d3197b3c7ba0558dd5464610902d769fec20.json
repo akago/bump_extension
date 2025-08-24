@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/thindeck/pull/568",
+  "project" : "thindeck",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "0b04d3197b3c7ba0558dd5464610902d769fec20",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi.incubator",
+    "dependencyArtifactID" : "xembly",
+    "previousVersion" : "0.21.4",
+    "newVersion" : "0.32.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

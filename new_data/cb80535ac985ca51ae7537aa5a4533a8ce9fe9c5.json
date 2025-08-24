@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wicketstuff/core/pull/1108",
+  "project" : "core",
+  "projectOrganisation" : "wicketstuff",
+  "breakingCommit" : "cb80535ac985ca51ae7537aa5a4533a8ce9fe9c5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openjdk.nashorn",
+    "dependencyArtifactID" : "nashorn-core",
+    "previousVersion" : "15.4",
+    "newVersion" : "15.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

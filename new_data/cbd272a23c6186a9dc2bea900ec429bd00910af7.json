@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/zeppelin/pull/4877",
+  "project" : "zeppelin",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "cbd272a23c6186a9dc2bea900ec429bd00910af7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.groovy",
+    "dependencyArtifactID" : "groovy-all",
+    "previousVersion" : "2.4.7",
+    "newVersion" : "2.4.21",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

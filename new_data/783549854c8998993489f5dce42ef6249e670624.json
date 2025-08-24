@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ambari-metrics/pull/168",
+  "project" : "ambari-metrics",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "783549854c8998993489f5dce42ef6249e670624",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sun.jersey",
+    "dependencyArtifactID" : "jersey-core",
+    "previousVersion" : "1.11",
+    "newVersion" : "1.13",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

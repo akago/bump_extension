@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/2000",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e3dbf3b180ec815627759b2a607932da467c769a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "joda-time",
+    "dependencyArtifactID" : "joda-time",
+    "previousVersion" : "2.13.0",
+    "newVersion" : "2.13.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

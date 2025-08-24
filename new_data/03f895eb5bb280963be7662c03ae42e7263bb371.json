@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/eclipse-xpanse/xpanse/pull/2581",
+  "project" : "xpanse",
+  "projectOrganisation" : "eclipse-xpanse",
+  "breakingCommit" : "03f895eb5bb280963be7662c03ae42e7263bb371",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework.ai",
+    "dependencyArtifactID" : "spring-ai-bom",
+    "previousVersion" : "1.0.0-M8",
+    "newVersion" : "1.0.0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

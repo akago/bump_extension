@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/commons-jelly/pull/50",
+  "project" : "commons-jelly",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c8d7bfd6aa3b0670b0f73852d083d1f493cfe51e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "axis",
+    "dependencyArtifactID" : "axis",
+    "previousVersion" : "1.0",
+    "newVersion" : "1.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

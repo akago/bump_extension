@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/972",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "3d87f3afaa8c76f0cda6146f63d2775b52cda466",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.tomcat",
+    "dependencyArtifactID" : "tomcat-api",
+    "previousVersion" : "8.5.53",
+    "newVersion" : "10.1.25",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

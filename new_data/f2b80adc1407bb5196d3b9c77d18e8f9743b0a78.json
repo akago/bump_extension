@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/trinodb/trino/pull/24387",
+  "project" : "trino",
+  "projectOrganisation" : "trinodb",
+  "breakingCommit" : "f2b80adc1407bb5196d3b9c77d18e8f9743b0a78",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.airlift",
+    "dependencyArtifactID" : "aircompressor",
+    "previousVersion" : "0.27",
+    "newVersion" : "2.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

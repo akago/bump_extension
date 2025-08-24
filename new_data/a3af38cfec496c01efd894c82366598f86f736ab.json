@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/asciidocfx/AsciidocFX/pull/659",
+  "project" : "AsciidocFX",
+  "projectOrganisation" : "asciidocfx",
+  "breakingCommit" : "a3af38cfec496c01efd894c82366598f86f736ab",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.13.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

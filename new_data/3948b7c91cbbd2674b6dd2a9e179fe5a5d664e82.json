@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vitruv-tools/Vitruv/pull/700",
+  "project" : "Vitruv",
+  "projectOrganisation" : "vitruv-tools",
+  "breakingCommit" : "3948b7c91cbbd2674b6dd2a9e179fe5a5d664e82",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.platform",
+    "dependencyArtifactID" : "junit-platform-launcher",
+    "previousVersion" : "1.11.4",
+    "newVersion" : "1.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

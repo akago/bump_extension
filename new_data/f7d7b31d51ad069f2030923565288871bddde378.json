@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/artipie/artipie/pull/1481",
+  "project" : "artipie",
+  "projectOrganisation" : "artipie",
+  "breakingCommit" : "f7d7b31d51ad069f2030923565288871bddde378",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-fileupload",
+    "dependencyArtifactID" : "commons-fileupload",
+    "previousVersion" : "1.5",
+    "newVersion" : "1.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

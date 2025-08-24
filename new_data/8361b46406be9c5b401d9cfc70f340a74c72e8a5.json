@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/868",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8361b46406be9c5b401d9cfc70f340a74c72e8a5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.tika",
+    "dependencyArtifactID" : "tika-core",
+    "previousVersion" : "3.0.0-BETA2",
+    "newVersion" : "3.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

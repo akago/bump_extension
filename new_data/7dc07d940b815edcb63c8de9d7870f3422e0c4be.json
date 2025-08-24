@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paritytrading/foundation/pull/96",
+  "project" : "foundation",
+  "projectOrganisation" : "paritytrading",
+  "breakingCommit" : "7dc07d940b815edcb63c8de9d7870f3422e0c4be",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "9.3",
+    "newVersion" : "10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

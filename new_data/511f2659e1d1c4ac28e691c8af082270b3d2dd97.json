@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/SaptarshiSarkar12/Drifty/pull/725",
+  "project" : "Drifty",
+  "projectOrganisation" : "SaptarshiSarkar12",
+  "breakingCommit" : "511f2659e1d1c4ac28e691c8af082270b3d2dd97",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-static-analysis",
+    "previousVersion" : "1.20.0",
+    "newVersion" : "1.21.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

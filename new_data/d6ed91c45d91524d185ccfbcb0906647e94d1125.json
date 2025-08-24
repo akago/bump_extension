@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/matteobaccan/html2pop3/pull/659",
+  "project" : "html2pop3",
+  "projectOrganisation" : "matteobaccan",
+  "breakingCommit" : "d6ed91c45d91524d185ccfbcb0906647e94d1125",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.36",
+    "newVersion" : "1.18.38",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

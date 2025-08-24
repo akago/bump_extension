@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hlpdev/AdvancedBanX/pull/38",
+  "project" : "AdvancedBanX",
+  "projectOrganisation" : "hlpdev",
+  "breakingCommit" : "392bdce1db60230a88fda1199934368f83ee1b96",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.luckperms",
+    "dependencyArtifactID" : "api",
+    "previousVersion" : "5.2",
+    "newVersion" : "5.4",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

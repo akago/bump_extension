@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/eclipse-rdf4j/rdf4j/pull/5375",
+  "project" : "rdf4j",
+  "projectOrganisation" : "eclipse-rdf4j",
+  "breakingCommit" : "73abf3cf1b2669ae06a9d39b9ce583031c21fb0a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.12.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "BSD 3-Clause \"New\" or \"Revised\" License"
+}

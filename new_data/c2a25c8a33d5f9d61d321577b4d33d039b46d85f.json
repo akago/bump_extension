@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PBH-BTN/PeerBanHelper/pull/647",
+  "project" : "PeerBanHelper",
+  "projectOrganisation" : "PBH-BTN",
+  "breakingCommit" : "c2a25c8a33d5f9d61d321577b4d33d039b46d85f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jetty",
+    "dependencyArtifactID" : "jetty-server",
+    "previousVersion" : "11.0.24",
+    "newVersion" : "12.0.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

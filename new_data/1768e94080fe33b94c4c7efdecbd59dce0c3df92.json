@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/18240",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "1768e94080fe33b94c4c7efdecbd59dce0c3df92",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

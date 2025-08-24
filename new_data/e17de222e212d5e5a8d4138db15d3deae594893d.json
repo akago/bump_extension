@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/feiyuchuixue/sz-boot-parent/pull/83",
+  "project" : "sz-boot-parent",
+  "projectOrganisation" : "feiyuchuixue",
+  "breakingCommit" : "e17de222e212d5e5a8d4138db15d3deae594893d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "cn.idev.excel",
+    "dependencyArtifactID" : "fastexcel",
+    "previousVersion" : "1.0.0",
+    "newVersion" : "1.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

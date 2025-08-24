@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-pdf-plugin/pull/58",
+  "project" : "maven-pdf-plugin",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "9b3ab81c9a515401306e52344434a0258f136677",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.reporting",
+    "dependencyArtifactID" : "maven-reporting-api",
+    "previousVersion" : "3.1.1",
+    "newVersion" : "4.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

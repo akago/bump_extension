@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jaxec/pull/51",
+  "project" : "jaxec",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "a8efcc8c0c0287d84b9e54a3cd2129dbe0a4e9b4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-log",
+    "previousVersion" : "0.24.2",
+    "newVersion" : "0.24.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

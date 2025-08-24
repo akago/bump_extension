@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/bval/pull/117",
+  "project" : "bval",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "ce59a8110ee7af236e9cf4eccae651eec11bf6b9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.persistence",
+    "dependencyArtifactID" : "jakarta.persistence-api",
+    "previousVersion" : "3.1.0",
+    "newVersion" : "3.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openmrs/openmrs-core/pull/4912",
+  "project" : "openmrs-core",
+  "projectOrganisation" : "openmrs",
+  "breakingCommit" : "f059dbcf3e1fd139b24c078d739804da0265fa00",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ca.uhn.hapi",
+    "dependencyArtifactID" : "hapi-base",
+    "previousVersion" : "2.1",
+    "newVersion" : "2.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

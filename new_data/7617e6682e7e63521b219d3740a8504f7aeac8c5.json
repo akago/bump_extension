@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-vavr/pull/231",
+  "project" : "assertj-vavr",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "7617e6682e7e63521b219d3740a8504f7aeac8c5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.11.3",
+    "newVersion" : "5.12.0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

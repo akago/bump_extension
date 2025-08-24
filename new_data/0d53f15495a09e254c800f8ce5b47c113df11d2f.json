@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/2153",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "0d53f15495a09e254c800f8ce5b47c113df11d2f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.errorprone",
+    "dependencyArtifactID" : "error_prone_annotations",
+    "previousVersion" : "2.38.0",
+    "newVersion" : "2.39.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

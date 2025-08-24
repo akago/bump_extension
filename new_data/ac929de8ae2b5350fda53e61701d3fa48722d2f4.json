@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/SaptarshiSarkar12/Drifty/pull/769",
+  "project" : "Drifty",
+  "projectOrganisation" : "SaptarshiSarkar12",
+  "breakingCommit" : "ac929de8ae2b5350fda53e61701d3fa48722d2f4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

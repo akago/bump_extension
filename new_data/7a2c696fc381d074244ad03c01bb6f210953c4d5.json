@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rultor/pull/2087",
+  "project" : "rultor",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "7a2c696fc381d074244ad03c01bb6f210953c4d5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.hibernate.validator",
+    "dependencyArtifactID" : "hibernate-validator",
+    "previousVersion" : "6.0.20.Final",
+    "newVersion" : "6.2.0.Final",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

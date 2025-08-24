@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/primefaces/primefaces/pull/12648",
+  "project" : "primefaces",
+  "projectOrganisation" : "primefaces",
+  "breakingCommit" : "e3e6528b798bd00a77f37bbaf5ad682e8da1de07",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.bytebuddy",
+    "dependencyArtifactID" : "byte-buddy",
+    "previousVersion" : "1.15.2",
+    "newVersion" : "1.15.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

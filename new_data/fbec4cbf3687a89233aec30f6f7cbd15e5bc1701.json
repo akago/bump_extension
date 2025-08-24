@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x-extras/pull/169",
+  "project" : "plc4x-extras",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fbec4cbf3687a89233aec30f6f7cbd15e5bc1701",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.checkerframework",
+    "dependencyArtifactID" : "checker-qual",
+    "previousVersion" : "3.45.0",
+    "newVersion" : "3.48.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

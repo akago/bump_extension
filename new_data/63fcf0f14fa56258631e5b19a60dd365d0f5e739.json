@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/958",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "63fcf0f14fa56258631e5b19a60dd365d0f5e739",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-validator",
+    "dependencyArtifactID" : "commons-validator",
+    "previousVersion" : "1.8.0",
+    "newVersion" : "1.9.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

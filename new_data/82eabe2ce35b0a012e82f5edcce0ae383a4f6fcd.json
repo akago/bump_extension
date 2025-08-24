@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/claim-plugin/pull/326",
+  "project" : "claim-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "82eabe2ce35b0a012e82f5edcce0ae383a4f6fcd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-2.452.x",
+    "previousVersion" : "3482.vc10d4f6da_28a_",
+    "newVersion" : "3559.vb_5b_81183b_d23",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

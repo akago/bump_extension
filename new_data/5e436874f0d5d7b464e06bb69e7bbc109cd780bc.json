@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AvarionMC/graves/pull/37",
+  "project" : "graves",
+  "projectOrganisation" : "AvarionMC",
+  "breakingCommit" : "5e436874f0d5d7b464e06bb69e7bbc109cd780bc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sk89q.worldedit",
+    "dependencyArtifactID" : "worldedit-bukkit",
+    "previousVersion" : "7.3.0",
+    "newVersion" : "7.3.4",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

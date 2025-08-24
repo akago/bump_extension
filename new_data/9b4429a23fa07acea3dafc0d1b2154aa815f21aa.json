@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/s3auth/pull/546",
+  "project" : "s3auth",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "9b4429a23fa07acea3dafc0d1b2154aa815f21aa",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.30",
+    "newVersion" : "1.18.38",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

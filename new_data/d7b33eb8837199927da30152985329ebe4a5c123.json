@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tsfile/pull/450",
+  "project" : "tsfile",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "d7b33eb8837199927da30152985329ebe4a5c123",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.luben",
+    "dependencyArtifactID" : "zstd-jni",
+    "previousVersion" : "1.5.6-3",
+    "newVersion" : "1.5.7-2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

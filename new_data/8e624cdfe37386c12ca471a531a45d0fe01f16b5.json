@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkus-qe/quarkus-test-framework/pull/1489",
+  "project" : "quarkus-test-framework",
+  "projectOrganisation" : "quarkus-qe",
+  "breakingCommit" : "8e624cdfe37386c12ca471a531a45d0fe01f16b5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkiverse.artemis",
+    "dependencyArtifactID" : "quarkus-artemis-jms",
+    "previousVersion" : "3.6.1",
+    "newVersion" : "3.6.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

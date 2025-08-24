@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomcat-jakartaee-migration/pull/66",
+  "project" : "tomcat-jakartaee-migration",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f0a4fa6e5933c27e714d4fb866ca43fccacbd08e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.16.1",
+    "newVersion" : "2.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/matteobaccan/html2pop3/pull/568",
+  "project" : "html2pop3",
+  "projectOrganisation" : "matteobaccan",
+  "breakingCommit" : "27ba7ca7c3b9b388faee8503d5c1fb646e4e2a23",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.17.2",
+    "newVersion" : "1.18.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

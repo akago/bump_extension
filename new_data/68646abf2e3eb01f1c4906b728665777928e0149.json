@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jnidzwetzki/bboxdb/pull/585",
+  "project" : "bboxdb",
+  "projectOrganisation" : "jnidzwetzki",
+  "breakingCommit" : "68646abf2e3eb01f1c4906b728665777928e0149",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.xerial.snappy",
+    "dependencyArtifactID" : "snappy-java",
+    "previousVersion" : "1.1.10.5",
+    "newVersion" : "1.1.10.7",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

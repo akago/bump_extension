@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wso2/product-micro-integrator/pull/3671",
+  "project" : "product-micro-integrator",
+  "projectOrganisation" : "wso2",
+  "breakingCommit" : "a5e6f98e4f6828304f932e5cb623401f50db5626",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.avro",
+    "dependencyArtifactID" : "avro",
+    "previousVersion" : "1.11.3",
+    "newVersion" : "1.11.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

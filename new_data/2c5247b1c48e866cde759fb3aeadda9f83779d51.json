@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/cescoffier/langchain4j-deep-dive/pull/77",
+  "project" : "langchain4j-deep-dive",
+  "projectOrganisation" : "cescoffier",
+  "breakingCommit" : "2c5247b1c48e866cde759fb3aeadda9f83779d51",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkiverse.mailpit",
+    "dependencyArtifactID" : "quarkus-mailpit",
+    "previousVersion" : "1.6.1",
+    "newVersion" : "1.6.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

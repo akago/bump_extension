@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/shiro/pull/1752",
+  "project" : "shiro",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "6a64b54b0f6c077622f12a6711929a6ec3e20fa2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.flowlogix",
+    "dependencyArtifactID" : "flowlogix-jee",
+    "previousVersion" : "5.5.4",
+    "newVersion" : "6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

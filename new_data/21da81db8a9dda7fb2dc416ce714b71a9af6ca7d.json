@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/OpenFeign/querydsl/pull/753",
+  "project" : "querydsl",
+  "projectOrganisation" : "OpenFeign",
+  "breakingCommit" : "21da81db8a9dda7fb2dc416ce714b71a9af6ca7d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-testing-frameworks",
+    "previousVersion" : "2.23.1",
+    "newVersion" : "2.24.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

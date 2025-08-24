@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hazendaz/displaytag/pull/864",
+  "project" : "displaytag",
+  "projectOrganisation" : "hazendaz",
+  "breakingCommit" : "f13d2f4e692f554f4e673d46fb06fe17b2ab7516",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.12.1",
+    "newVersion" : "5.12.2",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

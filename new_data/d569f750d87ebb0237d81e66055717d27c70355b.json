@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/streampipes/pull/3144",
+  "project" : "streampipes",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "d569f750d87ebb0237d81e66055717d27c70355b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.testcontainers",
+    "dependencyArtifactID" : "kafka",
+    "previousVersion" : "1.19.0",
+    "newVersion" : "1.20.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

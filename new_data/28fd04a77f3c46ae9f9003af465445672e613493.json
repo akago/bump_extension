@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/feiyuchuixue/sz-boot-parent/pull/87",
+  "project" : "sz-boot-parent",
+  "projectOrganisation" : "feiyuchuixue",
+  "breakingCommit" : "28fd04a77f3c46ae9f9003af465445672e613493",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.swagger.core.v3",
+    "dependencyArtifactID" : "swagger-annotations",
+    "previousVersion" : "2.2.27",
+    "newVersion" : "2.2.28",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

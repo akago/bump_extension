@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jcabi/jcabi-ssl-maven-plugin/pull/63",
+  "project" : "jcabi-ssl-maven-plugin",
+  "projectOrganisation" : "jcabi",
+  "breakingCommit" : "5c6e8b5df5f62e20603ddc0280f1c81e376b9291",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

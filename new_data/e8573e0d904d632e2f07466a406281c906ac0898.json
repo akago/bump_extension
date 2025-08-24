@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sventorben/keycloak-restrict-client-auth/pull/389",
+  "project" : "keycloak-restrict-client-auth",
+  "projectOrganisation" : "sventorben",
+  "breakingCommit" : "e8573e0d904d632e2f07466a406281c906ac0898",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.12.0",
+    "newVersion" : "5.12.2",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

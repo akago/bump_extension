@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/thelastpickle/cassandra-reaper/pull/1588",
+  "project" : "cassandra-reaper",
+  "projectOrganisation" : "thelastpickle",
+  "breakingCommit" : "97602c10754a493c24581cc82e3c1627c4dba8bf",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "javax.annotation",
+    "dependencyArtifactID" : "jsr250-api",
+    "previousVersion" : "1.0",
+    "newVersion" : "1.0-20050927.133100",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

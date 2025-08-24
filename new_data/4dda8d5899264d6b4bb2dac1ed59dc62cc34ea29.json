@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/usdAG/cstc/pull/157",
+  "project" : "cstc",
+  "projectOrganisation" : "usdAG",
+  "breakingCommit" : "4dda8d5899264d6b4bb2dac1ed59dc62cc34ea29",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-core",
+    "previousVersion" : "2.17.2",
+    "newVersion" : "2.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

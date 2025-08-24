@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/BuildCLI/BuildCLI/pull/480",
+  "project" : "BuildCLI",
+  "projectOrganisation" : "BuildCLI",
+  "breakingCommit" : "c4bde21d1c2ea0489990eb031fd6d1193619c06d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jgit",
+    "dependencyArtifactID" : "org.eclipse.jgit",
+    "previousVersion" : "7.1.0.202411261347-r",
+    "newVersion" : "7.2.0.202503040940-r",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

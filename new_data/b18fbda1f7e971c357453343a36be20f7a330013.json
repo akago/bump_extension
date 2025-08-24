@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1093",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "b18fbda1f7e971c357453343a36be20f7a330013",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.doxia",
+    "dependencyArtifactID" : "doxia-core",
+    "previousVersion" : "1.12.0",
+    "newVersion" : "2.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

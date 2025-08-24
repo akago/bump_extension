@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1912",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "dbb1de9176592930ad62614436dfe1862f90fb28",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.fusesource.jansi",
+    "dependencyArtifactID" : "jansi",
+    "previousVersion" : "1.16",
+    "newVersion" : "2.4.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/mimecast/mta-sts/pull/127",
+  "project" : "mta-sts",
+  "projectOrganisation" : "mimecast",
+  "breakingCommit" : "6e0aa9d65d2d00d574a8f88afbbff27c3cc53f4b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.squareup.okhttp3",
+    "dependencyArtifactID" : "okhttp",
+    "previousVersion" : "4.12.0",
+    "newVersion" : "5.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

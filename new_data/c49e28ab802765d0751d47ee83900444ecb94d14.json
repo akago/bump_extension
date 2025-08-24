@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/fluo-recipes/pull/164",
+  "project" : "fluo-recipes",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c49e28ab802765d0751d47ee83900444ecb94d14",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.7",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

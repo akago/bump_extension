@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/spring-cloud/spring-cloud-config/pull/2886",
+  "project" : "spring-cloud-config",
+  "projectOrganisation" : "spring-cloud",
+  "breakingCommit" : "1ab4d9ead812c1336982123ced2d0136ad591ea1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.auth",
+    "dependencyArtifactID" : "google-auth-library-oauth2-http",
+    "previousVersion" : "0.27.0",
+    "newVersion" : "1.37.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

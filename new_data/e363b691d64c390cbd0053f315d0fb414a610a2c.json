@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/matteobaccan/html2pop3/pull/571",
+  "project" : "html2pop3",
+  "projectOrganisation" : "matteobaccan",
+  "breakingCommit" : "e363b691d64c390cbd0053f315d0fb414a610a2c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-codec",
+    "dependencyArtifactID" : "commons-codec",
+    "previousVersion" : "1.17.0",
+    "newVersion" : "1.17.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

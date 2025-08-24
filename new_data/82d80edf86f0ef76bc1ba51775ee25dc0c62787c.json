@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pmd/pmd/pull/5447",
+  "project" : "pmd",
+  "projectOrganisation" : "pmd",
+  "breakingCommit" : "82d80edf86f0ef76bc1ba51775ee25dc0c62787c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.github.apex-dev-tools",
+    "dependencyArtifactID" : "apex-parser",
+    "previousVersion" : "4.3.0",
+    "newVersion" : "4.4.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

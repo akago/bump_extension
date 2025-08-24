@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/urlaubsverwaltung/urlaubsverwaltung/pull/5168",
+  "project" : "urlaubsverwaltung",
+  "projectOrganisation" : "urlaubsverwaltung",
+  "breakingCommit" : "26e85ab62f6838ea2789991094b419b3802882d7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springdoc",
+    "dependencyArtifactID" : "springdoc-openapi-starter-webmvc-ui",
+    "previousVersion" : "2.8.4",
+    "newVersion" : "2.8.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

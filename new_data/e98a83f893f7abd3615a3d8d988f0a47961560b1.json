@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jcabi/jcabi-ssl-maven-plugin/pull/66",
+  "project" : "jcabi-ssl-maven-plugin",
+  "projectOrganisation" : "jcabi",
+  "breakingCommit" : "e98a83f893f7abd3615a3d8d988f0a47961560b1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.hibernate.validator",
+    "dependencyArtifactID" : "hibernate-validator",
+    "previousVersion" : "6.0.20.Final",
+    "newVersion" : "6.2.0.Final",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

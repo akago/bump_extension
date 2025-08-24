@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/bjansen/swagger-schema-validator/pull/113",
+  "project" : "swagger-schema-validator",
+  "projectOrganisation" : "bjansen",
+  "breakingCommit" : "4c771a5f0b66230006c83153538e5715215d5d6d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.swagger",
+    "dependencyArtifactID" : "swagger-core",
+    "previousVersion" : "1.6.15",
+    "newVersion" : "1.6.16",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

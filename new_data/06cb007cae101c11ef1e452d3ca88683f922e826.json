@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/youtrackdb/youtrackdb/pull/436",
+  "project" : "youtrackdb",
+  "projectOrganisation" : "youtrackdb",
+  "breakingCommit" : "06cb007cae101c11ef1e452d3ca88683f922e826",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.4.0-jre",
+    "newVersion" : "33.4.8-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

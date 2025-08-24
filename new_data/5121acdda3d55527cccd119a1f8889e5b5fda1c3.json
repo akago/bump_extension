@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jnidzwetzki/bboxdb/pull/577",
+  "project" : "bboxdb",
+  "projectOrganisation" : "jnidzwetzki",
+  "breakingCommit" : "5121acdda3d55527cccd119a1f8889e5b5fda1c3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.json",
+    "dependencyArtifactID" : "json",
+    "previousVersion" : "20240205",
+    "newVersion" : "20250517",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

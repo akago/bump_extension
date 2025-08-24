@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/awslabs/aws-athena-query-federation/pull/2663",
+  "project" : "aws-athena-query-federation",
+  "projectOrganisation" : "awslabs",
+  "breakingCommit" : "8a939d0ea2509d47c83f14255e7f7e22dc2ee70f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.lettuce",
+    "dependencyArtifactID" : "lettuce-core",
+    "previousVersion" : "6.5.4.RELEASE",
+    "newVersion" : "6.5.5.RELEASE",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

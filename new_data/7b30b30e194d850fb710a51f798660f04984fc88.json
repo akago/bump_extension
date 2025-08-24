@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PBH-BTN/PeerBanHelper/pull/314",
+  "project" : "PeerBanHelper",
+  "projectOrganisation" : "PBH-BTN",
+  "breakingCommit" : "7b30b30e194d850fb710a51f798660f04984fc88",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.dlsc.preferencesfx",
+    "dependencyArtifactID" : "preferencesfx-core",
+    "previousVersion" : "11.8.0",
+    "newVersion" : "11.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

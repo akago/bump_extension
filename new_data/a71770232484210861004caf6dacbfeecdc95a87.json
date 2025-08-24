@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/patrickfav/bcrypt/pull/74",
+  "project" : "bcrypt",
+  "projectOrganisation" : "patrickfav",
+  "breakingCommit" : "a71770232484210861004caf6dacbfeecdc95a87",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-cli",
+    "dependencyArtifactID" : "commons-cli",
+    "previousVersion" : "1.6.0",
+    "newVersion" : "1.8.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

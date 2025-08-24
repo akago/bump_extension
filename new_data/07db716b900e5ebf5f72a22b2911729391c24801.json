@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hoangtien2k3/reactify-core/pull/44",
+  "project" : "reactify-core",
+  "projectOrganisation" : "hoangtien2k3",
+  "breakingCommit" : "07db716b900e5ebf5f72a22b2911729391c24801",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jetty",
+    "dependencyArtifactID" : "jetty-io",
+    "previousVersion" : "12.0.14",
+    "newVersion" : "12.0.16",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

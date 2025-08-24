@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Adyen/adyen-java-api-library/pull/1349",
+  "project" : "adyen-java-api-library",
+  "projectOrganisation" : "Adyen",
+  "breakingCommit" : "1c61986dc0ae9ec3dc3edb2244b2a87e5efbc544",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.swagger.core.v3",
+    "dependencyArtifactID" : "swagger-annotations",
+    "previousVersion" : "2.2.22",
+    "newVersion" : "2.2.30",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

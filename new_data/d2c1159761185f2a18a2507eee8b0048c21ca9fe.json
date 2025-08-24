@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/366",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "d2c1159761185f2a18a2507eee8b0048c21ca9fe",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

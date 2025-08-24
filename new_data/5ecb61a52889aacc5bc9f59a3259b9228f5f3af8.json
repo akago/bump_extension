@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/mailer-plugin/pull/349",
+  "project" : "mailer-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "5ecb61a52889aacc5bc9f59a3259b9228f5f3af8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-${jenkins.baseline}.x",
+    "previousVersion" : "4051.v78dce3ce8b_d6",
+    "newVersion" : "4228.v0a_71308d905b_",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

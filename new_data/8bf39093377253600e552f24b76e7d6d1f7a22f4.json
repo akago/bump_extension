@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hoangtien2k3/reactify-core/pull/50",
+  "project" : "reactify-core",
+  "projectOrganisation" : "hoangtien2k3",
+  "breakingCommit" : "8bf39093377253600e552f24b76e7d6d1f7a22f4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.minio",
+    "dependencyArtifactID" : "minio",
+    "previousVersion" : "8.5.11",
+    "newVersion" : "8.5.17",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

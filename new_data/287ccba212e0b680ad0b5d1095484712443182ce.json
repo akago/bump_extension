@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/youtrackdb/youtrackdb/pull/486",
+  "project" : "youtrackdb",
+  "projectOrganisation" : "youtrackdb",
+  "breakingCommit" : "287ccba212e0b680ad0b5d1095484712443182ce",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-core",
+    "previousVersion" : "2.18.3",
+    "newVersion" : "2.19.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

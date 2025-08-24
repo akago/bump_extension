@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/ingef/conquery/pull/3752",
+  "project" : "conquery",
+  "projectOrganisation" : "ingef",
+  "breakingCommit" : "95aefb0d69e65c0c6ba7bd3dbce87fdbc25be339",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sap.cloud.db.jdbc",
+    "dependencyArtifactID" : "ngdbc",
+    "previousVersion" : "2.17.10",
+    "newVersion" : "2.25.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/unic/neba/pull/453",
+  "project" : "neba",
+  "projectOrganisation" : "unic",
+  "breakingCommit" : "05bd600082da5477634d50af34c2ead87dcdb081",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.2.1",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

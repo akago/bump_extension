@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/smooks/smooks-examples/pull/521",
+  "project" : "smooks-examples",
+  "projectOrganisation" : "smooks",
+  "breakingCommit" : "70c9b9353f2a563f7a64e935045d24af93b84cf9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.activemq",
+    "dependencyArtifactID" : "activemq-broker",
+    "previousVersion" : "5.18.2",
+    "newVersion" : "6.1.6",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

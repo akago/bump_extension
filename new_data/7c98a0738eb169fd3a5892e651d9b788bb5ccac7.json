@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PQCA/cbomkit/pull/233",
+  "project" : "cbomkit",
+  "projectOrganisation" : "PQCA",
+  "breakingCommit" : "7c98a0738eb169fd3a5892e651d9b788bb5ccac7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.github.n1ckl0sk0rtge",
+    "dependencyArtifactID" : "app-bootstrap-core",
+    "previousVersion" : "0.2.11",
+    "newVersion" : "0.2.12",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

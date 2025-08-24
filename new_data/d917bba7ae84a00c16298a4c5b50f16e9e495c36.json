@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/744",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "d917bba7ae84a00c16298a4c5b50f16e9e495c36",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.asciidoctor",
+    "dependencyArtifactID" : "asciidoctorj-pdf",
+    "previousVersion" : "2.3.15",
+    "newVersion" : "2.3.17",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

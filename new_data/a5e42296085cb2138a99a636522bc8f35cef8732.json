@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xembly/pull/200",
+  "project" : "xembly",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "a5e42296085cb2138a99a636522bc8f35cef8732",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xalan",
+    "dependencyArtifactID" : "xalan",
+    "previousVersion" : "2.7.2",
+    "newVersion" : "2.7.3",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

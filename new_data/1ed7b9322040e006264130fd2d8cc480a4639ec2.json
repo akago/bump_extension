@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tinkerpop/pull/3007",
+  "project" : "tinkerpop",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "1ed7b9322040e006264130fd2d8cc480a4639ec2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-logging",
+    "dependencyArtifactID" : "commons-logging",
+    "previousVersion" : "1.2",
+    "newVersion" : "1.3.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

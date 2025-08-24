@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hazendaz/displaytag/pull/868",
+  "project" : "displaytag",
+  "projectOrganisation" : "hazendaz",
+  "breakingCommit" : "4aba1967acafd2138d41942c5e86b10bf0b4eb80",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.18.0",
+    "newVersion" : "2.19.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

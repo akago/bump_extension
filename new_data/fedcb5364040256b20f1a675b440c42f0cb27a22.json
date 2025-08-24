@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x-build-tools/pull/98",
+  "project" : "plc4x-build-tools",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fedcb5364040256b20f1a675b440c42f0cb27a22",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.plugin-tools",
+    "dependencyArtifactID" : "maven-plugin-annotations",
+    "previousVersion" : "3.11.0",
+    "newVersion" : "3.13.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

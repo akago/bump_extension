@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AkshathSai/streamspace/pull/83",
+  "project" : "streamspace",
+  "projectOrganisation" : "AkshathSai",
+  "breakingCommit" : "33ea04f83706d9cdd26df94a4c27f6fa940f381e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springdoc",
+    "dependencyArtifactID" : "springdoc-openapi-starter-webmvc-ui",
+    "previousVersion" : "2.8.3",
+    "newVersion" : "2.8.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

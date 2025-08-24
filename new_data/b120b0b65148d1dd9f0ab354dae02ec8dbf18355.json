@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AvarionMC/graves/pull/40",
+  "project" : "graves",
+  "projectOrganisation" : "AvarionMC",
+  "breakingCommit" : "b120b0b65148d1dd9f0ab354dae02ec8dbf18355",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sk89q.worldguard",
+    "dependencyArtifactID" : "worldguard-bukkit",
+    "previousVersion" : "7.0.9",
+    "newVersion" : "7.0.10",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

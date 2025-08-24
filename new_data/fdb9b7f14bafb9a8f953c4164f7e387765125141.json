@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/myfaces-tobago/pull/5869",
+  "project" : "myfaces-tobago",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fdb9b7f14bafb9a8f953c4164f7e387765125141",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-beanutils",
+    "dependencyArtifactID" : "commons-beanutils",
+    "previousVersion" : "1.9.4",
+    "newVersion" : "1.10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

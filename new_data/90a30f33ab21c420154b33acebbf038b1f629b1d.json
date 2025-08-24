@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/qulice/pull/1230",
+  "project" : "qulice",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "90a30f33ab21c420154b33acebbf038b1f629b1d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-utils",
+    "previousVersion" : "3.5.1",
+    "newVersion" : "4.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

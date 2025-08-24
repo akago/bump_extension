@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/streamthoughts/kafka-connect-file-pulse/pull/687",
+  "project" : "kafka-connect-file-pulse",
+  "projectOrganisation" : "streamthoughts",
+  "breakingCommit" : "8f8ccab2606f0541ca158eb510256a92de8c39f4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.spotbugs",
+    "dependencyArtifactID" : "spotbugs",
+    "previousVersion" : "4.8.5",
+    "newVersion" : "4.8.6",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

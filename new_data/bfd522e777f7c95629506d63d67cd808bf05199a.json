@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paulcwarren/spring-content/pull/2010",
+  "project" : "spring-content",
+  "projectOrganisation" : "paulcwarren",
+  "breakingCommit" : "bfd522e777f7c95629506d63d67cd808bf05199a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.cloud",
+    "dependencyArtifactID" : "google-cloud-storage",
+    "previousVersion" : "2.40.0",
+    "newVersion" : "2.40.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

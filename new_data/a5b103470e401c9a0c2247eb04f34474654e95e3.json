@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1097",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a5b103470e401c9a0c2247eb04f34474654e95e3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.15.1",
+    "newVersion" : "2.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

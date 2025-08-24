@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-indexer/pull/415",
+  "project" : "maven-indexer",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "faac21832f14cad23918cbc3c664143de2872d8b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.3.0-jre",
+    "newVersion" : "33.4.6-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

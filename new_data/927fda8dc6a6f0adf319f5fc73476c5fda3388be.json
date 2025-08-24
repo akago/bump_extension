@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/oracle/opengrok/pull/4703",
+  "project" : "opengrok",
+  "projectOrganisation" : "oracle",
+  "breakingCommit" : "927fda8dc6a6f0adf319f5fc73476c5fda3388be",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.thoughtworks.xstream",
+    "dependencyArtifactID" : "xstream",
+    "previousVersion" : "1.4.20",
+    "newVersion" : "1.4.21",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

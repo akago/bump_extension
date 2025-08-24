@@ -121,6 +121,7 @@ public class GitPatchCache {
         Call request = httpClient.newCall(new Request.Builder()
                 .url(apiUrl)
                 .header("Accept", "application/vnd.github.v3+json")
+                .header("Authorization", "bearer " + accessToken)
                 .build());
         try (var response = request.execute()) {
             if (response.isSuccessful()) {

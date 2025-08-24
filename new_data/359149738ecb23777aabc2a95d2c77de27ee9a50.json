@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/cescoffier/langchain4j-deep-dive/pull/127",
+  "project" : "langchain4j-deep-dive",
+  "projectOrganisation" : "cescoffier",
+  "breakingCommit" : "359149738ecb23777aabc2a95d2c77de27ee9a50",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "dev.langchain4j",
+    "dependencyArtifactID" : "langchain4j-embeddings-bge-small-en-q",
+    "previousVersion" : "1.0.0-beta2",
+    "newVersion" : "1.0.0-beta4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/primefaces/primefaces/pull/13235",
+  "project" : "primefaces",
+  "projectOrganisation" : "primefaces",
+  "breakingCommit" : "99ea3653bbecc1fcdc7bd0234b1cfbaea9e908fa",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.seleniumhq.selenium",
+    "dependencyArtifactID" : "selenium-java",
+    "previousVersion" : "4.28.0",
+    "newVersion" : "4.28.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

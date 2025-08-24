@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/prestodb/presto/pull/23051",
+  "project" : "presto",
+  "projectOrganisation" : "prestodb",
+  "breakingCommit" : "b9da6bb11a0e478fabffb661daffc75fc8e59408",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "it.unimi.dsi",
+    "dependencyArtifactID" : "fastutil",
+    "previousVersion" : "8.5.2",
+    "newVersion" : "8.5.13",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

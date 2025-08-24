@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/green-code-initiative/creedengo-java/pull/90",
+  "project" : "creedengo-java",
+  "projectOrganisation" : "green-code-initiative",
+  "breakingCommit" : "328e6f2fc1a871a20952f3e3e836d203d25a6454",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-beans",
+    "previousVersion" : "5.3.25",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

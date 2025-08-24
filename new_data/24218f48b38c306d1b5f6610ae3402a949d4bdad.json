@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openmessaging/benchmark/pull/425",
+  "project" : "benchmark",
+  "projectOrganisation" : "openmessaging",
+  "breakingCommit" : "24218f48b38c306d1b5f6610ae3402a949d4bdad",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.asynchttpclient",
+    "dependencyArtifactID" : "async-http-client",
+    "previousVersion" : "2.12.3",
+    "newVersion" : "3.0.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

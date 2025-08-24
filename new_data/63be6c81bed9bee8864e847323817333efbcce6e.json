@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkiverse/quarkus-roq/pull/21",
+  "project" : "quarkus-roq",
+  "projectOrganisation" : "quarkiverse",
+  "breakingCommit" : "63be6c81bed9bee8864e847323817333efbcce6e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkiverse.web-bundler",
+    "dependencyArtifactID" : "quarkus-web-bundler",
+    "previousVersion" : "1.5.3",
+    "newVersion" : "1.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkiverse/quarkus-antivirus/pull/68",
+  "project" : "quarkus-antivirus",
+  "projectOrganisation" : "quarkiverse",
+  "breakingCommit" : "214f36dc4d0f9aebe4724eee4007c8e86104f182",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.toolarium",
+    "dependencyArtifactID" : "toolarium-icap-client",
+    "previousVersion" : "1.3.7",
+    "newVersion" : "1.3.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

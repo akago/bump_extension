@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Alfresco/alfresco-transform-core/pull/1006",
+  "project" : "alfresco-transform-core",
+  "projectOrganisation" : "Alfresco",
+  "breakingCommit" : "6a4b9f2a13bdc69914c47133e8cc489d081bdf80",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.2",
+    "newVersion" : "1.27.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

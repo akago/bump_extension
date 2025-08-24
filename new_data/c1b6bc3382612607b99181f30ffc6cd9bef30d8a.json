@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts-examples/pull/462",
+  "project" : "struts-examples",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c1b6bc3382612607b99181f30ffc6cd9bef30d8a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-beanutils",
+    "dependencyArtifactID" : "commons-beanutils",
+    "previousVersion" : "1.10.1",
+    "newVersion" : "1.11.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

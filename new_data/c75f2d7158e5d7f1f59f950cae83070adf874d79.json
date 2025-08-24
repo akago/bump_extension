@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Sigma-Skidder-Team/SigmaRebase/pull/11",
+  "project" : "SigmaRebase",
+  "projectOrganisation" : "Sigma-Skidder-Team",
+  "breakingCommit" : "c75f2d7158e5d7f1f59f950cae83070adf874d79",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-all",
+    "previousVersion" : "4.1.25.Final",
+    "newVersion" : "4.1.42.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

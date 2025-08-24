@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/bitpay/java-bitpay-client/pull/303",
+  "project" : "java-bitpay-client",
+  "projectOrganisation" : "bitpay",
+  "breakingCommit" : "7fbb02bef9f7dc5813a5a7672747914cddc0a907",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.httpcomponents.client5",
+    "dependencyArtifactID" : "httpclient5",
+    "previousVersion" : "5.2.3",
+    "newVersion" : "5.3.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

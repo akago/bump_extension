@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/awslabs/aws-athena-query-federation/pull/2175",
+  "project" : "aws-athena-query-federation",
+  "projectOrganisation" : "awslabs",
+  "breakingCommit" : "fc8cea6033a21397ff0037b662d24f0bc86158e0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.10.3",
+    "newVersion" : "5.11.0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

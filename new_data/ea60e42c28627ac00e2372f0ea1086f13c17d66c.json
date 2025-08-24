@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rultor/pull/2151",
+  "project" : "rultor",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "ea60e42c28627ac00e2372f0ea1086f13c17d66c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.18.0",
+    "newVersion" : "2.19.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

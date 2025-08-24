@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hlpdev/AdvancedBanX/pull/56",
+  "project" : "AdvancedBanX",
+  "projectOrganisation" : "hlpdev",
+  "breakingCommit" : "6ca8f0e8c0269355147ae06eca657b5e7e0dfeda",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "eu.cloudnetservice.cloudnet",
+    "dependencyArtifactID" : "bridge",
+    "previousVersion" : "4.0.0-RC5",
+    "newVersion" : "4.0.0-RC11",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

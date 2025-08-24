@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/matteobaccan/html2pop3/pull/587",
+  "project" : "html2pop3",
+  "projectOrganisation" : "matteobaccan",
+  "breakingCommit" : "3a8b01d69582e2f3cf38c2e9122db33df09699df",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.5.7",
+    "newVersion" : "1.5.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

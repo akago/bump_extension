@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Sigma-Skidder-Team/SigmaRebase/pull/10",
+  "project" : "SigmaRebase",
+  "projectOrganisation" : "Sigma-Skidder-Team",
+  "breakingCommit" : "56db3fc751fcbe734ef81433a0e5323277fa154e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.8.1",
+    "newVersion" : "2.12.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

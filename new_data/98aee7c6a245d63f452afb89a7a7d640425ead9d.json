@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/s3auth/pull/547",
+  "project" : "s3auth",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "98aee7c6a245d63f452afb89a7a7d640425ead9d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.aspectj",
+    "dependencyArtifactID" : "aspectjrt",
+    "previousVersion" : "1.9.21.2",
+    "newVersion" : "1.9.24",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

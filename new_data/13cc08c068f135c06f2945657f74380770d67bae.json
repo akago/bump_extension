@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/primefaces/primefaces/pull/13859",
+  "project" : "primefaces",
+  "projectOrganisation" : "primefaces",
+  "breakingCommit" : "13cc08c068f135c06f2945657f74380770d67bae",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.librepdf",
+    "dependencyArtifactID" : "openpdf",
+    "previousVersion" : "1.4.2",
+    "newVersion" : "2.0.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

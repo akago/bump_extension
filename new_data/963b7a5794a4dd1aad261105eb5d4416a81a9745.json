@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/shrinkwrap/resolver/pull/366",
+  "project" : "resolver",
+  "projectOrganisation" : "shrinkwrap",
+  "breakingCommit" : "963b7a5794a4dd1aad261105eb5d4416a81a9745",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "8.45",
+    "newVersion" : "10.20.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

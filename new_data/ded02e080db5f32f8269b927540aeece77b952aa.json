@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/unic/neba/pull/451",
+  "project" : "neba",
+  "projectOrganisation" : "unic",
+  "breakingCommit" : "ded02e080db5f32f8269b927540aeece77b952aa",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.felix",
+    "dependencyArtifactID" : "org.apache.felix.webconsole",
+    "previousVersion" : "4.2.2",
+    "newVersion" : "4.9.10",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/1955",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "0fee29d34c9109b9a6c407e10e1575c19c63d479",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.json",
+    "dependencyArtifactID" : "json",
+    "previousVersion" : "20240303",
+    "newVersion" : "20241224",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

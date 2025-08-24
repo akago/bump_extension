@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/1933",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "db22d412f61897fca051d1f3bf2feda59aecac0c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.googlejavaformat",
+    "dependencyArtifactID" : "google-java-format",
+    "previousVersion" : "1.24.0",
+    "newVersion" : "1.25.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

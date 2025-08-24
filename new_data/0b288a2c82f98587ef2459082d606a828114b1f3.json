@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/2149",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "0b288a2c82f98587ef2459082d606a828114b1f3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.20.1",
+    "newVersion" : "1.21.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

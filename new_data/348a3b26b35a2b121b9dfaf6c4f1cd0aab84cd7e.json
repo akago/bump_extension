@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/incubator-hugegraph/pull/2707",
+  "project" : "incubator-hugegraph",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "348a3b26b35a2b121b9dfaf6c4f1cd0aab84cd7e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-context",
+    "previousVersion" : "5.3.20",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

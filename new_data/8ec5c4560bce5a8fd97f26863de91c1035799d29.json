@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13641",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8ec5c4560bce5a8fd97f26863de91c1035799d29",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.roaringbitmap",
+    "dependencyArtifactID" : "RoaringBitmap",
+    "previousVersion" : "1.2.0",
+    "newVersion" : "1.2.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

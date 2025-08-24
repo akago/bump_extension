@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vitruv-tools/Vitruv/pull/703",
+  "project" : "Vitruv",
+  "projectOrganisation" : "vitruv-tools",
+  "breakingCommit" : "be1b9c3cb29d5f332476161206514a77d0cf565e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.jupiter",
+    "dependencyArtifactID" : "junit-jupiter-api",
+    "previousVersion" : "5.11.4",
+    "newVersion" : "5.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

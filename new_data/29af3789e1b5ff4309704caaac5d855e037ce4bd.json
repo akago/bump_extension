@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/trinodb/trino/pull/26069",
+  "project" : "trino",
+  "projectOrganisation" : "trinodb",
+  "breakingCommit" : "29af3789e1b5ff4309704caaac5d855e037ce4bd",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.singlestore",
+    "dependencyArtifactID" : "singlestore-jdbc-client",
+    "previousVersion" : "1.2.3",
+    "newVersion" : "1.2.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

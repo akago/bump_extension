@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/git-parameter-plugin/pull/136",
+  "project" : "git-parameter-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "0486ca3219c293cf875410f3429e9cf39c0457de",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-${jenkins.baseline}.x",
+    "previousVersion" : "3559.vb_5b_81183b_d23",
+    "newVersion" : "3613.v584fca_12cf5c",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

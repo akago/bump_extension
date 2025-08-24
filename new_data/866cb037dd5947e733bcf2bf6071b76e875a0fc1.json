@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Ree6-Applications/Ree6/pull/716",
+  "project" : "Ree6",
+  "projectOrganisation" : "Ree6-Applications",
+  "breakingCommit" : "866cb037dd5947e733bcf2bf6071b76e875a0fc1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.sentry",
+    "dependencyArtifactID" : "sentry",
+    "previousVersion" : "8.14.0",
+    "newVersion" : "8.16.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/smooks/smooks-examples/pull/541",
+  "project" : "smooks-examples",
+  "projectOrganisation" : "smooks",
+  "breakingCommit" : "f3fbfcca5b7add1a743b839cead2d45c54683d97",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.hibernate.orm",
+    "dependencyArtifactID" : "hibernate-core",
+    "previousVersion" : "6.6.10.Final",
+    "newVersion" : "7.0.0.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

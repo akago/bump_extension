@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wso2/product-micro-integrator/pull/3559",
+  "project" : "product-micro-integrator",
+  "projectOrganisation" : "wso2",
+  "breakingCommit" : "333a117c7dd8b321ce2ebbc89eb2ed45e4ae9cd7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.activemq",
+    "dependencyArtifactID" : "activemq-client",
+    "previousVersion" : "5.18.1",
+    "newVersion" : "5.18.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

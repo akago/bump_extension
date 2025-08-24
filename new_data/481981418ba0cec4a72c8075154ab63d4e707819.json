@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-resolver/pull/677",
+  "project" : "maven-resolver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "481981418ba0cec4a72c8075154ab63d4e707819",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.ow2.asm",
+    "dependencyArtifactID" : "asm",
+    "previousVersion" : "9.7.1",
+    "newVersion" : "9.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/urlaubsverwaltung/urlaubsverwaltung/pull/5479",
+  "project" : "urlaubsverwaltung",
+  "projectOrganisation" : "urlaubsverwaltung",
+  "breakingCommit" : "f72a5f6f0bbbd6ce58336c4878ce51859fc31b2e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.javacrumbs.shedlock",
+    "dependencyArtifactID" : "shedlock-provider-jdbc-template",
+    "previousVersion" : "6.9.0",
+    "newVersion" : "6.9.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

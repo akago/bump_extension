@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xembly/pull/249",
+  "project" : "xembly",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "438081fd10c7ee7fd148b2f5dc7806b7f461e42c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Other"
+}

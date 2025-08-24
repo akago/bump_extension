@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/16178",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4e6fbdaa635df099bd62290653f2324e8209a74c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "10.25.0",
+    "newVersion" : "10.25.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

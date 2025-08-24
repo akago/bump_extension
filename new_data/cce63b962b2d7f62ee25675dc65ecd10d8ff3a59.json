@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/OpenFeign/querydsl/pull/754",
+  "project" : "querydsl",
+  "projectOrganisation" : "OpenFeign",
+  "breakingCommit" : "cce63b962b2d7f62ee25675dc65ecd10d8ff3a59",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-migrate-java",
+    "previousVersion" : "2.30.1",
+    "newVersion" : "2.31.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

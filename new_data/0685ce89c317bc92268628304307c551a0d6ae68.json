@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/maveniverse/nisse/pull/3",
+  "project" : "nisse",
+  "projectOrganisation" : "maveniverse",
+  "breakingCommit" : "0685ce89c317bc92268628304307c551a0d6ae68",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jgit",
+    "dependencyArtifactID" : "org.eclipse.jgit",
+    "previousVersion" : "5.13.3.202401111512-r",
+    "newVersion" : "6.10.0.202406032230-r",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Eclipse Public License 2.0"
+}

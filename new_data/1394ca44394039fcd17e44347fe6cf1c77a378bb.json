@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hoangtien2k3/reactify-core/pull/46",
+  "project" : "reactify-core",
+  "projectOrganisation" : "hoangtien2k3",
+  "breakingCommit" : "1394ca44394039fcd17e44347fe6cf1c77a378bb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-slf4j-impl",
+    "previousVersion" : "2.23.1",
+    "newVersion" : "2.24.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

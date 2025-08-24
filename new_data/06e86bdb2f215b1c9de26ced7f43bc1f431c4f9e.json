@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/datafusion-contrib/datafusion-sqlancer/pull/32",
+  "project" : "datafusion-sqlancer",
+  "projectOrganisation" : "datafusion-contrib",
+  "breakingCommit" : "06e86bdb2f215b1c9de26ced7f43bc1f431c4f9e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.duckdb",
+    "dependencyArtifactID" : "duckdb_jdbc",
+    "previousVersion" : "0.4.0",
+    "newVersion" : "1.1.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

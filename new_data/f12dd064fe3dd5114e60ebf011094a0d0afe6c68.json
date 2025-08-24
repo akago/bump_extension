@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/myfaces-tobago/pull/6284",
+  "project" : "myfaces-tobago",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f12dd064fe3dd5114e60ebf011094a0d0afe6c68",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-xml",
+    "previousVersion" : "4.0.4",
+    "newVersion" : "4.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/operaton/operaton/pull/642",
+  "project" : "operaton",
+  "projectOrganisation" : "operaton",
+  "breakingCommit" : "b66db522c403b330424915a8290047f2146a6b55",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.python",
+    "dependencyArtifactID" : "jython",
+    "previousVersion" : "2.5.3",
+    "newVersion" : "2.7.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

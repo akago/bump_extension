@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/jackrabbit-oak/pull/1571",
+  "project" : "jackrabbit-oak",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "85810782aa2985ad5cded46366f43faf4ddddcde",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-pool2",
+    "previousVersion" : "2.6.2",
+    "newVersion" : "2.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

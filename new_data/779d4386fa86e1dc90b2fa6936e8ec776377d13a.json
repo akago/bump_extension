@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/streampipes/pull/3419",
+  "project" : "streampipes",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "779d4386fa86e1dc90b2fa6936e8ec776377d13a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-csv",
+    "previousVersion" : "1.10.0",
+    "newVersion" : "1.13.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

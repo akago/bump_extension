@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-generator/pull/230",
+  "project" : "assertj-generator",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "08aedf4020709cf8e9a2489b96220c227e8d4949",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.3.14",
+    "newVersion" : "1.5.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

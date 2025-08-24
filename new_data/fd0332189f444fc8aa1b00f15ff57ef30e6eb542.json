@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/usdAG/cstc/pull/175",
+  "project" : "cstc",
+  "projectOrganisation" : "usdAG",
+  "breakingCommit" : "fd0332189f444fc8aa1b00f15ff57ef30e6eb542",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.portswigger.burp.extensions",
+    "dependencyArtifactID" : "montoya-api",
+    "previousVersion" : "2024.12",
+    "newVersion" : "2025.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

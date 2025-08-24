@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/1095",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f37b155b3df0aeb3c816e366dbd81a1faeafd387",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.woodstox",
+    "dependencyArtifactID" : "woodstox-core",
+    "previousVersion" : "7.1.0",
+    "newVersion" : "7.1.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

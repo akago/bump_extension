@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/usdot-jpo-ode/jpo-ode/pull/588",
+  "project" : "jpo-ode",
+  "projectOrganisation" : "usdot-jpo-ode",
+  "breakingCommit" : "0279eec6fa3a8a3fd84e918537c3ef49b9f76fea",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tinylog-org/tinylog/pull/731",
+  "project" : "tinylog",
+  "projectOrganisation" : "tinylog-org",
+  "breakingCommit" : "8a2844d5fa6db52c359b18867e73798e921271fd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.5.5",
+    "newVersion" : "1.5.12",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paulcwarren/spring-content/pull/2444",
+  "project" : "spring-content",
+  "projectOrganisation" : "paulcwarren",
+  "breakingCommit" : "06d7fd9b5acb78794b53f8ab6128c9c0f6a3dbfb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.azure",
+    "dependencyArtifactID" : "azure-storage-blob",
+    "previousVersion" : "12.30.1",
+    "newVersion" : "12.31.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

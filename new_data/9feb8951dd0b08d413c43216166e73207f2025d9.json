@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hazendaz/displaytag/pull/867",
+  "project" : "displaytag",
+  "projectOrganisation" : "hazendaz",
+  "breakingCommit" : "9feb8951dd0b08d413c43216166e73207f2025d9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-text",
+    "previousVersion" : "1.13.0",
+    "newVersion" : "1.13.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

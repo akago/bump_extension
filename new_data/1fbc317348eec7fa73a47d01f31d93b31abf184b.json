@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/17161",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "1fbc317348eec7fa73a47d01f31d93b31abf184b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.fabric8",
+    "dependencyArtifactID" : "kubernetes-client",
+    "previousVersion" : "6.7.2",
+    "newVersion" : "6.13.4",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

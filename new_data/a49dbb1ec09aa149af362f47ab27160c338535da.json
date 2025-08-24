@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/psi-probe/psi-probe/pull/4229",
+  "project" : "psi-probe",
+  "projectOrganisation" : "psi-probe",
+  "breakingCommit" : "a49dbb1ec09aa149af362f47ab27160c338535da",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-static-analysis",
+    "previousVersion" : "2.0.2",
+    "newVersion" : "2.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "GNU General Public License v2.0"
+}

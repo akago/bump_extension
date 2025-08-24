@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/loyispa/jgc_exporter/pull/128",
+  "project" : "jgc_exporter",
+  "projectOrganisation" : "loyispa",
+  "breakingCommit" : "c26aade18bd74babc405cef10508ace07b5d8072",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.graalvm.sdk",
+    "dependencyArtifactID" : "graal-sdk",
+    "previousVersion" : "24.0.1",
+    "newVersion" : "24.1.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

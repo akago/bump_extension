@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds/pull/621",
+  "project" : "aws-cloudformation-resource-providers-rds",
+  "projectOrganisation" : "aws-cloudformation",
+  "breakingCommit" : "cf746ec5ad8e12c1ccdcf761fc6d984f32d6f5e7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.12.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-resolver/pull/544",
+  "project" : "maven-resolver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a8811e9d2df6f324d5f88903b8f02a6d793bbe30",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.hazelcast",
+    "dependencyArtifactID" : "hazelcast",
+    "previousVersion" : "5.3.7",
+    "newVersion" : "5.5.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/RIPE-NCC/rpki-commons/pull/210",
+  "project" : "rpki-commons",
+  "projectOrganisation" : "RIPE-NCC",
+  "breakingCommit" : "7d1fdafd9bc9d08a5eed54f4611ddf7c802bd694",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.12.2",
+    "newVersion" : "5.13.1",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

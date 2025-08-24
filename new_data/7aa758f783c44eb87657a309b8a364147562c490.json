@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/brenoepics/at4j/pull/114",
+  "project" : "at4j",
+  "projectOrganisation" : "brenoepics",
+  "breakingCommit" : "7aa758f783c44eb87657a309b8a364147562c490",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.jupiter",
+    "dependencyArtifactID" : "junit-jupiter",
+    "previousVersion" : "5.11.0",
+    "newVersion" : "5.11.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/matteobaccan/html2pop3/pull/602",
+  "project" : "html2pop3",
+  "projectOrganisation" : "matteobaccan",
+  "breakingCommit" : "1ef44a4a3ea120d6dc59cec31af5dea8ff597621",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-core",
+    "previousVersion" : "1.5.8",
+    "newVersion" : "1.5.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

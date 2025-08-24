@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AkshathSai/streamspace/pull/73",
+  "project" : "streamspace",
+  "projectOrganisation" : "AkshathSai",
+  "breakingCommit" : "06ae11c201ef7596d2b4b9252a948ff2ae9b8844",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.github.wimdeblauwe",
+    "dependencyArtifactID" : "htmx-spring-boot-thymeleaf",
+    "previousVersion" : "4.0.0",
+    "newVersion" : "4.0.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

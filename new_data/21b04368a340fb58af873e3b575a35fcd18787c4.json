@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tinkerpop/pull/3060",
+  "project" : "tinkerpop",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "21b04368a340fb58af873e3b575a35fcd18787c4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.wildfly.common",
+    "dependencyArtifactID" : "wildfly-common",
+    "previousVersion" : "1.5.4.Final",
+    "newVersion" : "2.0.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

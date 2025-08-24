@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/coverage-plugin/pull/277",
+  "project" : "coverage-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "0fe5df38bd4fc00e83d584dda1b9d984eea852ad",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jenkins-ci",
+    "dependencyArtifactID" : "acceptance-test-harness",
+    "previousVersion" : "6072.vc7e4e6a_970b_c",
+    "newVersion" : "6081.v29b_ce3c2771c",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

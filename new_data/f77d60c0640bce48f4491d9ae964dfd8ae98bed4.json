@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wso2/product-micro-integrator/pull/4265",
+  "project" : "product-micro-integrator",
+  "projectOrganisation" : "wso2",
+  "breakingCommit" : "f77d60c0640bce48f4491d9ae964dfd8ae98bed4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.1",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

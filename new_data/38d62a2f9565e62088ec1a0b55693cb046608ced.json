@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vitruv-tools/Vitruv/pull/653",
+  "project" : "Vitruv",
+  "projectOrganisation" : "vitruv-tools",
+  "breakingCommit" : "38d62a2f9565e62088ec1a0b55693cb046608ced",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.jupiter",
+    "dependencyArtifactID" : "junit-jupiter-api",
+    "previousVersion" : "5.11.3",
+    "newVersion" : "5.11.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

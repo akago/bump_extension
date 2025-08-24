@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/commons-jelly/pull/57",
+  "project" : "commons-jelly",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "cebc2fa4b089da3670d05329d483f48625150444",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-messenger",
+    "dependencyArtifactID" : "commons-messenger",
+    "previousVersion" : "1.0-dev-8",
+    "newVersion" : "1.0-dev-14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

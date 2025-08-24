@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/antlr2ebnf-maven-plugin/pull/83",
+  "project" : "antlr2ebnf-maven-plugin",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "fac73a671299317f70b6aebccfefc9a1867b8c53",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.17.0",
+    "newVersion" : "2.19.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

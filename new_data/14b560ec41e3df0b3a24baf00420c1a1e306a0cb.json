@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/osalvador/ReplicaDB/pull/200",
+  "project" : "ReplicaDB",
+  "projectOrganisation" : "osalvador",
+  "breakingCommit" : "14b560ec41e3df0b3a24baf00420c1a1e306a0cb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.hadoop",
+    "dependencyArtifactID" : "hadoop-common",
+    "previousVersion" : "3.3.2",
+    "newVersion" : "3.4.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

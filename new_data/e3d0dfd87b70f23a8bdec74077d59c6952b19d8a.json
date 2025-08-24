@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/guacamole-client/pull/1034",
+  "project" : "guacamole-client",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e3d0dfd87b70f23a8bdec74077d59c6952b19d8a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.tomcat",
+    "dependencyArtifactID" : "tomcat-catalina",
+    "previousVersion" : "7.0.37",
+    "newVersion" : "9.0.96",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

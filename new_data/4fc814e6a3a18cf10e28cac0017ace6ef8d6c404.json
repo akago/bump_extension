@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/trinodb/trino/pull/24342",
+  "project" : "trino",
+  "projectOrganisation" : "trinodb",
+  "breakingCommit" : "4fc814e6a3a18cf10e28cac0017ace6ef8d6c404",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.trino.hive",
+    "dependencyArtifactID" : "hive-apache-jdbc",
+    "previousVersion" : "0.13.1-9",
+    "newVersion" : "0.13.1-10",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

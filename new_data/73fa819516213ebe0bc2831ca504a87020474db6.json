@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/myfaces-tobago/pull/5717",
+  "project" : "myfaces-tobago",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "73fa819516213ebe0bc2831ca504a87020474db6",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.17.0",
+    "newVersion" : "2.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

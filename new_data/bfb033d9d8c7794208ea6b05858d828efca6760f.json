@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/BuildCLI/BuildCLI/pull/275",
+  "project" : "BuildCLI",
+  "projectOrganisation" : "BuildCLI",
+  "breakingCommit" : "bfb033d9d8c7794208ea6b05858d828efca6760f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.slf4j",
+    "dependencyArtifactID" : "slf4j-api",
+    "previousVersion" : "2.0.16",
+    "newVersion" : "2.0.17",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

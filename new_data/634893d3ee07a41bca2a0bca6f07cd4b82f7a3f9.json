@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/orientechnologies/orientdb/pull/10351",
+  "project" : "orientdb",
+  "projectOrganisation" : "orientechnologies",
+  "breakingCommit" : "634893d3ee07a41bca2a0bca6f07cd4b82f7a3f9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-core",
+    "previousVersion" : "2.18.0",
+    "newVersion" : "2.18.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

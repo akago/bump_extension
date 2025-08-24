@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/premium-minds/wicket-crudifier/pull/161",
+  "project" : "wicket-crudifier",
+  "projectOrganisation" : "premium-minds",
+  "breakingCommit" : "d23bf06a2ea5e7f2440d08083dd04fb3c124caf7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.validation",
+    "dependencyArtifactID" : "jakarta.validation-api",
+    "previousVersion" : "2.0.2",
+    "newVersion" : "3.1.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

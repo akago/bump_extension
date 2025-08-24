@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/awslabs/aws-athena-query-federation/pull/2100",
+  "project" : "aws-athena-query-federation",
+  "projectOrganisation" : "awslabs",
+  "breakingCommit" : "980e53efa8e984a9ccbb8656a07e8fddf1a4e9c3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.rdf4j",
+    "dependencyArtifactID" : "rdf4j-repository-sparql",
+    "previousVersion" : "3.7.7",
+    "newVersion" : "5.0.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

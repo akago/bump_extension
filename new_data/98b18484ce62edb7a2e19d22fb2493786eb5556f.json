@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/tojos/pull/86",
+  "project" : "tojos",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "98b18484ce62edb7a2e19d22fb2493786eb5556f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.yaml",
+    "dependencyArtifactID" : "snakeyaml",
+    "previousVersion" : "2.2",
+    "newVersion" : "2.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

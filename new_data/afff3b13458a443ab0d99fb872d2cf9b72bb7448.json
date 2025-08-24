@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/ozangunalp/kafka-native/pull/305",
+  "project" : "kafka-native",
+  "projectOrganisation" : "ozangunalp",
+  "breakingCommit" : "afff3b13458a443ab0d99fb872d2cf9b72bb7448",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.24.3",
+    "newVersion" : "2.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/361",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "425fd20e65187df2285de6d51bba7a888b3eba42",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "1.0.b2",
+    "newVersion" : "1.4.01",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

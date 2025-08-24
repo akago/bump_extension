@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/softwaremill/jox/pull/119",
+  "project" : "jox",
+  "projectOrganisation" : "softwaremill",
+  "breakingCommit" : "03786632d70234afa0c5af952750c969e98ece55",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jetbrains.kotlinx",
+    "dependencyArtifactID" : "kotlinx-coroutines-core",
+    "previousVersion" : "1.7.3",
+    "newVersion" : "1.10.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/jackrabbit-oak/pull/2327",
+  "project" : "jackrabbit-oak",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "db402d64eb06503701dc6bbc8f5aeb2175680cc8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.postgresql",
+    "dependencyArtifactID" : "postgresql",
+    "previousVersion" : "42.7.4",
+    "newVersion" : "42.7.7",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "profileDependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wildfly/jboss-ejb-client/pull/746",
+  "project" : "jboss-ejb-client",
+  "projectOrganisation" : "wildfly",
+  "breakingCommit" : "79a47fece78a226a84707a0701ba6395d48b3410",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.smallrye.common",
+    "dependencyArtifactID" : "smallrye-common-constraint",
+    "previousVersion" : "2.8.0",
+    "newVersion" : "2.9.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

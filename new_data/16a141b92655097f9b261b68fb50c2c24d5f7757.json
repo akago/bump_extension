@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Hyperfoil/Horreum/pull/2144",
+  "project" : "Horreum",
+  "projectOrganisation" : "Hyperfoil",
+  "breakingCommit" : "16a141b92655097f9b261b68fb50c2c24d5f7757",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.bouncycastle",
+    "dependencyArtifactID" : "bcprov-jdk18on",
+    "previousVersion" : "1.78.1",
+    "newVersion" : "1.79",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

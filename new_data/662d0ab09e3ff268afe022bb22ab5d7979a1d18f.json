@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/BuildCLI/BuildCLI/pull/334",
+  "project" : "BuildCLI",
+  "projectOrganisation" : "BuildCLI",
+  "breakingCommit" : "662d0ab09e3ff268afe022bb22ab5d7979a1d18f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.11.4",
+    "newVersion" : "5.12.1",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/palladian/palladian/pull/103",
+  "project" : "palladian",
+  "projectOrganisation" : "palladian",
+  "breakingCommit" : "5206d9e64f2cfe871e930fb632530f0a08a87226",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

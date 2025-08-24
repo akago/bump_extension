@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/publish-over-ssh-plugin/pull/399",
+  "project" : "publish-over-ssh-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "44b1be8dc76c492274cdd46bdd9f3c7f32922e89",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-${jenkins.baseline}.x",
+    "previousVersion" : "3850.vb_c5319efa_e29",
+    "newVersion" : "4924.v6b_eb_a_79a_d9d0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

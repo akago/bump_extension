@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openmessaging/benchmark/pull/433",
+  "project" : "benchmark",
+  "projectOrganisation" : "openmessaging",
+  "breakingCommit" : "2eece446df9fee915f003c06d86aac281e8dc402",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.kafka",
+    "dependencyArtifactID" : "kafka-clients",
+    "previousVersion" : "3.6.1",
+    "newVersion" : "3.9.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

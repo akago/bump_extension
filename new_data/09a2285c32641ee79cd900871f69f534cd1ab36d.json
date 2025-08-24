@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/s3auth/pull/535",
+  "project" : "s3auth",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "09a2285c32641ee79cd900871f69f534cd1ab36d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.amazonaws",
+    "dependencyArtifactID" : "aws-java-sdk",
+    "previousVersion" : "1.12.649",
+    "newVersion" : "1.12.787",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wso2/product-micro-integrator/pull/4251",
+  "project" : "product-micro-integrator",
+  "projectOrganisation" : "wso2",
+  "breakingCommit" : "8c113bc6bb01cc61881a4109b8c4ff9c0e773323",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.kafka",
+    "dependencyArtifactID" : "kafka_2.13",
+    "previousVersion" : "3.7.1",
+    "newVersion" : "6.0.0-ccs",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

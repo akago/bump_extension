@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/asciidoctor/asciidoctor-maven-plugin/pull/1057",
+  "project" : "asciidoctor-maven-plugin",
+  "projectOrganisation" : "asciidoctor",
+  "breakingCommit" : "f81130f59d493cdc6f68c43203b2e2b212e347d8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.12.1",
+    "newVersion" : "5.13.2",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

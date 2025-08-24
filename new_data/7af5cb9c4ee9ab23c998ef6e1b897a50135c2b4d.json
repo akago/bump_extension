@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/simple-theme-plugin/pull/193",
+  "project" : "simple-theme-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "7af5cb9c4ee9ab23c998ef6e1b897a50135c2b4d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-2.426.x",
+    "previousVersion" : "2675.v1515e14da_7a_6",
+    "newVersion" : "3056.v53343b_a_b_a_850",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

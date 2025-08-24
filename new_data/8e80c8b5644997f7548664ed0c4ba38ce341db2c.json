@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/dadoonet/fscrawler/pull/2111",
+  "project" : "fscrawler",
+  "projectOrganisation" : "dadoonet",
+  "breakingCommit" : "8e80c8b5644997f7548664ed0c4ba38ce341db2c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

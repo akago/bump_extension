@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/volodya-lombrozo/jsmith/pull/101",
+  "project" : "jsmith",
+  "projectOrganisation" : "volodya-lombrozo",
+  "breakingCommit" : "04d656dfa46fa8e4128021b3d39bf3fa9db6d500",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.googlejavaformat",
+    "dependencyArtifactID" : "google-java-format",
+    "previousVersion" : "1.24.0",
+    "newVersion" : "1.25.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws/aws-sdk-java-v2/pull/5467",
+  "project" : "aws-sdk-java-v2",
+  "projectOrganisation" : "aws",
+  "breakingCommit" : "d78f19ad114e61cdedcf220508f5d074955be011",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven",
+    "dependencyArtifactID" : "maven-plugin-api",
+    "previousVersion" : "3.5.0",
+    "newVersion" : "3.9.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

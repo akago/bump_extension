@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/827",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fd2f1305620005a0c82926c8b4bd3d82e89cbcbc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.passay",
+    "dependencyArtifactID" : "passay",
+    "previousVersion" : "1.6.4",
+    "newVersion" : "1.6.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

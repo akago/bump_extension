@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rultor/pull/2156",
+  "project" : "rultor",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "59b786ad2692865d52fc6ef7907b1e60871af5ca",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.18.3",
+    "newVersion" : "1.20.1",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

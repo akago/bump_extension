@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/orbinson/aem-dictionary-translator/pull/101",
+  "project" : "aem-dictionary-translator",
+  "projectOrganisation" : "orbinson",
+  "breakingCommit" : "8add66980f26b0c498b076cdff51c41f291acd8b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-csv",
+    "previousVersion" : "1.12.0",
+    "newVersion" : "1.13.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

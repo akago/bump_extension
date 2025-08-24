@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/cescoffier/langchain4j-deep-dive/pull/74",
+  "project" : "langchain4j-deep-dive",
+  "projectOrganisation" : "cescoffier",
+  "breakingCommit" : "0e6302c10fe82d6e1d05b102c66b3ad70aa3247d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.18.3",
+    "newVersion" : "1.19.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

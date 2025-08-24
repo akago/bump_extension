@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/langchain4j/langchain4j-spring/pull/59",
+  "project" : "langchain4j-spring",
+  "projectOrganisation" : "langchain4j",
+  "breakingCommit" : "3d8bd8ead01254ea6ac4a3bd3321c72359a390fe",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.32",
+    "newVersion" : "1.18.34",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

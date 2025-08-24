@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1394",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4bc8575569e42982b80916055e178cb2ce63270f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.1.7",
+    "newVersion" : "1.5.6",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

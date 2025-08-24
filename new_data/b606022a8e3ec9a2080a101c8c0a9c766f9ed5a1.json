@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paritytrading/philadelphia-extras/pull/148",
+  "project" : "philadelphia-extras",
+  "projectOrganisation" : "paritytrading",
+  "breakingCommit" : "b606022a8e3ec9a2080a101c8c0a9c766f9ed5a1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "9.3",
+    "newVersion" : "10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

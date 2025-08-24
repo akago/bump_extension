@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rehttp/pull/236",
+  "project" : "rehttp",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "d0911c3e9234d3f57d2a88f208e725566e6c7e78",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-http",
+    "previousVersion" : "1.20.1",
+    "newVersion" : "2.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

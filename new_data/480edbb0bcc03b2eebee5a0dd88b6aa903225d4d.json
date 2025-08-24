@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/commons-weaver/pull/20",
+  "project" : "commons-weaver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "480edbb0bcc03b2eebee5a0dd88b6aa903225d4d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jdt",
+    "dependencyArtifactID" : "ecj",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.40.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

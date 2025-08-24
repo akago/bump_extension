@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/0x61nas/alquran-cloud-api/pull/50",
+  "project" : "alquran-cloud-api",
+  "projectOrganisation" : "0x61nas",
+  "breakingCommit" : "cbace012257bb9693df0dd9e5ca19539adb94625",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.17.2",
+    "newVersion" : "2.18.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

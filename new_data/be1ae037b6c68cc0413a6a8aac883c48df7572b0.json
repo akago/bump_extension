@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/psi-probe/psi-probe/pull/4209",
+  "project" : "psi-probe",
+  "projectOrganisation" : "psi-probe",
+  "breakingCommit" : "be1ae037b6c68cc0413a6a8aac883c48df7572b0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-migrate-java",
+    "previousVersion" : "3.0.0",
+    "newVersion" : "3.0.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "GNU General Public License v2.0"
+}

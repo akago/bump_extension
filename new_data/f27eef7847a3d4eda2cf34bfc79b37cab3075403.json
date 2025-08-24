@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/16776",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f27eef7847a3d4eda2cf34bfc79b37cab3075403",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.aliyun.oss",
+    "dependencyArtifactID" : "aliyun-sdk-oss",
+    "previousVersion" : "3.11.3",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

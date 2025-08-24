@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-resolver/pull/686",
+  "project" : "maven-resolver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f7f33e8384173390423b3338dfffbd78ae0a7821",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.12.1",
+    "newVersion" : "2.13.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

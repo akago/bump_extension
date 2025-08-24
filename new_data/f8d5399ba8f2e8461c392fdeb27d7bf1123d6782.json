@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/363",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "f8d5399ba8f2e8461c392fdeb27d7bf1123d6782",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.cactoos",
+    "dependencyArtifactID" : "cactoos",
+    "previousVersion" : "0.56.1",
+    "newVersion" : "0.57.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

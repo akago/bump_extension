@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vitruv-tools/Vitruv/pull/655",
+  "project" : "Vitruv",
+  "projectOrganisation" : "vitruv-tools",
+  "breakingCommit" : "50316c20a3875a43f7abaa78b776fe098cd93592",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mockito",
+    "dependencyArtifactID" : "mockito-core",
+    "previousVersion" : "5.14.2",
+    "newVersion" : "5.15.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

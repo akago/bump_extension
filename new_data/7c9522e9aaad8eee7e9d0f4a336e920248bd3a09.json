@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-generator/pull/226",
+  "project" : "assertj-generator",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "7c9522e9aaad8eee7e9d0f4a336e920248bd3a09",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "28.1-jre",
+    "newVersion" : "33.3.0-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

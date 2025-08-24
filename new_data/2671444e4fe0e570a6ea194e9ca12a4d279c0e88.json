@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/kszbcss/xm4was/pull/339",
+  "project" : "xm4was",
+  "projectOrganisation" : "kszbcss",
+  "breakingCommit" : "2671444e4fe0e570a6ea194e9ca12a4d279c0e88",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.platform",
+    "dependencyArtifactID" : "org.eclipse.equinox.common",
+    "previousVersion" : "3.19.0",
+    "newVersion" : "3.19.100",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

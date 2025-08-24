@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/prebid/prebid-server-java/pull/3846",
+  "project" : "prebid-server-java",
+  "projectOrganisation" : "prebid",
+  "breakingCommit" : "c91ccd4dd1e034b05b5b4ec8687e53f71619941d",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.microsoft.onnxruntime",
+    "dependencyArtifactID" : "onnxruntime",
+    "previousVersion" : "1.20.0",
+    "newVersion" : "1.16.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

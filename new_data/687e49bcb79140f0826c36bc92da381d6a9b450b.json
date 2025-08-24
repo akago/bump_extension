@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/KouShenhai/KCloud-Platform-IoT/pull/3118",
+  "project" : "KCloud-Platform-IoT",
+  "projectOrganisation" : "KouShenhai",
+  "breakingCommit" : "687e49bcb79140f0826c36bc92da381d6a9b450b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.esotericsoftware",
+    "dependencyArtifactID" : "kryo",
+    "previousVersion" : "5.4.0",
+    "newVersion" : "5.6.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1391",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8e4025ff737e3c4ca177029d44a54322988e4dbf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.h2database",
+    "dependencyArtifactID" : "h2",
+    "previousVersion" : "2.2.224",
+    "newVersion" : "2.3.232",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

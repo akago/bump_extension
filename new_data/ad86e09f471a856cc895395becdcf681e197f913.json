@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hoangtien2k3/reactify-core/pull/37",
+  "project" : "reactify-core",
+  "projectOrganisation" : "hoangtien2k3",
+  "breakingCommit" : "ad86e09f471a856cc895395becdcf681e197f913",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.micrometer",
+    "dependencyArtifactID" : "micrometer-registry-prometheus",
+    "previousVersion" : "1.13.1",
+    "newVersion" : "1.14.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

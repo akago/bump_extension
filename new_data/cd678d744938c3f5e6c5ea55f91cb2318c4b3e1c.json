@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/qa-catalogue/pull/637",
+  "project" : "qa-catalogue",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "cd678d744938c3f5e6c5ea55f91cb2318c4b3e1c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-core",
+    "previousVersion" : "2.19.0",
+    "newVersion" : "2.19.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

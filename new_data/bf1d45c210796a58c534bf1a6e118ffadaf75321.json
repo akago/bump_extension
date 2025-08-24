@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj/pull/3814",
+  "project" : "assertj",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "bf1d45c210796a58c534bf1a6e118ffadaf75321",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/micronaut-projects/micronaut-maven-plugin/pull/1177",
+  "project" : "micronaut-maven-plugin",
+  "projectOrganisation" : "micronaut-projects",
+  "breakingCommit" : "5b1d0c450430bc98422034efe735e46745231a59",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.2",
+    "newVersion" : "1.27.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

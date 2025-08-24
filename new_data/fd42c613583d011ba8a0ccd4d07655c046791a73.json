@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-indexer/pull/412",
+  "project" : "maven-indexer",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fd42c613583d011ba8a0ccd4d07655c046791a73",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.18.1",
+    "newVersion" : "1.19.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

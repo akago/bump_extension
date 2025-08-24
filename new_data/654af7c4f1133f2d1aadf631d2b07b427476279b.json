@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/127",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "654af7c4f1133f2d1aadf631d2b07b427476279b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-log",
+    "previousVersion" : "0.21.0",
+    "newVersion" : "0.24.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hyperxpro/Brotli4j/pull/198",
+  "project" : "Brotli4j",
+  "projectOrganisation" : "hyperxpro",
+  "breakingCommit" : "323e8cffbc21fb191f9c845cf2a63ca4d9feecdb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-buffer",
+    "previousVersion" : "4.1.117.Final",
+    "newVersion" : "4.1.118.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

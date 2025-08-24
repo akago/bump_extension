@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/valtech/aem-easy-content-upgrade/pull/259",
+  "project" : "aem-easy-content-upgrade",
+  "projectOrganisation" : "valtech",
+  "breakingCommit" : "6bbcb826373705626844d545eccbb2ac7abbe74a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.8.9",
+    "newVersion" : "2.12.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

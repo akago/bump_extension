@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/16498",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "b85890d63d645afa3ba75728d7d6982f65307a79",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.0",
+    "newVersion" : "1.26.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

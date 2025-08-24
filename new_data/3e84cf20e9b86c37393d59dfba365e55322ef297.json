@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pmd/pmd-eclipse-plugin/pull/234",
+  "project" : "pmd-eclipse-plugin",
+  "projectOrganisation" : "pmd",
+  "breakingCommit" : "3e84cf20e9b86c37393d59dfba365e55322ef297",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.2.13",
+    "newVersion" : "1.5.15",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/MetricsHub/metricshub-community/pull/186",
+  "project" : "metricshub-community",
+  "projectOrganisation" : "MetricsHub",
+  "breakingCommit" : "0fc9651621aa1c71176395791511d3b2b9a1904d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.snmp4j",
+    "dependencyArtifactID" : "snmp4j",
+    "previousVersion" : "3.5.1",
+    "newVersion" : "3.8.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Affero General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/genexuslabs/JavaClasses/pull/984",
+  "project" : "JavaClasses",
+  "projectOrganisation" : "genexuslabs",
+  "breakingCommit" : "6f5b3ce07565de2f561733af763f945a2e6e0e6a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-fileupload",
+    "dependencyArtifactID" : "commons-fileupload",
+    "previousVersion" : "1.5",
+    "newVersion" : "1.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

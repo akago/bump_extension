@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Alfresco/alfresco-transform-core/pull/1096",
+  "project" : "alfresco-transform-core",
+  "projectOrganisation" : "Alfresco",
+  "breakingCommit" : "1ac96e0a24a859eb2bede59e022c48794f585fa9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.dom4j",
+    "dependencyArtifactID" : "dom4j",
+    "previousVersion" : "2.1.4",
+    "newVersion" : "2.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

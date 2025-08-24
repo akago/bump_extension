@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rehttp/pull/358",
+  "project" : "rehttp",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "136fae7ad87768668efe76cc424b655dd635c5ef",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi.incubator",
+    "dependencyArtifactID" : "xembly",
+    "previousVersion" : "0.31.1",
+    "newVersion" : "0.32.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

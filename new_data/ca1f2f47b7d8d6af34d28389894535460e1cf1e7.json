@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/orientechnologies/orientdb/pull/10323",
+  "project" : "orientdb",
+  "projectOrganisation" : "orientechnologies",
+  "breakingCommit" : "ca1f2f47b7d8d6af34d28389894535460e1cf1e7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.17.2",
+    "newVersion" : "2.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

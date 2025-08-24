@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13331",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "dd5f36af5591d540e3a7eeda6396cc9ec6ee7640",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.microsoft.azure",
+    "dependencyArtifactID" : "msal4j",
+    "previousVersion" : "1.15.0",
+    "newVersion" : "1.15.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

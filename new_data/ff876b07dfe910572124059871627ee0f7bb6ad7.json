@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/cxf-fediz/pull/360",
+  "project" : "cxf-fediz",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "ff876b07dfe910572124059871627ee0f7bb6ad7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.sourceforge.pmd",
+    "dependencyArtifactID" : "pmd-core",
+    "previousVersion" : "7.12.0",
+    "newVersion" : "7.13.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

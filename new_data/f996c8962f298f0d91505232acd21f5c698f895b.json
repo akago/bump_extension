@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1283",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f996c8962f298f0d91505232acd21f5c698f895b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-fileupload2-jakarta-servlet6",
+    "previousVersion" : "2.0.0-M2",
+    "newVersion" : "2.0.0-M4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/asciidoctor/asciidoctor-maven-plugin/pull/1053",
+  "project" : "asciidoctor-maven-plugin",
+  "projectOrganisation" : "asciidoctor",
+  "breakingCommit" : "6cfa4a2cae04eb4c87e4595824b32fb5e7d4fde7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-codec-http",
+    "previousVersion" : "4.2.0.Final",
+    "newVersion" : "4.2.1.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

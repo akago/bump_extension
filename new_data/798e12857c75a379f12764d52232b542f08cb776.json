@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Alfresco/alfresco-transform-core/pull/1090",
+  "project" : "alfresco-transform-core",
+  "projectOrganisation" : "Alfresco",
+  "breakingCommit" : "798e12857c75a379f12764d52232b542f08cb776",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.4.0-jre",
+    "newVersion" : "33.4.8-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

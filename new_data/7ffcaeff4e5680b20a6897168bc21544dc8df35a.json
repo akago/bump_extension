@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/cactoos/pull/1768",
+  "project" : "cactoos",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "7ffcaeff4e5680b20a6897168bc21544dc8df35a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "MIT License"
+}

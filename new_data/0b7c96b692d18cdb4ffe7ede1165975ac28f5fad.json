@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1406",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "0b7c96b692d18cdb4ffe7ede1165975ac28f5fad",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.2",
+    "newVersion" : "1.27.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

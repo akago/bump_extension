@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/qa-catalogue/pull/646",
+  "project" : "qa-catalogue",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "f65450d287221427e389b1dab946224f768598cf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.xerial",
+    "dependencyArtifactID" : "sqlite-jdbc",
+    "previousVersion" : "3.49.1.0",
+    "newVersion" : "3.50.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

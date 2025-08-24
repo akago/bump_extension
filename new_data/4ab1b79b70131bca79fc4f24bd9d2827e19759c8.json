@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vaadin/platform/pull/7268",
+  "project" : "platform",
+  "projectOrganisation" : "vaadin",
+  "breakingCommit" : "4ab1b79b70131bca79fc4f24bd9d2827e19759c8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-handler",
+    "previousVersion" : "4.1.116.Final",
+    "newVersion" : "4.1.118.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

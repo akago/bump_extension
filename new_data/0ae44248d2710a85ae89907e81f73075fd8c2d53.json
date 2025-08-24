@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/DataSQRL/flink-sql-runner/pull/29",
+  "project" : "flink-sql-runner",
+  "projectOrganisation" : "DataSQRL",
+  "breakingCommit" : "0ae44248d2710a85ae89907e81f73075fd8c2d53",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.1.0-jre",
+    "newVersion" : "33.4.0-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vitruv-tools/Vitruv/pull/639",
+  "project" : "Vitruv",
+  "projectOrganisation" : "vitruv-tools",
+  "breakingCommit" : "d4ce0940659a0af42a5e9a497163c17318232ac8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.platform",
+    "dependencyArtifactID" : "org.eclipse.equinox.registry",
+    "previousVersion" : "3.12.100",
+    "newVersion" : "3.12.200",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

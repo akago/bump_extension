@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/cescoffier/langchain4j-deep-dive/pull/54",
+  "project" : "langchain4j-deep-dive",
+  "projectOrganisation" : "cescoffier",
+  "breakingCommit" : "8e4e06482a38110e8c2a716d70700267cb1e55e7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkiverse.langchain4j",
+    "dependencyArtifactID" : "quarkus-langchain4j-ollama",
+    "previousVersion" : "0.24.0.CR3",
+    "newVersion" : "0.24.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PBH-BTN/PeerBanHelper/pull/1037",
+  "project" : "PeerBanHelper",
+  "projectOrganisation" : "PBH-BTN",
+  "breakingCommit" : "eaccef96ee38c9f16f563ba4255f674e1e13944e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "me.friwi",
+    "dependencyArtifactID" : "jcefmaven",
+    "previousVersion" : "126.2.0",
+    "newVersion" : "132.3.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

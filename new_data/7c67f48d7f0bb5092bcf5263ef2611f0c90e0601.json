@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkiverse/quarkus-micrometer-registry/pull/491",
+  "project" : "quarkus-micrometer-registry",
+  "projectOrganisation" : "quarkiverse",
+  "breakingCommit" : "7c67f48d7f0bb5092bcf5263ef2611f0c90e0601",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkiverse.googlecloudservices",
+    "dependencyArtifactID" : "quarkus-google-cloud-services-bom",
+    "previousVersion" : "2.7.0",
+    "newVersion" : "2.16.1",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

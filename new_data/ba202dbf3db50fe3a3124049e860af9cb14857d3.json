@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vmware/build-tools-for-vmware-aria/pull/274",
+  "project" : "build-tools-for-vmware-aria",
+  "projectOrganisation" : "vmware",
+  "breakingCommit" : "ba202dbf3db50fe3a3124049e860af9cb14857d3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-web",
+    "previousVersion" : "4.3.25.RELEASE",
+    "newVersion" : "6.0.19",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

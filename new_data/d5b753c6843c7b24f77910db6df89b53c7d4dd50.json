@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/threecopies/pull/75",
+  "project" : "threecopies",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "d5b753c6843c7b24f77910db6df89b53c7d4dd50",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.cactoos",
+    "dependencyArtifactID" : "cactoos",
+    "previousVersion" : "0.54.0",
+    "newVersion" : "0.57.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

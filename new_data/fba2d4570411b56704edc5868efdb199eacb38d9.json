@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/mina-sshd/pull/670",
+  "project" : "mina-sshd",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fba2d4570411b56704edc5868efdb199eacb38d9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mockito",
+    "dependencyArtifactID" : "mockito-junit-jupiter",
+    "previousVersion" : "3.12.4",
+    "newVersion" : "5.16.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

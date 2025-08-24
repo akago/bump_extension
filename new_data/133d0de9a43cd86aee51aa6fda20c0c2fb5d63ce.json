@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/structr/structr/pull/616",
+  "project" : "structr",
+  "projectOrganisation" : "structr",
+  "breakingCommit" : "133d0de9a43cd86aee51aa6fda20c0c2fb5d63ce",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.graphql-java",
+    "dependencyArtifactID" : "graphql-java",
+    "previousVersion" : "12.0",
+    "newVersion" : "19.11",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

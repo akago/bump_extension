@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hoangtien2k3/reactify-core/pull/53",
+  "project" : "reactify-core",
+  "projectOrganisation" : "hoangtien2k3",
+  "breakingCommit" : "06e62f15abf9d11e40e0a0829ad90a2ecb2b6653",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.postgresql",
+    "dependencyArtifactID" : "postgresql",
+    "previousVersion" : "42.7.3",
+    "newVersion" : "42.7.5",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

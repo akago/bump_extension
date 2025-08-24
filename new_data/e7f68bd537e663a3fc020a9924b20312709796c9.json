@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/14005",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e7f68bd537e663a3fc020a9924b20312709796c9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.datasketches",
+    "dependencyArtifactID" : "datasketches-java",
+    "previousVersion" : "6.0.0",
+    "newVersion" : "6.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

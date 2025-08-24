@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/ballcat-projects/ballcat/pull/329",
+  "project" : "ballcat",
+  "projectOrganisation" : "ballcat-projects",
+  "breakingCommit" : "9cb4b65988ab0559d59e544e8de6260e168941da",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.nimbusds",
+    "dependencyArtifactID" : "nimbus-jose-jwt",
+    "previousVersion" : "9.37.2",
+    "newVersion" : "10.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pmd/pmd-eclipse-plugin/pull/218",
+  "project" : "pmd-eclipse-plugin",
+  "projectOrganisation" : "pmd",
+  "breakingCommit" : "592b77bc0a01d2e99e6a045986b56aeef6287b6e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sun.xml.bind",
+    "dependencyArtifactID" : "jaxb-impl",
+    "previousVersion" : "2.3.1",
+    "newVersion" : "4.0.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

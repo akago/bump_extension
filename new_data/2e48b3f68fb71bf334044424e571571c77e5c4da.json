@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/openhab/openhab-core/pull/4768",
+  "project" : "openhab-core",
+  "projectOrganisation" : "openhab",
+  "breakingCommit" : "2e48b3f68fb71bf334044424e571571c77e5c4da",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.platform",
+    "dependencyArtifactID" : "org.eclipse.equinox.event",
+    "previousVersion" : "1.6.200",
+    "newVersion" : "1.7.200",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Eclipse Public License 2.0"
+}

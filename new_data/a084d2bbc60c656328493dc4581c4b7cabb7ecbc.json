@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/IsyFact/isyfact-standards/pull/635",
+  "project" : "isyfact-standards",
+  "projectOrganisation" : "IsyFact",
+  "breakingCommit" : "a084d2bbc60c656328493dc4581c4b7cabb7ecbc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework.security",
+    "dependencyArtifactID" : "spring-security-bom",
+    "previousVersion" : "5.8.15",
+    "newVersion" : "5.8.16",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

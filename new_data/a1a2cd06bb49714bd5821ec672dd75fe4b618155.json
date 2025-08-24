@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/urlaubsverwaltung/urlaubsverwaltung/pull/5043",
+  "project" : "urlaubsverwaltung",
+  "projectOrganisation" : "urlaubsverwaltung",
+  "breakingCommit" : "a1a2cd06bb49714bd5821ec672dd75fe4b618155",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mnode.ical4j",
+    "dependencyArtifactID" : "ical4j",
+    "previousVersion" : "3.2.18",
+    "newVersion" : "4.0.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

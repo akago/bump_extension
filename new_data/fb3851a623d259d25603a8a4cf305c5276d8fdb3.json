@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/arrow-java/pull/504",
+  "project" : "arrow-java",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fb3851a623d259d25603a8a4cf305c5276d8fdb3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-codec",
+    "dependencyArtifactID" : "commons-codec",
+    "previousVersion" : "1.17.1",
+    "newVersion" : "1.17.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

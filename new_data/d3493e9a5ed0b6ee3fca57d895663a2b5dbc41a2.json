@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/ingef/conquery/pull/3764",
+  "project" : "conquery",
+  "projectOrganisation" : "ingef",
+  "breakingCommit" : "d3493e9a5ed0b6ee3fca57d895663a2b5dbc41a2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.keycloak",
+    "dependencyArtifactID" : "keycloak-authz-client",
+    "previousVersion" : "19.0.1",
+    "newVersion" : "26.0.6",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

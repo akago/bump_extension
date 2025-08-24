@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/metadata-qa-api/pull/233",
+  "project" : "metadata-qa-api",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "885ef679ca823475c650de2ab7546cba1d04d8cb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.18.3",
+    "newVersion" : "2.19.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

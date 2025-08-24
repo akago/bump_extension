@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/214",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "e3acb4114b8e8c77bf7a7f9e0a06bd657ec5cc8a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-http",
+    "previousVersion" : "1.20.1",
+    "newVersion" : "2.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

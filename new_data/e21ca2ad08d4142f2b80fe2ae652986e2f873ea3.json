@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tensorflow/java/pull/593",
+  "project" : "java",
+  "projectOrganisation" : "tensorflow",
+  "breakingCommit" : "e21ca2ad08d4142f2b80fe2ae652986e2f873ea3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-core",
+    "previousVersion" : "5.3.32",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

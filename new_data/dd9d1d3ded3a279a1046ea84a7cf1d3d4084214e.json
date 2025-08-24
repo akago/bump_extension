@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/langchain4j/langchain4j-community/pull/179",
+  "project" : "langchain4j-community",
+  "projectOrganisation" : "langchain4j",
+  "breakingCommit" : "dd9d1d3ded3a279a1046ea84a7cf1d3d4084214e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-testing-frameworks",
+    "previousVersion" : "2.24.1",
+    "newVersion" : "3.8.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

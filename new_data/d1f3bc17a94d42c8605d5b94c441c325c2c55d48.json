@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/googleapis/java-spanner/pull/3873",
+  "project" : "java-spanner",
+  "projectOrganisation" : "googleapis",
+  "breakingCommit" : "d1f3bc17a94d42c8605d5b94c441c325c2c55d48",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.api.grpc",
+    "dependencyArtifactID" : "proto-google-cloud-monitoring-v3",
+    "previousVersion" : "3.63.0",
+    "newVersion" : "3.65.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

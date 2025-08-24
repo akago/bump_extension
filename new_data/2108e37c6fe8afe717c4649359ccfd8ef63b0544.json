@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/webhook-step-plugin/pull/306",
+  "project" : "webhook-step-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "2108e37c6fe8afe717c4649359ccfd8ef63b0544",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-${jenkins.baseline}.x",
+    "previousVersion" : "4136.vca_c3202a_7fd1",
+    "newVersion" : "5015.vb_52d36583443",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

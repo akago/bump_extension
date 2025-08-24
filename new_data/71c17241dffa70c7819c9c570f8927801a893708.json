@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/iotdb/pull/13368",
+  "project" : "iotdb",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "71c17241dffa70c7819c9c570f8927801a893708",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.sun.xml.bind",
+    "dependencyArtifactID" : "jaxb-impl",
+    "previousVersion" : "2.3.6",
+    "newVersion" : "2.3.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

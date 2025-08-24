@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/opennlp-sandbox/pull/282",
+  "project" : "opennlp-sandbox",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e46e4578798d242dff4b3712740f11418b87540b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.json",
+    "dependencyArtifactID" : "json",
+    "previousVersion" : "20250107",
+    "newVersion" : "20250517",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

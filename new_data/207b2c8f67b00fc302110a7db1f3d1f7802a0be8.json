@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/wavesplatform/WavesJ/pull/145",
+  "project" : "WavesJ",
+  "projectOrganisation" : "wavesplatform",
+  "breakingCommit" : "207b2c8f67b00fc302110a7db1f3d1f7802a0be8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

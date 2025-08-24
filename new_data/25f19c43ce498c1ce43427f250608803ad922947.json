@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vaadin/platform/pull/7274",
+  "project" : "platform",
+  "projectOrganisation" : "vaadin",
+  "breakingCommit" : "25f19c43ce498c1ce43427f250608803ad922947",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.felix",
+    "dependencyArtifactID" : "org.apache.felix.webconsole",
+    "previousVersion" : "4.5.4",
+    "newVersion" : "4.9.10",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

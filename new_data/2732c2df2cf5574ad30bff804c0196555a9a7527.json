@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/nifi/pull/8956",
+  "project" : "nifi",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "2732c2df2cf5574ad30bff804c0196555a9a7527",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.microsoft.azure",
+    "dependencyArtifactID" : "msal4j",
+    "previousVersion" : "1.15.0",
+    "newVersion" : "1.15.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

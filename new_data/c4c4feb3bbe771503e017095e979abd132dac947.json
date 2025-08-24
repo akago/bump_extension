@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pmd/pmd/pull/5495",
+  "project" : "pmd",
+  "projectOrganisation" : "pmd",
+  "breakingCommit" : "c4c4feb3bbe771503e017095e979abd132dac947",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mozilla",
+    "dependencyArtifactID" : "rhino",
+    "previousVersion" : "1.7.15",
+    "newVersion" : "1.8.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

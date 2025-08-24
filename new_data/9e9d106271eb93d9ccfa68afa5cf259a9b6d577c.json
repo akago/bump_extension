@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rehttp/pull/324",
+  "project" : "rehttp",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "9e9d106271eb93d9ccfa68afa5cf259a9b6d577c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.amazonaws",
+    "dependencyArtifactID" : "aws-java-sdk-dynamodb",
+    "previousVersion" : "1.12.649",
+    "newVersion" : "1.12.787",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

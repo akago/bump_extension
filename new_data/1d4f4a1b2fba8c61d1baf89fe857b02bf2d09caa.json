@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/factcast/factcast/pull/3832",
+  "project" : "factcast",
+  "projectOrganisation" : "factcast",
+  "breakingCommit" : "1d4f4a1b2fba8c61d1baf89fe857b02bf2d09caa",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.squareup.okhttp3",
+    "dependencyArtifactID" : "okhttp",
+    "previousVersion" : "4.12.0",
+    "newVersion" : "5.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pmd/pmd/pull/5421",
+  "project" : "pmd",
+  "projectOrganisation" : "pmd",
+  "breakingCommit" : "345a4da8fe79b6db1e130032b7f3f14d08c08244",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "me.tongfei",
+    "dependencyArtifactID" : "progressbar",
+    "previousVersion" : "0.9.5",
+    "newVersion" : "0.10.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

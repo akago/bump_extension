@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/office-365-connector-plugin/pull/351",
+  "project" : "office-365-connector-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "06141ad7481ff077bed8f68b9ff92eebca618597",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-validator",
+    "dependencyArtifactID" : "commons-validator",
+    "previousVersion" : "1.7",
+    "newVersion" : "1.9.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

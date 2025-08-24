@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/16705",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c437c84a456c786a43fc6025dc70f16f38f00d4e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven",
+    "dependencyArtifactID" : "maven-artifact",
+    "previousVersion" : "3.6.0",
+    "newVersion" : "3.9.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

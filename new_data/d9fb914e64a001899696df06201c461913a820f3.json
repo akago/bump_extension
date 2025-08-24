@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/SaptarshiSarkar12/Drifty/pull/729",
+  "project" : "Drifty",
+  "projectOrganisation" : "SaptarshiSarkar12",
+  "breakingCommit" : "d9fb914e64a001899696df06201c461913a820f3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-static-analysis",
+    "previousVersion" : "1.21.0",
+    "newVersion" : "1.21.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

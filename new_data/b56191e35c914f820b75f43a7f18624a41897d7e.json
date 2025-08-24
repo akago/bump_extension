@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/storm/pull/3720",
+  "project" : "storm",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "b56191e35c914f820b75f43a7f18624a41897d7e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.woodstox",
+    "dependencyArtifactID" : "woodstox-core",
+    "previousVersion" : "5.4.0",
+    "newVersion" : "7.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

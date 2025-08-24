@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-wrapper/pull/162",
+  "project" : "maven-wrapper",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "011db72bc1c7d9cdc42fee0be9ca75aabd9b7ccf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.resolver",
+    "dependencyArtifactID" : "maven-resolver-api",
+    "previousVersion" : "1.9.20",
+    "newVersion" : "1.9.22",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

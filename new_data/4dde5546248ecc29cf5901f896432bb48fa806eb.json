@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/metadata-qa-api/pull/199",
+  "project" : "metadata-qa-api",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "4dde5546248ecc29cf5901f896432bb48fa806eb",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.slf4j",
+    "dependencyArtifactID" : "slf4j-simple",
+    "previousVersion" : "2.0.14",
+    "newVersion" : "2.0.15",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

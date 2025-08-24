@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sculkmp/Sculk/pull/9",
+  "project" : "Sculk",
+  "projectOrganisation" : "sculkmp",
+  "breakingCommit" : "2d59f3c0abf0a056d308e6c126658d8734159f72",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.nimbusds",
+    "dependencyArtifactID" : "nimbus-jose-jwt",
+    "previousVersion" : "9.10.1",
+    "newVersion" : "9.37.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

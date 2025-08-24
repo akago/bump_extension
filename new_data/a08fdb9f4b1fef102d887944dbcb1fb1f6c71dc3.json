@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/878",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a08fdb9f4b1fef102d887944dbcb1fb1f6c71dc3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-framework-bom",
+    "previousVersion" : "6.1.15-SNAPSHOT",
+    "newVersion" : "6.2.0-SNAPSHOT",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

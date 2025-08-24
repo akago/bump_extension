@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/qiunet/DuoDuo/pull/21",
+  "project" : "DuoDuo",
+  "projectOrganisation" : "qiunet",
+  "breakingCommit" : "df22f2631bd39326cd6062cf61dd7468aa887f78",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.12.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/storm/pull/8027",
+  "project" : "storm",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a8d11bd78e51ddaa9a4b5de1a1f6a93c209c93a5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.xbean",
+    "dependencyArtifactID" : "xbean-spring",
+    "previousVersion" : "4.26",
+    "newVersion" : "4.27",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

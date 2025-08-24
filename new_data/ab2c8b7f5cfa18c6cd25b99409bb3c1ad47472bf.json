@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/IsyFact/isyfact-standards/pull/600",
+  "project" : "isyfact-standards",
+  "projectOrganisation" : "IsyFact",
+  "breakingCommit" : "ab2c8b7f5cfa18c6cd25b99409bb3c1ad47472bf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.nimbusds",
+    "dependencyArtifactID" : "nimbus-jose-jwt",
+    "previousVersion" : "9.37.3",
+    "newVersion" : "9.42",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "unknown"
+}

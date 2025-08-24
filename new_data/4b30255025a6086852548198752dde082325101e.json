@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-indexer/pull/688",
+  "project" : "maven-indexer",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4b30255025a6086852548198752dde082325101e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.20.1",
+    "newVersion" : "1.21.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

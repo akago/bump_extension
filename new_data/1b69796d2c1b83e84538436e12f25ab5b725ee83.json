@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkusio/quarkus/pull/45806",
+  "project" : "quarkus",
+  "projectOrganisation" : "quarkusio",
+  "breakingCommit" : "1b69796d2c1b83e84538436e12f25ab5b725ee83",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jetbrains",
+    "dependencyArtifactID" : "annotations",
+    "previousVersion" : "26.0.1",
+    "newVersion" : "26.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rultor/pull/2137",
+  "project" : "rultor",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "df580b46bab1732d2a1dd3fa819f0d529ff4a25e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.xml.bind",
+    "dependencyArtifactID" : "jakarta.xml.bind-api",
+    "previousVersion" : "2.3.2",
+    "newVersion" : "2.3.3",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

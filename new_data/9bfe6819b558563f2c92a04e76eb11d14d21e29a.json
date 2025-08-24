@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/746",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "9bfe6819b558563f2c92a04e76eb11d14d21e29a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.servlet",
+    "dependencyArtifactID" : "jakarta.servlet-api",
+    "previousVersion" : "6.0.0",
+    "newVersion" : "6.1.0",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

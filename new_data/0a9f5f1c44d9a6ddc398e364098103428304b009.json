@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/igniterealtime/Openfire/pull/2946",
+  "project" : "Openfire",
+  "projectOrganisation" : "igniterealtime",
+  "breakingCommit" : "0a9f5f1c44d9a6ddc398e364098103428304b009",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.9",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

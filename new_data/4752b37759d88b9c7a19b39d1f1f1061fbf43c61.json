@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/commons-weaver/pull/32",
+  "project" : "commons-weaver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4752b37759d88b9c7a19b39d1f1f1061fbf43c61",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jdt",
+    "dependencyArtifactID" : "ecj",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.41.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

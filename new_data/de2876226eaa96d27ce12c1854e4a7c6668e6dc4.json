@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/dotCMS/core/pull/29320",
+  "project" : "core",
+  "projectOrganisation" : "dotCMS",
+  "breakingCommit" : "de2876226eaa96d27ce12c1854e4a7c6668e6dc4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "dnsjava",
+    "dependencyArtifactID" : "dnsjava",
+    "previousVersion" : "3.5.3",
+    "newVersion" : "3.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

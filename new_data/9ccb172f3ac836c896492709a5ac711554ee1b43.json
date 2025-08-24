@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/approvals/ApprovalTests.Java/pull/634",
+  "project" : "ApprovalTests.Java",
+  "projectOrganisation" : "approvals",
+  "breakingCommit" : "9ccb172f3ac836c896492709a5ac711554ee1b43",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.jupiter",
+    "dependencyArtifactID" : "junit-jupiter-api",
+    "previousVersion" : "5.11.4",
+    "newVersion" : "5.12.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

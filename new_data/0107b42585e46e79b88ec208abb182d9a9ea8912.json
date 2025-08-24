@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/threecopies/pull/129",
+  "project" : "threecopies",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "0107b42585e46e79b88ec208abb182d9a9ea8912",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.slf4j",
+    "dependencyArtifactID" : "slf4j-log4j12",
+    "previousVersion" : "2.0.9",
+    "newVersion" : "2.0.17",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

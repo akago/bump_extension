@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/KouShenhai/KCloud-Platform-IoT/pull/3728",
+  "project" : "KCloud-Platform-IoT",
+  "projectOrganisation" : "KouShenhai",
+  "breakingCommit" : "b13705a32b55c1f5892721cca5f6ed802e9475f3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jetbrains",
+    "dependencyArtifactID" : "annotations",
+    "previousVersion" : "24.1.0",
+    "newVersion" : "26.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

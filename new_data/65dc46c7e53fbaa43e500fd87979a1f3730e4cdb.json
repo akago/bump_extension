@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/forcedotcom/dataloader/pull/1594",
+  "project" : "dataloader",
+  "projectOrganisation" : "forcedotcom",
+  "breakingCommit" : "65dc46c7e53fbaa43e500fd87979a1f3730e4cdb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.24.3",
+    "newVersion" : "2.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "BSD 3-Clause \"New\" or \"Revised\" License"
+}

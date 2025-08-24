@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws-powertools/powertools-lambda-java/pull/1937",
+  "project" : "powertools-lambda-java",
+  "projectOrganisation" : "aws-powertools",
+  "breakingCommit" : "8f60a72bf2f18b91db38df42f39a82874308724a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.15.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT No Attribution"
+}

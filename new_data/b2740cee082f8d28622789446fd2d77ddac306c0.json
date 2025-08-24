@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/trinodb/trino/pull/26010",
+  "project" : "trino",
+  "projectOrganisation" : "trinodb",
+  "breakingCommit" : "b2740cee082f8d28622789446fd2d77ddac306c0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.postgresql",
+    "dependencyArtifactID" : "postgresql",
+    "previousVersion" : "42.7.6",
+    "newVersion" : "42.7.7",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

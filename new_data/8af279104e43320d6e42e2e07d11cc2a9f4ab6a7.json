@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/EximeeBPMS/eximeebpms/pull/92",
+  "project" : "eximeebpms",
+  "projectOrganisation" : "EximeeBPMS",
+  "breakingCommit" : "8af279104e43320d6e42e2e07d11cc2a9f4ab6a7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-fileupload",
+    "dependencyArtifactID" : "commons-fileupload",
+    "previousVersion" : "1.5",
+    "newVersion" : "1.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

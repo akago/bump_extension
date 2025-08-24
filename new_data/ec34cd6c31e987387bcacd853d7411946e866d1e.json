@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/syncope/pull/925",
+  "project" : "syncope",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "ec34cd6c31e987387bcacd853d7411946e866d1e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jsoup",
+    "dependencyArtifactID" : "jsoup",
+    "previousVersion" : "1.18.2",
+    "newVersion" : "1.18.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xembly/pull/250",
+  "project" : "xembly",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "1285d9ae89f2a32587a2b2d73f9f9791df0dfb3f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.spotbugs",
+    "dependencyArtifactID" : "spotbugs",
+    "previousVersion" : "4.9.1",
+    "newVersion" : "4.9.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Other"
+}

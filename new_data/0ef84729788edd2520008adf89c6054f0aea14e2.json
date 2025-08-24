@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/usdAG/cstc/pull/154",
+  "project" : "cstc",
+  "projectOrganisation" : "usdAG",
+  "breakingCommit" : "0ef84729788edd2520008adf89c6054f0aea14e2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.portswigger.burp.extensions",
+    "dependencyArtifactID" : "montoya-api",
+    "previousVersion" : "2023.12.1",
+    "newVersion" : "2024.7",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

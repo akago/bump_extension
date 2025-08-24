@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jetty/jetty-examples/pull/342",
+  "project" : "jetty-examples",
+  "projectOrganisation" : "jetty",
+  "breakingCommit" : "d286123a418fc3f631220c61d170353d02055039",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-1.2-api",
+    "previousVersion" : "2.24.1",
+    "newVersion" : "2.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

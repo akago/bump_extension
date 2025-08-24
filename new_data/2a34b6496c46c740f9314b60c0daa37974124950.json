@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkusio/quarkus-platform/pull/1528",
+  "project" : "quarkus-platform",
+  "projectOrganisation" : "quarkusio",
+  "breakingCommit" : "2a34b6496c46c740f9314b60c0daa37974124950",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/qa-catalogue/pull/640",
+  "project" : "qa-catalogue",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "641ea20f103ce1df403a76564dee7a9ad34b57e5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.opencsv",
+    "dependencyArtifactID" : "opencsv",
+    "previousVersion" : "5.11.1",
+    "newVersion" : "5.11.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

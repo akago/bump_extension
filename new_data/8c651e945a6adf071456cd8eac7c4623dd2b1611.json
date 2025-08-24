@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws/aws-sdk-java-v2/pull/5182",
+  "project" : "aws-sdk-java-v2",
+  "projectOrganisation" : "aws",
+  "breakingCommit" : "8c651e945a6adf071456cd8eac7c4623dd2b1611",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "unknown",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.spotbugs",
+    "dependencyArtifactID" : "spotbugs",
+    "previousVersion" : "4.2.3",
+    "newVersion" : "4.8.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pinterest/orion/pull/336",
+  "project" : "orion",
+  "projectOrganisation" : "pinterest",
+  "breakingCommit" : "02c24fcbb5687be1ca76ecc65a697fa089543d10",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.9.10.7",
+    "newVersion" : "2.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

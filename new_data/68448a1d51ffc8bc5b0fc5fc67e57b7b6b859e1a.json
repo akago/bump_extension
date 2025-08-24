@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ambari-metrics/pull/156",
+  "project" : "ambari-metrics",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "68448a1d51ffc8bc5b0fc5fc67e57b7b6b859e1a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.httpcomponents",
+    "dependencyArtifactID" : "httpclient",
+    "previousVersion" : "4.5.2",
+    "newVersion" : "4.5.13",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

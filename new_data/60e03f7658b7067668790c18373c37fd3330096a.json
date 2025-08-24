@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-db/pull/305",
+  "project" : "assertj-db",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "60e03f7658b7067668790c18373c37fd3330096a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.assertj",
+    "dependencyArtifactID" : "assertj-core",
+    "previousVersion" : "3.21.0",
+    "newVersion" : "3.27.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

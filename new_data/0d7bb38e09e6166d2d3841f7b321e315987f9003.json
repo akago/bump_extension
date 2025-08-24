@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/paulcwarren/spring-content-gettingstarted/pull/253",
+  "project" : "spring-content-gettingstarted",
+  "projectOrganisation" : "paulcwarren",
+  "breakingCommit" : "0d7bb38e09e6166d2d3841f7b321e315987f9003",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.testcontainers",
+    "dependencyArtifactID" : "vault",
+    "previousVersion" : "1.17.6",
+    "newVersion" : "1.20.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

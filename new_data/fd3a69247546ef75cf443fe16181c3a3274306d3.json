@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PQCA/cbomkit/pull/240",
+  "project" : "cbomkit",
+  "projectOrganisation" : "PQCA",
+  "breakingCommit" : "fd3a69247546ef75cf443fe16181c3a3274306d3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.github.n1ckl0sk0rtge",
+    "dependencyArtifactID" : "app-bootstrap-core",
+    "previousVersion" : "0.2.11",
+    "newVersion" : "0.2.15",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

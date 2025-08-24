@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/awslabs/aws-athena-query-federation/pull/2481",
+  "project" : "aws-athena-query-federation",
+  "projectOrganisation" : "awslabs",
+  "breakingCommit" : "1bfb733775367b6eba0679955ea210f600d0f9c6",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.elasticsearch.client",
+    "dependencyArtifactID" : "elasticsearch-rest-client",
+    "previousVersion" : "8.16.1",
+    "newVersion" : "8.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

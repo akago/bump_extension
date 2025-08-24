@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/google/fhir-gateway/pull/270",
+  "project" : "fhir-gateway",
+  "projectOrganisation" : "google",
+  "breakingCommit" : "53ebd42e5e0ce5a6d2bad839be14fe7a179ed793",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.http-client",
+    "dependencyArtifactID" : "google-http-client-gson",
+    "previousVersion" : "1.44.1",
+    "newVersion" : "1.44.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

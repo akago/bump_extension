@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/threecopies/pull/80",
+  "project" : "threecopies",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "66f32bbcfd39c0705a411e4b6bce3d7292a87cbc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.sentry",
+    "dependencyArtifactID" : "sentry",
+    "previousVersion" : "6.7.1",
+    "newVersion" : "6.34.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

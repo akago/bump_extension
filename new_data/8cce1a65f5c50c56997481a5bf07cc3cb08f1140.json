@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-pdf-plugin/pull/56",
+  "project" : "maven-pdf-plugin",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8cce1a65f5c50c56997481a5bf07cc3cb08f1140",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.16.1",
+    "newVersion" : "2.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

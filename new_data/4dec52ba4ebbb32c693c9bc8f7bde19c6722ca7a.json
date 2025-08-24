@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jstachio/rainbowgum/pull/209",
+  "project" : "rainbowgum",
+  "projectOrganisation" : "jstachio",
+  "breakingCommit" : "4dec52ba4ebbb32c693c9bc8f7bde19c6722ca7a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.rabbitmq",
+    "dependencyArtifactID" : "amqp-client",
+    "previousVersion" : "5.22.0",
+    "newVersion" : "5.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "BSD 3-Clause \"New\" or \"Revised\" License"
+}

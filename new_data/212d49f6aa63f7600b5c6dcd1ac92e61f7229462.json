@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/osalvador/ReplicaDB/pull/201",
+  "project" : "ReplicaDB",
+  "projectOrganisation" : "osalvador",
+  "breakingCommit" : "212d49f6aa63f7600b5c6dcd1ac92e61f7229462",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.8.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/355",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "918bfefcaaaa5b53c24ef527ae51445efefdf0cf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-xml",
+    "previousVersion" : "0.31.0",
+    "newVersion" : "0.35.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

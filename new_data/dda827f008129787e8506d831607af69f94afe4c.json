@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/14482",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "dda827f008129787e8506d831607af69f94afe4c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.openhft",
+    "dependencyArtifactID" : "posix",
+    "previousVersion" : "2.26ea3",
+    "newVersion" : "2.27ea0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

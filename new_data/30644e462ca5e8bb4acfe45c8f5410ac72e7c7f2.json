@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/phisix-org/phisix/pull/449",
+  "project" : "phisix",
+  "projectOrganisation" : "phisix-org",
+  "breakingCommit" : "30644e462ca5e8bb4acfe45c8f5410ac72e7c7f2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.12.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AkshathSai/streamspace/pull/75",
+  "project" : "streamspace",
+  "projectOrganisation" : "AkshathSai",
+  "breakingCommit" : "fc504f2b9220547f0b51e6ec1158fe10b6b42caf",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.3.1-jre",
+    "newVersion" : "33.4.0-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

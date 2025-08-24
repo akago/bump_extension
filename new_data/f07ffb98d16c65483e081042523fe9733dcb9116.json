@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1404",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "f07ffb98d16c65483e081042523fe9733dcb9116",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.plugin-tools",
+    "dependencyArtifactID" : "maven-plugin-annotations",
+    "previousVersion" : "3.3",
+    "newVersion" : "3.13.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

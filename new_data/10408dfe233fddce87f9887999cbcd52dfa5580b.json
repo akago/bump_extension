@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/kszbcss/xm4was/pull/341",
+  "project" : "xm4was",
+  "projectOrganisation" : "kszbcss",
+  "breakingCommit" : "10408dfe233fddce87f9887999cbcd52dfa5580b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.platform",
+    "dependencyArtifactID" : "org.eclipse.core.runtime",
+    "previousVersion" : "3.31.0",
+    "newVersion" : "3.31.100",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ozhera/pull/493",
+  "project" : "ozhera",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "24f645a43e057bacb2ca3c2a4035142977181d36",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-context",
+    "previousVersion" : "5.3.29",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

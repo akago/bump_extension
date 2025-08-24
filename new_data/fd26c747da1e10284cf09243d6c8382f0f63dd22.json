@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Slimefun/dough/pull/259",
+  "project" : "dough",
+  "projectOrganisation" : "Slimefun",
+  "breakingCommit" : "fd26c747da1e10284cf09243d6c8382f0f63dd22",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.papermc",
+    "dependencyArtifactID" : "paperlib",
+    "previousVersion" : "1.0.7",
+    "newVersion" : "1.0.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

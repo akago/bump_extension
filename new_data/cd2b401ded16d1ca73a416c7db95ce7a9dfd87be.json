@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/eclipse-xtext/xtext/pull/3299",
+  "project" : "xtext",
+  "projectOrganisation" : "eclipse-xtext",
+  "breakingCommit" : "cd2b401ded16d1ca73a416c7db95ce7a9dfd87be",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.3.1-jre",
+    "newVersion" : "33.4.0-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 2.0"
+}

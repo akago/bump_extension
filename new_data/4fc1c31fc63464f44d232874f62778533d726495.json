@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/15810",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4fc1c31fc63464f44d232874f62778533d726495",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-utils",
+    "previousVersion" : "${plexus-utils.version}",
+    "newVersion" : "3.5.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

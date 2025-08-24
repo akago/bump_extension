@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pinterest/orion/pull/338",
+  "project" : "orion",
+  "projectOrganisation" : "pinterest",
+  "breakingCommit" : "ef0efda60c407b7d3876707aed2404d965b55ca1",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.8.1",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

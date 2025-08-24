@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj/pull/3662",
+  "project" : "assertj",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "00b6df4f225556d9769e766968fbe9c1dc109d65",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework.boot",
+    "dependencyArtifactID" : "spring-boot-dependencies",
+    "previousVersion" : "3.3.4",
+    "newVersion" : "3.3.5",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/FalconClient/FalconClient/pull/4",
+  "project" : "FalconClient",
+  "projectOrganisation" : "FalconClient",
+  "breakingCommit" : "d123b28e6968f89c0bd63fdbb41a8692cf7a7340",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.0-beta9",
+    "newVersion" : "2.12.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

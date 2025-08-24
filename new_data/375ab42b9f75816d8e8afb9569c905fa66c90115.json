@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/teixeira-fernando/EcommerceApp/pull/176",
+  "project" : "EcommerceApp",
+  "projectOrganisation" : "teixeira-fernando",
+  "breakingCommit" : "375ab42b9f75816d8e8afb9569c905fa66c90115",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.json",
+    "dependencyArtifactID" : "json",
+    "previousVersion" : "20240303",
+    "newVersion" : "20241224",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

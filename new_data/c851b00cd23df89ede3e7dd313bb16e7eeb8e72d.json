@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/avaje/avaje-inject/pull/680",
+  "project" : "avaje-inject",
+  "projectOrganisation" : "avaje",
+  "breakingCommit" : "c851b00cd23df89ede3e7dd313bb16e7eeb8e72d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.github.resilience4j",
+    "dependencyArtifactID" : "resilience4j-retry",
+    "previousVersion" : "1.7.1",
+    "newVersion" : "2.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

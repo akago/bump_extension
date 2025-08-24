@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/wring/pull/101",
+  "project" : "wring",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "87bd2aa05ebcb18a274b93118cf54cdfeac1938e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi.incubator",
+    "dependencyArtifactID" : "xembly",
+    "previousVersion" : "0.28.1",
+    "newVersion" : "0.32.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

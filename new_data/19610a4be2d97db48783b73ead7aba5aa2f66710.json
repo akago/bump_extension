@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/schemacrawler/SchemaCrawler/pull/1974",
+  "project" : "SchemaCrawler",
+  "projectOrganisation" : "schemacrawler",
+  "breakingCommit" : "19610a4be2d97db48783b73ead7aba5aa2f66710",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mariadb.jdbc",
+    "dependencyArtifactID" : "mariadb-java-client",
+    "previousVersion" : "3.5.3",
+    "newVersion" : "3.5.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

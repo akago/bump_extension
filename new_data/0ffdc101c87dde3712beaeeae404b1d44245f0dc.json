@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/maveniverse/nisse/pull/72",
+  "project" : "nisse",
+  "projectOrganisation" : "maveniverse",
+  "breakingCommit" : "0ffdc101c87dde3712beaeeae404b1d44245f0dc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jgit",
+    "dependencyArtifactID" : "org.eclipse.jgit",
+    "previousVersion" : "5.13.3.202401111512-r",
+    "newVersion" : "6.10.1.202505221210-r",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Eclipse Public License 2.0"
+}

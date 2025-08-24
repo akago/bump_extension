@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xsline/pull/262",
+  "project" : "xsline",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "14b33d3beb58f6d305ba25bd5e8317d0062dab64",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-xml",
+    "previousVersion" : "0.33.5",
+    "newVersion" : "0.35.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/loyispa/jgc_exporter/pull/139",
+  "project" : "jgc_exporter",
+  "projectOrganisation" : "loyispa",
+  "breakingCommit" : "e0472adef93f84a813326729d5084bee77985cd5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.dataformat",
+    "dependencyArtifactID" : "jackson-dataformat-yaml",
+    "previousVersion" : "2.17.0",
+    "newVersion" : "2.18.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

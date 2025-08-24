@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tinylog-org/tinylog/pull/781",
+  "project" : "tinylog",
+  "projectOrganisation" : "tinylog-org",
+  "breakingCommit" : "c011bde2c2b67ba63b98377c7a5bfa2727514f47",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.23.1",
+    "newVersion" : "2.24.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

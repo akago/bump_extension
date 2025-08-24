@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkiverse/quarkus-primefaces/pull/320",
+  "project" : "quarkus-primefaces",
+  "projectOrganisation" : "quarkiverse",
+  "breakingCommit" : "8d027734b24df0c923b08215c79ef80c80909467",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.googlecode.libphonenumber",
+    "dependencyArtifactID" : "libphonenumber",
+    "previousVersion" : "8.13.54",
+    "newVersion" : "8.13.55",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

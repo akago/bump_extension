@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/VertaAI/modeldb/pull/4550",
+  "project" : "modeldb",
+  "projectOrganisation" : "VertaAI",
+  "breakingCommit" : "e35b688e054e4f341f76191bebc254fdee58ea03",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.prometheus.jmx",
+    "dependencyArtifactID" : "collector",
+    "previousVersion" : "0.20.0",
+    "newVersion" : "1.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

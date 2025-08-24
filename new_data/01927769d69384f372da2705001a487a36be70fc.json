@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/causeway/pull/2433",
+  "project" : "causeway",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "01927769d69384f372da2705001a487a36be70fc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.persistence",
+    "dependencyArtifactID" : "org.eclipse.persistence.moxy",
+    "previousVersion" : "2.7.14",
+    "newVersion" : "2.7.15",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

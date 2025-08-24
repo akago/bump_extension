@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/mimecast/mta-sts/pull/92",
+  "project" : "mta-sts",
+  "projectOrganisation" : "mimecast",
+  "breakingCommit" : "0e9e28350aff517c0c389f8fb3a93e18d1ce707c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-core",
+    "previousVersion" : "2.23.1",
+    "newVersion" : "2.24.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PBH-BTN/PeerBanHelper/pull/1169",
+  "project" : "PeerBanHelper",
+  "projectOrganisation" : "PBH-BTN",
+  "breakingCommit" : "dc5930d2449b52b3199326f4a391748bdb61dade",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.bouncycastle",
+    "dependencyArtifactID" : "bcprov-jdk18on",
+    "previousVersion" : "1.80",
+    "newVersion" : "1.81",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

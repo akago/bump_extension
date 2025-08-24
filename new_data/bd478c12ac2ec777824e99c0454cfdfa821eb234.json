@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/124",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "bd478c12ac2ec777824e99c0454cfdfa821eb234",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi.incubator",
+    "dependencyArtifactID" : "xembly",
+    "previousVersion" : "0.26.2",
+    "newVersion" : "0.32.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

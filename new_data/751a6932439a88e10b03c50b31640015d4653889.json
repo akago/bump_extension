@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rehttp/pull/211",
+  "project" : "rehttp",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "751a6932439a88e10b03c50b31640015d4653889",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.28",
+    "newVersion" : "1.18.38",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

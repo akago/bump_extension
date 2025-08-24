@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xembly/pull/187",
+  "project" : "xembly",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "6c3f76a4dcd0bfee6f0a0c551f8f9d2131058941",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.30",
+    "newVersion" : "1.18.34",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

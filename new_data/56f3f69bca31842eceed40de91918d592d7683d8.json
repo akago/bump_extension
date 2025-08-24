@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkusio/quarkus/pull/43683",
+  "project" : "quarkus",
+  "projectOrganisation" : "quarkusio",
+  "breakingCommit" : "56f3f69bca31842eceed40de91918d592d7683d8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.5",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

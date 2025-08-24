@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/opennlp-sandbox/pull/147",
+  "project" : "opennlp-sandbox",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "eb3f39a667d66bb1bd661ecced978704abd16001",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.solr",
+    "dependencyArtifactID" : "solr-core",
+    "previousVersion" : "8.11.3",
+    "newVersion" : "9.6.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

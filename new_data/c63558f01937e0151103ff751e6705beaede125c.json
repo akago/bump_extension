@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/rehttp/pull/361",
+  "project" : "rehttp",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "c63558f01937e0151103ff751e6705beaede125c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "1.4.01",
+    "newVersion" : "1.0.b2",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

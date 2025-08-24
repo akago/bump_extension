@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/loyispa/jgc_exporter/pull/140",
+  "project" : "jgc_exporter",
+  "projectOrganisation" : "loyispa",
+  "breakingCommit" : "1ecbfe0774991c1fc36bb013887da9729373785a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-classic",
+    "previousVersion" : "1.5.12",
+    "newVersion" : "1.5.17",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

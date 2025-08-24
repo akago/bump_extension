@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/1861",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "5278774242f7bcda6bb032a87e1c6007dde77c53",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jetbrains.kotlin",
+    "dependencyArtifactID" : "kotlin-stdlib-jdk8",
+    "previousVersion" : "2.0.20",
+    "newVersion" : "2.0.21",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

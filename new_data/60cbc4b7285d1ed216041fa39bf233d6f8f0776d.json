@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/s3auth/pull/554",
+  "project" : "s3auth",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "60cbc4b7285d1ed216041fa39bf233d6f8f0776d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

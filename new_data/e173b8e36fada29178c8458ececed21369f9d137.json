@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/takes/pull/1316",
+  "project" : "takes",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "e173b8e36fada29178c8458ececed21369f9d137",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.antlr",
+    "dependencyArtifactID" : "antlr4-runtime",
+    "previousVersion" : "4.13.1",
+    "newVersion" : "4.13.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

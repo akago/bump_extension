@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/approvals/ApprovalTests.Java/pull/627",
+  "project" : "ApprovalTests.Java",
+  "projectOrganisation" : "approvals",
+  "breakingCommit" : "0ff3c75a5e192af012142ebe82457a7c4bb415ec",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-annotations",
+    "previousVersion" : "2.18.2",
+    "newVersion" : "2.18.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

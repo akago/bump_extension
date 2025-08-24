@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws-greengrass/aws-greengrass-log-manager/pull/223",
+  "project" : "aws-greengrass-log-manager",
+  "projectOrganisation" : "aws-greengrass",
+  "breakingCommit" : "68ceebd7710691096d70b7c9982682488b0f32e3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-core",
+    "previousVersion" : "1.3.14",
+    "newVersion" : "1.5.13",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/premium-minds/billy/pull/558",
+  "project" : "billy",
+  "projectOrganisation" : "premium-minds",
+  "breakingCommit" : "5b797836534b875ce9841f53017dfe267b625e94",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jvnet.jaxb2_commons",
+    "dependencyArtifactID" : "jaxb2-basics-runtime",
+    "previousVersion" : "0.13.1",
+    "newVersion" : "2.0.12",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/hazendaz/displaytag/pull/742",
+  "project" : "displaytag",
+  "projectOrganisation" : "hazendaz",
+  "breakingCommit" : "21401fae81545b625081fc5dd18e0f3e9d1d572b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.struts",
+    "dependencyArtifactID" : "struts2-core",
+    "previousVersion" : "6.4.0",
+    "newVersion" : "6.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

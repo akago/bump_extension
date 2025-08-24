@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkus-qe/beefy-scenarios/pull/509",
+  "project" : "beefy-scenarios",
+  "projectOrganisation" : "quarkus-qe",
+  "breakingCommit" : "d23797f33b5e5899ceb6b88438206cf31e4fbf09",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.java.dev.jna",
+    "dependencyArtifactID" : "jna-platform",
+    "previousVersion" : "5.14.0",
+    "newVersion" : "5.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

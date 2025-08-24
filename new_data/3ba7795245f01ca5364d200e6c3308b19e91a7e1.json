@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/uPortal-Project/NewsReaderPortlet/pull/385",
+  "project" : "NewsReaderPortlet",
+  "projectOrganisation" : "uPortal-Project",
+  "breakingCommit" : "3ba7795245f01ca5364d200e6c3308b19e91a7e1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-databind",
+    "previousVersion" : "2.14.1",
+    "newVersion" : "2.17.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/volodya-lombrozo/jsmith/pull/138",
+  "project" : "jsmith",
+  "projectOrganisation" : "volodya-lombrozo",
+  "breakingCommit" : "daa6bd41620b43093938a6467d9289025ca0c6b5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jdt",
+    "dependencyArtifactID" : "org.eclipse.jdt.core",
+    "previousVersion" : "3.10.0",
+    "newVersion" : "3.40.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

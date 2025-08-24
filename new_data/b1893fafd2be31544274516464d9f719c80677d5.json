@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/zzh1991/React-SpringBoot/pull/260",
+  "project" : "React-SpringBoot",
+  "projectOrganisation" : "zzh1991",
+  "breakingCommit" : "b1893fafd2be31544274516464d9f719c80677d5",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.flywaydb",
+    "dependencyArtifactID" : "flyway-database-postgresql",
+    "previousVersion" : "10.10.0",
+    "newVersion" : "11.0.0",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

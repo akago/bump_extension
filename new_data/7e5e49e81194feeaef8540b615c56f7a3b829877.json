@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1000",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "7e5e49e81194feeaef8540b615c56f7a3b829877",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

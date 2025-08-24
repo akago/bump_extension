@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1177",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "49da532984ccb46e29782814dbbe874f7ec09e5e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.servlet",
+    "dependencyArtifactID" : "jakarta.servlet-api",
+    "previousVersion" : "6.0.0",
+    "newVersion" : "6.1.0",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PQCA/sonar-cryptography/pull/25",
+  "project" : "sonar-cryptography",
+  "projectOrganisation" : "PQCA",
+  "breakingCommit" : "419c6a0f19e99d7cf3be31a38fbcbdb3351ecc81",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.cyclonedx",
+    "dependencyArtifactID" : "cyclonedx-core-java",
+    "previousVersion" : "9.0.2",
+    "newVersion" : "9.0.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

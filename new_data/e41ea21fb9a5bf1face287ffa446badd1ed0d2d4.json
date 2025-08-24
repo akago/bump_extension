@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/16405",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "e41ea21fb9a5bf1face287ffa446badd1ed0d2d4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.lmax",
+    "dependencyArtifactID" : "disruptor",
+    "previousVersion" : "3.3.6",
+    "newVersion" : "4.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

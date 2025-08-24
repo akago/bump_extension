@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/firebase/firebase-admin-java/pull/1098",
+  "project" : "firebase-admin-java",
+  "projectOrganisation" : "firebase",
+  "breakingCommit" : "9fd2c485538e19c390ead7fbd841ea57a515721b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.httpcomponents.client5",
+    "dependencyArtifactID" : "httpclient5",
+    "previousVersion" : "5.3.1",
+    "newVersion" : "5.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

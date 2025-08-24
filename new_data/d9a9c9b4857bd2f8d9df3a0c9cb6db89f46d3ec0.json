@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws/serverless-java-container/pull/1481",
+  "project" : "serverless-java-container",
+  "projectOrganisation" : "aws",
+  "breakingCommit" : "d9a9c9b4857bd2f8d9df3a0c9cb6db89f46d3ec0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-fileupload2-jakarta-servlet6",
+    "previousVersion" : "2.0.0-M2",
+    "newVersion" : "2.0.0-M4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

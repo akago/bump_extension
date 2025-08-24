@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ambari-metrics/pull/152",
+  "project" : "ambari-metrics",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "ea2e2efe50f283ff6556cccc0a906a7d311a436a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jetty",
+    "dependencyArtifactID" : "jetty-webapp",
+    "previousVersion" : "9.2.11.v20150529",
+    "newVersion" : "9.4.33.v20201020",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

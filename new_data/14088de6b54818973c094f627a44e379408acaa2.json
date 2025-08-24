@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/incubator-hugegraph/pull/2832",
+  "project" : "incubator-hugegraph",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "14088de6b54818973c094f627a44e379408acaa2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.12.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

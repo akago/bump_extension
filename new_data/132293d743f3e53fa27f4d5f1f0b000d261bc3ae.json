@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/OpenFeign/querydsl/pull/863",
+  "project" : "querydsl",
+  "projectOrganisation" : "OpenFeign",
+  "breakingCommit" : "132293d743f3e53fa27f4d5f1f0b000d261bc3ae",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.smallrye",
+    "dependencyArtifactID" : "jandex",
+    "previousVersion" : "3.2.3",
+    "newVersion" : "3.2.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13740",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "67c22ba643dc119d3963ad40ebe2e5c7806c132e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.glassfish.tyrus.bundles",
+    "dependencyArtifactID" : "tyrus-standalone-client",
+    "previousVersion" : "2.1.5",
+    "newVersion" : "2.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

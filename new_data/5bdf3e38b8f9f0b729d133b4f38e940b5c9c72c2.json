@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/EximeeBPMS/eximeebpms/pull/62",
+  "project" : "eximeebpms",
+  "projectOrganisation" : "EximeeBPMS",
+  "breakingCommit" : "5bdf3e38b8f9f0b729d133b4f38e940b5c9c72c2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "wsdl4j",
+    "dependencyArtifactID" : "wsdl4j",
+    "previousVersion" : "1.6.2",
+    "newVersion" : "1.6.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

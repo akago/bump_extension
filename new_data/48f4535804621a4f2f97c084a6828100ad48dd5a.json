@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/1867",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "48f4535804621a4f2f97c084a6828100ad48dd5a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.shared",
+    "dependencyArtifactID" : "maven-dependency-analyzer",
+    "previousVersion" : "1.15.0",
+    "newVersion" : "1.15.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

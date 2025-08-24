@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sfuhrm/radiobrowser4j/pull/121",
+  "project" : "radiobrowser4j",
+  "projectOrganisation" : "sfuhrm",
+  "breakingCommit" : "98d68235428d492abc420b9bfa25e7f284fa7e9e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.32",
+    "newVersion" : "1.18.34",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

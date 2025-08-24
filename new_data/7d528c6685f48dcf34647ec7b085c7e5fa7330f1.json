@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/118",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "7d528c6685f48dcf34647ec7b085c7e5fa7330f1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.doxia",
+    "dependencyArtifactID" : "doxia-site-renderer",
+    "previousVersion" : "2.0.0-M3",
+    "newVersion" : "2.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

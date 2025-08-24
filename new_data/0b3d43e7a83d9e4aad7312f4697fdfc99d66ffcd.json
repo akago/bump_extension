@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/FalconClient/FalconClient/pull/5",
+  "project" : "FalconClient",
+  "projectOrganisation" : "FalconClient",
+  "breakingCommit" : "0b3d43e7a83d9e4aad7312f4697fdfc99d66ffcd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-all",
+    "previousVersion" : "4.0.23.Final",
+    "newVersion" : "4.1.42.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

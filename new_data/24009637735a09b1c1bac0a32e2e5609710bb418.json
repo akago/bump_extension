@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/FalkorDB/JFalkorDB/pull/124",
+  "project" : "JFalkorDB",
+  "projectOrganisation" : "FalkorDB",
+  "breakingCommit" : "24009637735a09b1c1bac0a32e2e5609710bb418",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "redis.clients",
+    "dependencyArtifactID" : "jedis",
+    "previousVersion" : "3.10.0",
+    "newVersion" : "6.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "BSD 3-Clause \"New\" or \"Revised\" License"
+}

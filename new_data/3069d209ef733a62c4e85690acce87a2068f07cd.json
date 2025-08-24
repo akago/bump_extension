@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13811",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "3069d209ef733a62c4e85690acce87a2068f07cd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.h2database",
+    "dependencyArtifactID" : "h2",
+    "previousVersion" : "2.3.230",
+    "newVersion" : "2.3.232",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

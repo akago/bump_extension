@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/eclipse-osgi-technology/osgi.enroute/pull/217",
+  "project" : "osgi.enroute",
+  "projectOrganisation" : "eclipse-osgi-technology",
+  "breakingCommit" : "a852aaca223e94fa87b35d759a71eb4865d42a18",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ch.qos.logback",
+    "dependencyArtifactID" : "logback-core",
+    "previousVersion" : "1.2.3",
+    "newVersion" : "1.3.15",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/soot-oss/SootUp/pull/1243",
+  "project" : "SootUp",
+  "projectOrganisation" : "soot-oss",
+  "breakingCommit" : "5185dc255223fc6d38f968541b6bd3e7e5bd93fb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.4.0-jre",
+    "newVersion" : "33.4.5-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v2.1"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/antlr2ebnf-maven-plugin/pull/85",
+  "project" : "antlr2ebnf-maven-plugin",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "7400725faf243957012a0a9aecb9683c50e60ab1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.yegor256",
+    "dependencyArtifactID" : "xsline",
+    "previousVersion" : "0.21.1",
+    "newVersion" : "0.23.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

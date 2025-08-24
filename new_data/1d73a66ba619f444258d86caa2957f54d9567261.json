@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven-resolver/pull/683",
+  "project" : "maven-resolver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "1d73a66ba619f444258d86caa2957f54d9567261",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-xml",
+    "previousVersion" : "3.0.1",
+    "newVersion" : "4.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

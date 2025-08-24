@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pkiraly/qa-catalogue/pull/643",
+  "project" : "qa-catalogue",
+  "projectOrganisation" : "pkiraly",
+  "breakingCommit" : "8710ad9493027df8ba5d979eb957d2ece8f05820",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.solr",
+    "dependencyArtifactID" : "solr-solrj",
+    "previousVersion" : "9.6.1",
+    "newVersion" : "9.8.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

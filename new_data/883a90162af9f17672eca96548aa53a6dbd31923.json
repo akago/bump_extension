@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vincentrussell/sql-to-mongo-db-query-converter/pull/81",
+  "project" : "sql-to-mongo-db-query-converter",
+  "projectOrganisation" : "vincentrussell",
+  "breakingCommit" : "883a90162af9f17672eca96548aa53a6dbd31923",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

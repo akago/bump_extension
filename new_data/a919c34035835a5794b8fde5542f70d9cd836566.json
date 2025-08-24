@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/14263",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a919c34035835a5794b8fde5542f70d9cd836566",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "it.unimi.dsi",
+    "dependencyArtifactID" : "fastutil",
+    "previousVersion" : "8.5.14",
+    "newVersion" : "8.5.15",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aliyun/dataworks-spec/pull/47",
+  "project" : "dataworks-spec",
+  "projectOrganisation" : "aliyun",
+  "breakingCommit" : "471ac2d3a661e543ea1bb40de0f257f39f6c5d47",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-core",
+    "previousVersion" : "5.3.35",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

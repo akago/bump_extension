@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/961",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "86b14c706284e43239fc30367fbe5b1264855e61",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.0",
+    "newVersion" : "1.26.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

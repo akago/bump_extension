@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AvarionMC/graves/pull/99",
+  "project" : "graves",
+  "projectOrganisation" : "AvarionMC",
+  "breakingCommit" : "87214b0e191055110f58058b7966ca5d4b214b6e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.palmergames.bukkit.towny",
+    "dependencyArtifactID" : "towny",
+    "previousVersion" : "0.100.4.7",
+    "newVersion" : "0.100.4.9",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

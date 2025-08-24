@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/arrow-java/pull/746",
+  "project" : "arrow-java",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "a8565589a57e0d64da38187de7a9e3c451f0b1ee",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.luben",
+    "dependencyArtifactID" : "zstd-jni",
+    "previousVersion" : "1.5.7-2",
+    "newVersion" : "1.5.7-3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

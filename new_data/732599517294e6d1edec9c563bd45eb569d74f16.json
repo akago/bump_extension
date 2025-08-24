@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/zxing/zxing/pull/1941",
+  "project" : "zxing",
+  "projectOrganisation" : "zxing",
+  "breakingCommit" : "732599517294e6d1edec9c563bd45eb569d74f16",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "9.3",
+    "newVersion" : "10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

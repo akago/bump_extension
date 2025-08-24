@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/log-parser-plugin/pull/123",
+  "project" : "log-parser-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "31dd05ca83045920fd2331952c9f443ace462a0e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-2.440.x",
+    "previousVersion" : "3307.v2769886db_63b_",
+    "newVersion" : "3334.v18e2a_2f48356",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

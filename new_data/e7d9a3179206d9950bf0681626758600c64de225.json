@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkusio/quarkus/pull/46545",
+  "project" : "quarkus",
+  "projectOrganisation" : "quarkusio",
+  "breakingCommit" : "e7d9a3179206d9950bf0681626758600c64de225",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.quarkus",
+    "dependencyArtifactID" : "quarkus-resteasy",
+    "previousVersion" : "1.8",
+    "newVersion" : "3.8.6.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

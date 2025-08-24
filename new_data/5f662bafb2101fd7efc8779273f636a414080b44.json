@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/LFDT-web3j/web3j-maven-plugin/pull/140",
+  "project" : "web3j-maven-plugin",
+  "projectOrganisation" : "LFDT-web3j",
+  "breakingCommit" : "5f662bafb2101fd7efc8779273f636a414080b44",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.16.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

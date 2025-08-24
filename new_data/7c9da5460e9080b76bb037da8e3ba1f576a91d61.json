@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/dashboard-view-plugin/pull/413",
+  "project" : "dashboard-view-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "7c9da5460e9080b76bb037da8e3ba1f576a91d61",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-${jenkins.baseline}.x",
+    "previousVersion" : "3850.vb_c5319efa_e29",
+    "newVersion" : "4969.v6ffa_18d90c9f",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vishalmysore/Tools4AI/pull/19",
+  "project" : "Tools4AI",
+  "projectOrganisation" : "vishalmysore",
+  "breakingCommit" : "96ae0814dc8b628afc087ae54ca8e3f0339a1226",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.cloud",
+    "dependencyArtifactID" : "google-cloud-vertexai",
+    "previousVersion" : "0.7.0",
+    "newVersion" : "1.11.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

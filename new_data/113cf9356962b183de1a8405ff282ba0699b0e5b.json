@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/oracle/tribuo/pull/405",
+  "project" : "tribuo",
+  "projectOrganisation" : "oracle",
+  "breakingCommit" : "113cf9356962b183de1a8405ff282ba0699b0e5b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

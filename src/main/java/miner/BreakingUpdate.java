@@ -7,6 +7,7 @@ import org.apache.maven.model.io.xpp3.MavenXpp3Reader;
 import org.codehaus.plexus.util.xml.pull.XmlPullParserException;
 import org.kohsuke.github.GHPullRequest;
 import org.kohsuke.github.GHRepository;
+import org.kohsuke.github.GHLicense;
 import org.kohsuke.github.GHUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,6 +18,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.Optional;
 
 /**
  * The BreakingUpdate class represents a dependency update that breaks a GitHub Action workflow.
@@ -58,8 +60,11 @@ public class BreakingUpdate {
         project = pr.getRepository().getName();
         projectOrganisation = url.split("/")[3];
         breakingCommit = pr.getHead().getSha();
-        try {
-            licenseInfo = pr.getRepository().getLicense().getName();
+        try {      
+            GHLicense lic = pr.getRepository().getLicense();
+            // null check for license
+            licenseInfo = lic != null ? lic.getName() : "unknown";
+            
         } catch (IOException e) {
             licenseInfo = "unknown";
         }

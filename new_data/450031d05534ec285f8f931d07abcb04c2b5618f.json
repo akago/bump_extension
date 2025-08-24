@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/365",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "450031d05534ec285f8f931d07abcb04c2b5618f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

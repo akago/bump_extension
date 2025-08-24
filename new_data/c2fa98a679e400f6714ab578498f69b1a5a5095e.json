@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws/aws-dynamodb-encryption-java/pull/1152",
+  "project" : "aws-dynamodb-encryption-java",
+  "projectOrganisation" : "aws",
+  "breakingCommit" : "c2fa98a679e400f6714ab578498f69b1a5a5095e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.amazonaws",
+    "dependencyArtifactID" : "aws-java-sdk-bom",
+    "previousVersion" : "1.12.540",
+    "newVersion" : "1.12.787",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

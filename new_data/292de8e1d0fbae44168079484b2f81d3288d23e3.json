@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Miragon/miranum/pull/405",
+  "project" : "miranum",
+  "projectOrganisation" : "Miragon",
+  "breakingCommit" : "292de8e1d0fbae44168079484b2f81d3288d23e3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.networknt",
+    "dependencyArtifactID" : "json-schema-validator",
+    "previousVersion" : "1.0.87",
+    "newVersion" : "1.4.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

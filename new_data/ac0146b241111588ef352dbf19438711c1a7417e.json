@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/thelastpickle/cassandra-reaper/pull/1540",
+  "project" : "cassandra-reaper",
+  "projectOrganisation" : "thelastpickle",
+  "breakingCommit" : "ac0146b241111588ef352dbf19438711c1a7417e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-handler",
+    "previousVersion" : "4.1.94.Final",
+    "newVersion" : "4.1.118.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

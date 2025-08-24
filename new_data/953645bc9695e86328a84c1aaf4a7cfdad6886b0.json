@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/med-united/epa4all/pull/36",
+  "project" : "epa4all",
+  "projectOrganisation" : "med-united",
+  "breakingCommit" : "953645bc9695e86328a84c1aaf4a7cfdad6886b0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "unknown",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "ca.uhn.hapi.fhir",
+    "dependencyArtifactID" : "org.hl7.fhir.r4b",
+    "previousVersion" : "6.3.27",
+    "newVersion" : "6.4.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

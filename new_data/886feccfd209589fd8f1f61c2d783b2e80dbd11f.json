@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/oracle/opengrok/pull/4781",
+  "project" : "opengrok",
+  "projectOrganisation" : "oracle",
+  "breakingCommit" : "886feccfd209589fd8f1f61c2d783b2e80dbd11f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eclipse.jgit",
+    "dependencyArtifactID" : "org.eclipse.jgit",
+    "previousVersion" : "6.6.1.202309021850-r",
+    "newVersion" : "7.2.1.202505142326-r",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

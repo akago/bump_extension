@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sceiler/Java-TestNG-Appium-Selenium/pull/363",
+  "project" : "Java-TestNG-Appium-Selenium",
+  "projectOrganisation" : "sceiler",
+  "breakingCommit" : "bf1cf7f9c1102a2974d48ab5a95336d128bd6383",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.3.0-jre",
+    "newVersion" : "33.3.1-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

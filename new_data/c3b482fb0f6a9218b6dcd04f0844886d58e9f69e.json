@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/streamthoughts/jikkou/pull/534",
+  "project" : "jikkou",
+  "projectOrganisation" : "streamthoughts",
+  "breakingCommit" : "c3b482fb0f6a9218b6dcd04f0844886d58e9f69e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.spotbugs",
+    "dependencyArtifactID" : "spotbugs",
+    "previousVersion" : "4.8.5",
+    "newVersion" : "4.9.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/youtrackdb/youtrackdb/pull/378",
+  "project" : "youtrackdb",
+  "projectOrganisation" : "youtrackdb",
+  "breakingCommit" : "7ae9c6eb6ff6800f962962b8ccc2c708fc4756cd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.assertj",
+    "dependencyArtifactID" : "assertj-core",
+    "previousVersion" : "3.4.1",
+    "newVersion" : "3.27.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

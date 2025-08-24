@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomcat-jakartaee-migration/pull/64",
+  "project" : "tomcat-jakartaee-migration",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "4bd7cf41be8173f5295b395e8c90b26d24317520",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.ant",
+    "dependencyArtifactID" : "ant",
+    "previousVersion" : "1.10.14",
+    "newVersion" : "1.10.15",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

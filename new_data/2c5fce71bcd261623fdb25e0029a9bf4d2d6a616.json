@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/18114",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "2c5fce71bcd261623fdb25e0029a9bf4d2d6a616",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.ow2.asm",
+    "dependencyArtifactID" : "asm",
+    "previousVersion" : "9.3",
+    "newVersion" : "9.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

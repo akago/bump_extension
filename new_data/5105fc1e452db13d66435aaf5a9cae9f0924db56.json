@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/dashboard-view-plugin/pull/365",
+  "project" : "dashboard-view-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "5105fc1e452db13d66435aaf5a9cae9f0924db56",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.tools.bom",
+    "dependencyArtifactID" : "bom-2.426.x",
+    "previousVersion" : "2675.v1515e14da_7a_6",
+    "newVersion" : "3208.vb_21177d4b_cd9",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

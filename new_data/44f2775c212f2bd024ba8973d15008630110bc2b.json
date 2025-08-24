@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/premium-minds/billy/pull/565",
+  "project" : "billy",
+  "projectOrganisation" : "premium-minds",
+  "breakingCommit" : "44f2775c212f2bd024ba8973d15008630110bc2b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.yaml",
+    "dependencyArtifactID" : "snakeyaml",
+    "previousVersion" : "2.0",
+    "newVersion" : "2.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v3.0"
+}

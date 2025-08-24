@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/objectionary/eo-math/pull/149",
+  "project" : "eo-math",
+  "projectOrganisation" : "objectionary",
+  "breakingCommit" : "80549dd1fe0e7ffbcf7edb2ea6e6a9cbf256a9d3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.eolang",
+    "dependencyArtifactID" : "eo-runtime",
+    "previousVersion" : "0.32.0",
+    "newVersion" : "0.39.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

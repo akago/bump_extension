@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/takari/takari-plugin-testing-project/pull/89",
+  "project" : "takari-plugin-testing-project",
+  "projectOrganisation" : "takari",
+  "breakingCommit" : "c43287e38f18dfad45f7a1551b412327eb76058a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-compress",
+    "previousVersion" : "1.26.0",
+    "newVersion" : "1.27.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

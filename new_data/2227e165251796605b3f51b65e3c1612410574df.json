@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/119",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "2227e165251796605b3f51b65e3c1612410574df",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.reporting",
+    "dependencyArtifactID" : "maven-reporting-api",
+    "previousVersion" : "4.0.0-M2",
+    "newVersion" : "4.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

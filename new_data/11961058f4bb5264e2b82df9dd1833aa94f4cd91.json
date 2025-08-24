@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/swri-robotics/bag-database/pull/219",
+  "project" : "bag-database",
+  "projectOrganisation" : "swri-robotics",
+  "breakingCommit" : "11961058f4bb5264e2b82df9dd1833aa94f4cd91",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.hibernate.validator",
+    "dependencyArtifactID" : "hibernate-validator",
+    "previousVersion" : "6.1.5.Final",
+    "newVersion" : "6.2.0.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

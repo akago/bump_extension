@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jcabi/jcabi-beanstalk-maven-plugin/pull/56",
+  "project" : "jcabi-beanstalk-maven-plugin",
+  "projectOrganisation" : "jcabi",
+  "breakingCommit" : "691cf976b28b1bbee475068d7b83c54f12dfa22a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "18.0",
+    "newVersion" : "32.0.0-android",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

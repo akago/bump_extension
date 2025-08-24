@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomcat-jakartaee-migration/pull/63",
+  "project" : "tomcat-jakartaee-migration",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8beb0777e01dc84e1f98b63cbb0e969ff37d6a55",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.bcel",
+    "dependencyArtifactID" : "bcel",
+    "previousVersion" : "6.9.0",
+    "newVersion" : "6.10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

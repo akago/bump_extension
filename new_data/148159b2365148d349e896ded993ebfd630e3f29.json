@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/adobe/aemanalyser-maven-plugin/pull/274",
+  "project" : "aemanalyser-maven-plugin",
+  "projectOrganisation" : "adobe",
+  "breakingCommit" : "148159b2365148d349e896ded993ebfd630e3f29",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.jackrabbit.vault",
+    "dependencyArtifactID" : "org.apache.jackrabbit.vault",
+    "previousVersion" : "3.6.8",
+    "newVersion" : "3.8.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

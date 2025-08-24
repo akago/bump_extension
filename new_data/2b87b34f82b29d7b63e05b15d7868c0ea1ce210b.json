@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tinylog-org/tinylog/pull/807",
+  "project" : "tinylog",
+  "projectOrganisation" : "tinylog-org",
+  "breakingCommit" : "2b87b34f82b29d7b63e05b15d7868c0ea1ce210b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "10.25.1",
+    "newVersion" : "10.26.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

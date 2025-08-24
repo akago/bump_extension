@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/BerryCloud/xapi-java/pull/276",
+  "project" : "xapi-java",
+  "projectOrganisation" : "BerryCloud",
+  "breakingCommit" : "20d666546d0f3050c39cf9e5b5c2a57dd6ba2c8c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.hypersistence",
+    "dependencyArtifactID" : "hypersistence-utils-hibernate-60",
+    "previousVersion" : "3.8.3",
+    "newVersion" : "3.9.4",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

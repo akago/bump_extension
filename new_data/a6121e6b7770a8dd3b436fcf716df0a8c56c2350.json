@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/BerkleyTechnologyServices/restdocs-spec/pull/303",
+  "project" : "restdocs-spec",
+  "projectOrganisation" : "BerkleyTechnologyServices",
+  "breakingCommit" : "a6121e6b7770a8dd3b436fcf716df0a8c56c2350",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson",
+    "dependencyArtifactID" : "jackson-bom",
+    "previousVersion" : "2.16.1",
+    "newVersion" : "2.19.1",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

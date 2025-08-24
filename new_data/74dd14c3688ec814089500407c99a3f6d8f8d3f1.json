@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/antlr2ebnf-maven-plugin/pull/74",
+  "project" : "antlr2ebnf-maven-plugin",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "74dd14c3688ec814089500407c99a3f6d8f8d3f1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-xml",
+    "previousVersion" : "0.29.0",
+    "newVersion" : "0.30.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

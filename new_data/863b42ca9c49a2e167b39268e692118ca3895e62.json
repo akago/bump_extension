@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/ferstl/pedantic-pom-enforcers/pull/48",
+  "project" : "pedantic-pom-enforcers",
+  "projectOrganisation" : "ferstl",
+  "breakingCommit" : "863b42ca9c49a2e167b39268e692118ca3895e62",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-jdbc",
+    "previousVersion" : "5.1.3.RELEASE",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

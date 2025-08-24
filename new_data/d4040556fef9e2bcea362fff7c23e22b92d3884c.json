@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/mina-sshd/pull/542",
+  "project" : "mina-sshd",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "d4040556fef9e2bcea362fff7c23e22b92d3884c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mockito",
+    "dependencyArtifactID" : "mockito-core",
+    "previousVersion" : "4.2.0",
+    "newVersion" : "5.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

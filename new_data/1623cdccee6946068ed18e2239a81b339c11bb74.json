@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pinterest/singer/pull/446",
+  "project" : "singer",
+  "projectOrganisation" : "pinterest",
+  "breakingCommit" : "1623cdccee6946068ed18e2239a81b339c11bb74",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.4",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

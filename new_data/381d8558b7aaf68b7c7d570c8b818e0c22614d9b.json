@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/MetricsHub/metricshub-community/pull/307",
+  "project" : "metricshub-community",
+  "projectOrganisation" : "MetricsHub",
+  "breakingCommit" : "381d8558b7aaf68b7c7d570c8b818e0c22614d9b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.dataformat",
+    "dependencyArtifactID" : "jackson-dataformat-yaml",
+    "previousVersion" : "2.14.1",
+    "newVersion" : "2.17.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "GNU Affero General Public License v3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/spring-cloud/spring-cloud-config/pull/2887",
+  "project" : "spring-cloud-config",
+  "projectOrganisation" : "spring-cloud",
+  "breakingCommit" : "410780ab009280c8111b2703325d50e1d32b55e2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.cloud",
+    "dependencyArtifactID" : "google-cloud-secretmanager",
+    "previousVersion" : "1.7.2",
+    "newVersion" : "2.64.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

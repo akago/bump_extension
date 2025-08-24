@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xsline/pull/256",
+  "project" : "xsline",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "5a8181bb7fb16d3a9786e0022c3e507a1a6dc96f",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "MIT License"
+}

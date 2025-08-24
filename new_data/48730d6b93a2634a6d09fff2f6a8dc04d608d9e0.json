@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/takari/polyglot-maven/pull/354",
+  "project" : "polyglot-maven",
+  "projectOrganisation" : "takari",
+  "breakingCommit" : "48730d6b93a2634a6d09fff2f6a8dc04d608d9e0",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jruby",
+    "dependencyArtifactID" : "jruby",
+    "previousVersion" : "9.4.12.0",
+    "newVersion" : "9.4.12.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Eclipse Public License 1.0"
+}

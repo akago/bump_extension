@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/unomi/pull/693",
+  "project" : "unomi",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "1fd956d246003606931126e91c98329c1409b8f3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.cometd.java",
+    "dependencyArtifactID" : "cometd-java-client-common",
+    "previousVersion" : "5.0.13",
+    "newVersion" : "8.0.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

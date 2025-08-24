@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/incubator-hugegraph/pull/2823",
+  "project" : "incubator-hugegraph",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "8f7393a6e81aa43ddcb853e64fd02dd9ead91b7a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-core",
+    "previousVersion" : "2.13.0",
+    "newVersion" : "2.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/17447",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "2a4b108f30bc409603a1164b9df178d00a5309e8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.surefire",
+    "dependencyArtifactID" : "surefire-junit47",
+    "previousVersion" : "3.0.0-M7",
+    "newVersion" : "3.5.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

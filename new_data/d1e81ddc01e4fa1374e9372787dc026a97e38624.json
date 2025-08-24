@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sculkmp/Sculk/pull/4",
+  "project" : "Sculk",
+  "projectOrganisation" : "sculkmp",
+  "breakingCommit" : "d1e81ddc01e4fa1374e9372787dc026a97e38624",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.8.2",
+    "newVersion" : "2.8.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

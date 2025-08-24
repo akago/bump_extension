@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/359",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "c682af8f6817ea9b31d0c3c7a201cd45351ddd88",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.sentry",
+    "dependencyArtifactID" : "sentry",
+    "previousVersion" : "8.0.0",
+    "newVersion" : "8.16.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

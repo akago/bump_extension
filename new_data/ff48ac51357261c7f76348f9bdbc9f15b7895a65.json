@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pazone/ashot/pull/489",
+  "project" : "ashot",
+  "projectOrganisation" : "pazone",
+  "breakingCommit" : "ff48ac51357261c7f76348f9bdbc9f15b7895a65",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.seleniumhq.selenium",
+    "dependencyArtifactID" : "selenium-remote-driver",
+    "previousVersion" : "4.13.0",
+    "newVersion" : "4.23.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

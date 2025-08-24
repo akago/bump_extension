@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tsfile/pull/164",
+  "project" : "tsfile",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "6d04f9f2a18f849bfd233cf3b9534c59d7b293c2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "9.3",
+    "newVersion" : "10.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

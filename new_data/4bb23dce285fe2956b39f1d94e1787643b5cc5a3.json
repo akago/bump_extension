@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/genexuslabs/JavaClasses/pull/988",
+  "project" : "JavaClasses",
+  "projectOrganisation" : "genexuslabs",
+  "breakingCommit" : "4bb23dce285fe2956b39f1d94e1787643b5cc5a3",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.17.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

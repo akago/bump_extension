@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/adobe/aemanalyser-maven-plugin/pull/258",
+  "project" : "aemanalyser-maven-plugin",
+  "projectOrganisation" : "adobe",
+  "breakingCommit" : "41c4b0a54635c6fe9d1dbfcc517724de201379fa",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.sling",
+    "dependencyArtifactID" : "org.apache.sling.jcr.contentparser",
+    "previousVersion" : "1.2.6",
+    "newVersion" : "1.2.8",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

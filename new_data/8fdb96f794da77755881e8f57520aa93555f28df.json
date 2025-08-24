@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/tojos/pull/120",
+  "project" : "tojos",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "8fdb96f794da77755881e8f57520aa93555f28df",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "MIT License"
+}

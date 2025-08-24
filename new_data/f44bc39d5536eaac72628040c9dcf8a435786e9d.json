@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/AvarionMC/graves/pull/73",
+  "project" : "graves",
+  "projectOrganisation" : "AvarionMC",
+  "breakingCommit" : "f44bc39d5536eaac72628040c9dcf8a435786e9d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.spigotmc",
+    "dependencyArtifactID" : "spigot-api",
+    "previousVersion" : "1.18-R0.1-SNAPSHOT",
+    "newVersion" : "1.21.1-R0.1-SNAPSHOT",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

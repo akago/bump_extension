@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/quarkiverse/quarkus-langchain4j/pull/969",
+  "project" : "quarkus-langchain4j",
+  "projectOrganisation" : "quarkiverse",
+  "breakingCommit" : "4b6e63d2b650e2f9d425c3160982e5ae6e561153",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mvnpm.at.mvnpm",
+    "dependencyArtifactID" : "vaadin-webcomponents",
+    "previousVersion" : "24.4.9",
+    "newVersion" : "24.4.10",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

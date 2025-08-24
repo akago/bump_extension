@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/wring/pull/112",
+  "project" : "wring",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "afcfd8898a78fb93fdbe76bb331bb6cd42c69ff4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.28",
+    "newVersion" : "1.18.38",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jdemetra/jwsacruncher/pull/264",
+  "project" : "jwsacruncher",
+  "projectOrganisation" : "jdemetra",
+  "breakingCommit" : "107e569650e2afc372e67d9058abcc78878bafa1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.slf4j",
+    "dependencyArtifactID" : "slf4j-jdk14",
+    "previousVersion" : "2.0.13",
+    "newVersion" : "2.0.16",
+    "dependencyScope" : "runtime",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "European Union Public License 1.2"
+}

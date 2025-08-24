@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven/pull/1899",
+  "project" : "maven",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c3d5ec67ddb7ce9fdbe1fef87a0606b224c3516b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.14.0",
+    "newVersion" : "2.17.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

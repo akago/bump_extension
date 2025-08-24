@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/storm/pull/3754",
+  "project" : "storm",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "d163da28f76f694027ad33233ca3eafb8ef42048",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.jms",
+    "dependencyArtifactID" : "jakarta.jms-api",
+    "previousVersion" : "2.0.3",
+    "newVersion" : "3.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

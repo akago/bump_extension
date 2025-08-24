@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vmware/build-tools-for-vmware-aria/pull/756",
+  "project" : "build-tools-for-vmware-aria",
+  "projectOrganisation" : "vmware",
+  "breakingCommit" : "cb86a2cb63e123043a6ad389e48d4048f961199e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-api",
+    "previousVersion" : "2.24.3",
+    "newVersion" : "2.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/121",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "49fa3a6bdd0d1ab2fa4879c8f55060d0876f06a7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.projectlombok",
+    "dependencyArtifactID" : "lombok",
+    "previousVersion" : "1.18.24",
+    "newVersion" : "1.18.38",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/greenmail-mail-test/greenmail/pull/864",
+  "project" : "greenmail",
+  "projectOrganisation" : "greenmail-mail-test",
+  "breakingCommit" : "547cdeb62e886dfaf4e2faf76446aa717af83a46",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.bouncycastle",
+    "dependencyArtifactID" : "bcprov-jdk18on",
+    "previousVersion" : "1.80",
+    "newVersion" : "1.81",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

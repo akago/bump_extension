@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-db/pull/310",
+  "project" : "assertj-db",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "053b3191b12a7446486e1875c38b54dd54d13d36",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "net.bytebuddy",
+    "dependencyArtifactID" : "byte-buddy",
+    "previousVersion" : "1.12.1",
+    "newVersion" : "1.16.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

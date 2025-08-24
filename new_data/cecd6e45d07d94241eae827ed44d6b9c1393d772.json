@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/wring/pull/106",
+  "project" : "wring",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "cecd6e45d07d94241eae827ed44d6b9c1393d772",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi",
+    "dependencyArtifactID" : "jcabi-log",
+    "previousVersion" : "0.23.0",
+    "newVersion" : "0.24.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

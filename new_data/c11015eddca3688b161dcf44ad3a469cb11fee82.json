@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/mina-ftpserver/pull/56",
+  "project" : "mina-ftpserver",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c11015eddca3688b161dcf44ad3a469cb11fee82",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-web",
+    "previousVersion" : "2.5.5",
+    "newVersion" : "6.2.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

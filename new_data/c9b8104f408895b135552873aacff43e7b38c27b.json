@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tls-attacker/TLS-Attacker/pull/230",
+  "project" : "TLS-Attacker",
+  "projectOrganisation" : "tls-attacker",
+  "breakingCommit" : "c9b8104f408895b135552873aacff43e7b38c27b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "de.rub.nds",
+    "dependencyArtifactID" : "x509-attacker",
+    "previousVersion" : "4.3.0",
+    "newVersion" : "4.3.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

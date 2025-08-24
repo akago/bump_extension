@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/trinodb/trino/pull/22247",
+  "project" : "trino",
+  "projectOrganisation" : "trinodb",
+  "breakingCommit" : "5ab254d1abe97435ec1875d74b286d1c7c738f40",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.azure",
+    "dependencyArtifactID" : "azure-sdk-bom",
+    "previousVersion" : "1.2.23",
+    "newVersion" : "1.2.24",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

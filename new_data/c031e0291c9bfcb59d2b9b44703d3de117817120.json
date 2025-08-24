@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PQCA/sonar-cryptography/pull/40",
+  "project" : "sonar-cryptography",
+  "projectOrganisation" : "PQCA",
+  "breakingCommit" : "c031e0291c9bfcb59d2b9b44703d3de117817120",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.datatype",
+    "dependencyArtifactID" : "jackson-datatype-jdk8",
+    "previousVersion" : "2.17.1",
+    "newVersion" : "2.17.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/flyway/flyway-community-db-support/pull/72",
+  "project" : "flyway-community-db-support",
+  "projectOrganisation" : "flyway",
+  "breakingCommit" : "f405f716542266816e16fb47d571cac7ec08e2f5",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.databricks",
+    "dependencyArtifactID" : "databricks-jdbc",
+    "previousVersion" : "2.6.33",
+    "newVersion" : "2.6.40",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

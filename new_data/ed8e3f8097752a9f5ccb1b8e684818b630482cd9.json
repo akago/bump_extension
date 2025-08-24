@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/bhlangonijr/chesslib/pull/124",
+  "project" : "chesslib",
+  "projectOrganisation" : "bhlangonijr",
+  "breakingCommit" : "ed8e3f8097752a9f5ccb1b8e684818b630482cd9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.12.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

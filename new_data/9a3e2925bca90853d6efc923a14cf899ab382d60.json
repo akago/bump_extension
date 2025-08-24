@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/langchain4j/langchain4j-spring/pull/54",
+  "project" : "langchain4j-spring",
+  "projectOrganisation" : "langchain4j",
+  "breakingCommit" : "9a3e2925bca90853d6efc923a14cf899ab382d60",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.projectreactor",
+    "dependencyArtifactID" : "reactor-core",
+    "previousVersion" : "3.6.10",
+    "newVersion" : "3.6.11",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

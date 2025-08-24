@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/datafusion-contrib/datafusion-sqlancer/pull/3",
+  "project" : "datafusion-sqlancer",
+  "projectOrganisation" : "datafusion-contrib",
+  "breakingCommit" : "439bab35726efd4034b910e0ef46402e4a50ffb1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.jsqlparser",
+    "dependencyArtifactID" : "jsqlparser",
+    "previousVersion" : "4.6",
+    "newVersion" : "5.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/960",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "54bf309f88477fd9fd935875cb3975a10646a6e2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.felix",
+    "dependencyArtifactID" : "org.apache.felix.main",
+    "previousVersion" : "6.0.3",
+    "newVersion" : "7.0.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

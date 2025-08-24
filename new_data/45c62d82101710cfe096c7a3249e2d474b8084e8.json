@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/storm/pull/8057",
+  "project" : "storm",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "45c62d82101710cfe096c7a3249e2d474b8084e8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-configuration2",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/finos/architecture-as-code/pull/675",
+  "project" : "architecture-as-code",
+  "projectOrganisation" : "finos",
+  "breakingCommit" : "2473dcc4de29398f23c15ec39124c527705c3ac9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springdoc",
+    "dependencyArtifactID" : "springdoc-openapi-starter-webmvc-ui",
+    "previousVersion" : "2.6.0",
+    "newVersion" : "2.7.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

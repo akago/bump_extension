@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws/aws-sdk-java-v2/pull/5480",
+  "project" : "aws-sdk-java-v2",
+  "projectOrganisation" : "aws",
+  "breakingCommit" : "d24e3bf7ed6a5e2902d3f50879dbf8594d3fda03",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.openrewrite.recipe",
+    "dependencyArtifactID" : "rewrite-recipe-bom",
+    "previousVersion" : "2.14.0",
+    "newVersion" : "2.16.0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

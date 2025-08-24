@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/vassalengine/vassal/pull/14123",
+  "project" : "vassal",
+  "projectOrganisation" : "vassalengine",
+  "breakingCommit" : "4ab9dd8d833a8e5a1789cf394f49db287ceaec57",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "10.23.1",
+    "newVersion" : "10.26.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "GNU Lesser General Public License v2.1"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pinterest/orion/pull/333",
+  "project" : "orion",
+  "projectOrganisation" : "pinterest",
+  "breakingCommit" : "94967d52c5f53ecac3a3f51a067ab72b86235271",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.kafka",
+    "dependencyArtifactID" : "kafka-clients",
+    "previousVersion" : "2.3.1",
+    "newVersion" : "3.9.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/xsline/pull/258",
+  "project" : "xsline",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "2b67dab86d439a230de5182f7f99b73cb8a4a4f7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.github.spotbugs",
+    "dependencyArtifactID" : "spotbugs",
+    "previousVersion" : "4.9.1",
+    "newVersion" : "4.9.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ozhera/pull/510",
+  "project" : "ozhera",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "34c0aca854d98b08b7cc8784257e75db02744c1e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.kafka",
+    "dependencyArtifactID" : "kafka-clients",
+    "previousVersion" : "2.6.3",
+    "newVersion" : "3.7.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

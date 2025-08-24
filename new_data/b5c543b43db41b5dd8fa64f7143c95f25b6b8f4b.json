@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1323",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "b5c543b43db41b5dd8fa64f7143c95f25b6b8f4b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.gradle",
+    "dependencyArtifactID" : "gradle-core",
+    "previousVersion" : "3.0",
+    "newVersion" : "6.1.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

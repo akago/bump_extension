@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/pholser/junit-quickcheck/pull/590",
+  "project" : "junit-quickcheck",
+  "projectOrganisation" : "pholser",
+  "breakingCommit" : "8a00f301d481c952d85b1f8860ca368d5927f69d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mockito",
+    "dependencyArtifactID" : "mockito-core",
+    "previousVersion" : "4.11.0",
+    "newVersion" : "5.13.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

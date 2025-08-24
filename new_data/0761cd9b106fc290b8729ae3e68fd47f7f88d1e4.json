@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/prestodb/presto/pull/23893",
+  "project" : "presto",
+  "projectOrganisation" : "prestodb",
+  "breakingCommit" : "0761cd9b106fc290b8729ae3e68fd47f7f88d1e4",
+  "prAuthor" : "human",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.postgresql",
+    "dependencyArtifactID" : "postgresql",
+    "previousVersion" : "9.3-1102-jdbc41",
+    "newVersion" : "42.3.9",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

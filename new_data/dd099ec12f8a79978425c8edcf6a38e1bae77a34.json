@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/DataSQRL/flink-sql-runner/pull/123",
+  "project" : "flink-sql-runner",
+  "projectOrganisation" : "DataSQRL",
+  "breakingCommit" : "dd099ec12f8a79978425c8edcf6a38e1bae77a34",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit",
+    "dependencyArtifactID" : "junit-bom",
+    "previousVersion" : "5.12.2",
+    "newVersion" : "5.13.0",
+    "dependencyScope" : "import",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

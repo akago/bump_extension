@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jaxec/pull/55",
+  "project" : "jaxec",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "9e4395f5d438349f42f675996bc83192ad3861a6",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.pitest",
+    "dependencyArtifactID" : "pitest-junit5-plugin",
+    "previousVersion" : "1.2.1",
+    "newVersion" : "1.2.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "MIT License"
+}

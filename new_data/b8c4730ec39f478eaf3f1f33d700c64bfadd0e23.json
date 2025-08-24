@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jbdevstudio/jbdevstudio-product/pull/591",
+  "project" : "jbdevstudio-product",
+  "projectOrganisation" : "jbdevstudio",
+  "breakingCommit" : "b8c4730ec39f478eaf3f1f33d700c64bfadd0e23",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.groovy",
+    "dependencyArtifactID" : "groovy-all",
+    "previousVersion" : "2.0.1",
+    "newVersion" : "2.4.21",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Other"
+}

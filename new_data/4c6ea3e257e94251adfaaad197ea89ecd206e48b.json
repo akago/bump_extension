@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/orientechnologies/orientdb/pull/10326",
+  "project" : "orientdb",
+  "projectOrganisation" : "orientechnologies",
+  "breakingCommit" : "4c6ea3e257e94251adfaaad197ea89ecd206e48b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-csv",
+    "previousVersion" : "1.11.0",
+    "newVersion" : "1.12.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

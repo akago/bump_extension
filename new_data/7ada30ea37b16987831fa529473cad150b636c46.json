@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/uPortal-Project/CoursesPortlet/pull/86",
+  "project" : "CoursesPortlet",
+  "projectOrganisation" : "uPortal-Project",
+  "breakingCommit" : "7ada30ea37b16987831fa529473cad150b636c46",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-jdbc",
+    "previousVersion" : "3.2.3.RELEASE",
+    "newVersion" : "6.1.14",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

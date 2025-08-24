@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Alfresco/alfresco-java-sdk/pull/287",
+  "project" : "alfresco-java-sdk",
+  "projectOrganisation" : "Alfresco",
+  "breakingCommit" : "a5a0b0a95d02e7248f49fdacb4ddbcbdc3193120",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.17.0",
+    "newVersion" : "2.19.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

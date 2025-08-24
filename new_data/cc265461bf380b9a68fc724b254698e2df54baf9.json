@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/PQCA/sonar-cryptography/pull/59",
+  "project" : "sonar-cryptography",
+  "projectOrganisation" : "PQCA",
+  "breakingCommit" : "cc265461bf380b9a68fc724b254698e2df54baf9",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.15.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

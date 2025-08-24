@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/datafusion-contrib/datafusion-sqlancer/pull/31",
+  "project" : "datafusion-sqlancer",
+  "projectOrganisation" : "datafusion-contrib",
+  "breakingCommit" : "f9c9c8dcc0a542fd0d3b3cb0b74e2ff65062af9c",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.mongodb",
+    "dependencyArtifactID" : "mongodb-driver-sync",
+    "previousVersion" : "4.1.1",
+    "newVersion" : "5.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

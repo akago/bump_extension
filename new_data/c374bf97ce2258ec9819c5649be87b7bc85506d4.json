@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/tomee/pull/1609",
+  "project" : "tomee",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "c374bf97ce2258ec9819c5649be87b7bc85506d4",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven",
+    "dependencyArtifactID" : "maven-archiver",
+    "previousVersion" : "3.6.2",
+    "newVersion" : "3.6.3",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

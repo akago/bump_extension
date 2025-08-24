@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/finos/architecture-as-code/pull/647",
+  "project" : "architecture-as-code",
+  "projectOrganisation" : "finos",
+  "breakingCommit" : "996eb0617c73d042e0ebcecbe01bd6e8cd924c89",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.fabric8",
+    "dependencyArtifactID" : "kubernetes-client",
+    "previousVersion" : "6.13.4",
+    "newVersion" : "7.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

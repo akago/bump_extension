@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/13624",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "cdfec0a773a59e679e327cd19e087052c66a14d8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.azure",
+    "dependencyArtifactID" : "azure-core",
+    "previousVersion" : "1.49.1",
+    "newVersion" : "1.50.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

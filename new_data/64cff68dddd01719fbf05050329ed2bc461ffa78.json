@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/plc4x/pull/1916",
+  "project" : "plc4x",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "64cff68dddd01719fbf05050329ed2bc461ffa78",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.datatype",
+    "dependencyArtifactID" : "jackson-datatype-jsr310",
+    "previousVersion" : "2.18.1",
+    "newVersion" : "2.18.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

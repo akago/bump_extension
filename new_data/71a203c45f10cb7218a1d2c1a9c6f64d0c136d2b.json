@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/takes/pull/1387",
+  "project" : "takes",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "71a203c45f10cb7218a1d2c1a9c6f64d0c136d2b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "1.0.b2",
+    "newVersion" : "1.4.01",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

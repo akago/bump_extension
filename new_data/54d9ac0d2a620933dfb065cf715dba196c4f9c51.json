@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/storm/pull/8000",
+  "project" : "storm",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "54d9ac0d2a620933dfb065cf715dba196c4f9c51",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-csv",
+    "previousVersion" : "1.13.0",
+    "newVersion" : "1.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

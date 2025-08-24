@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/jenkinsci/coverage-plugin/pull/159",
+  "project" : "coverage-plugin",
+  "projectOrganisation" : "jenkinsci",
+  "breakingCommit" : "e7aacad054d27718ee1ccbeb867b68e37996b969",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.jenkins.plugins",
+    "dependencyArtifactID" : "data-tables-api",
+    "previousVersion" : "2.0.6-1",
+    "newVersion" : "2.0.7-1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/362",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "d6fb16c7c41b2396ae5ebe0d275eff35cf4652a2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "xml-apis",
+    "dependencyArtifactID" : "xml-apis",
+    "previousVersion" : "1.0.b2",
+    "newVersion" : "2.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

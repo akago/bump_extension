@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/134",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "26e08e432f1e40cb7d72dca6d00ac185926aec0a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

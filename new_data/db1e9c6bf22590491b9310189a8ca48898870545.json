@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/tinylog-org/tinylog/pull/742",
+  "project" : "tinylog",
+  "projectOrganisation" : "tinylog-org",
+  "breakingCommit" : "db1e9c6bf22590491b9310189a8ca48898870545",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "33.1.0-jre",
+    "newVersion" : "33.4.8-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/999",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "208731562b10d3288f3c8edec8e7d272075469da",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "opensymphony",
+    "dependencyArtifactID" : "sitemesh",
+    "previousVersion" : "2.5.0",
+    "newVersion" : "2.6.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

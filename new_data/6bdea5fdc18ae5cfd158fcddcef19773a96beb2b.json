@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/bitpay/java-bitpay-client/pull/299",
+  "project" : "java-bitpay-client",
+  "projectOrganisation" : "bitpay",
+  "breakingCommit" : "6bdea5fdc18ae5cfd158fcddcef19773a96beb2b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.fasterxml.jackson.core",
+    "dependencyArtifactID" : "jackson-annotations",
+    "previousVersion" : "2.17.1",
+    "newVersion" : "2.17.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

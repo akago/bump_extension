@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/kinde-oss/kinde-java-sdk/pull/99",
+  "project" : "kinde-java-sdk",
+  "projectOrganisation" : "kinde-oss",
+  "breakingCommit" : "0046a67669890b419a634d66d98fb4aba6e11889",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.guava",
+    "dependencyArtifactID" : "guava",
+    "previousVersion" : "32.1.3-jre",
+    "newVersion" : "33.4.8-jre",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

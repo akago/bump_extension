@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ozhera/pull/431",
+  "project" : "ozhera",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "828f87481e468c1347947a4723fba58e3d20dc67",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.springframework",
+    "dependencyArtifactID" : "spring-expression",
+    "previousVersion" : "5.3.29",
+    "newVersion" : "5.3.39",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

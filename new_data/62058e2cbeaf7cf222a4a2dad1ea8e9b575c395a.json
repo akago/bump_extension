@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/zalando/riptide/pull/1697",
+  "project" : "riptide",
+  "projectOrganisation" : "zalando",
+  "breakingCommit" : "62058e2cbeaf7cf222a4a2dad1ea8e9b575c395a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.httpcomponents.client5",
+    "dependencyArtifactID" : "httpclient5",
+    "previousVersion" : "5.3.1",
+    "newVersion" : "5.4.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "MIT License"
+}

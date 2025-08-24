@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/ws-wss4j/pull/501",
+  "project" : "ws-wss4j",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "ae2a53c856ca77844c7cf874f751842d2e7aa138",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "10.23.1",
+    "newVersion" : "10.26.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

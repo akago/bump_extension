@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/druid/pull/18112",
+  "project" : "druid",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "91310457467768dd1557c3a89d067244ca1586dd",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.asynchttpclient",
+    "dependencyArtifactID" : "async-http-client",
+    "previousVersion" : "3.0.1",
+    "newVersion" : "3.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

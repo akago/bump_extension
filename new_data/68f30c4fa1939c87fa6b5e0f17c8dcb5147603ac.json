@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/osslabz/evm-abi-decoder/pull/150",
+  "project" : "evm-abi-decoder",
+  "projectOrganisation" : "osslabz",
+  "breakingCommit" : "68f30c4fa1939c87fa6b5e0f17c8dcb5147603ac",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.slf4j",
+    "dependencyArtifactID" : "slf4j-api",
+    "previousVersion" : "2.0.16",
+    "newVersion" : "2.0.17",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

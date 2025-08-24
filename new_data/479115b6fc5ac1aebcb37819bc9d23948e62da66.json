@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sceiler/Java-TestNG-Appium-Selenium/pull/382",
+  "project" : "Java-TestNG-Appium-Selenium",
+  "projectOrganisation" : "sceiler",
+  "breakingCommit" : "479115b6fc5ac1aebcb37819bc9d23948e62da66",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "io.netty",
+    "dependencyArtifactID" : "netty-all",
+    "previousVersion" : "4.1.115.Final",
+    "newVersion" : "4.1.116.Final",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "unknown"
+}

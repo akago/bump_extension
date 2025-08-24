@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/McPringle/apus/pull/305",
+  "project" : "apus",
+  "projectOrganisation" : "McPringle",
+  "breakingCommit" : "dff28be32d02c4cd3d6d3f884b38428a1b943a19",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.xerial",
+    "dependencyArtifactID" : "sqlite-jdbc",
+    "previousVersion" : "3.49.0.0",
+    "newVersion" : "3.49.1.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU Affero General Public License v3.0"
+}

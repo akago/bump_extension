@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/pinot/pull/14344",
+  "project" : "pinot",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "721498e25cc9ff1a922d16d4e7b61ddf7a2bee6a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.logging.log4j",
+    "dependencyArtifactID" : "log4j-transform-maven-shade-plugin-extensions",
+    "previousVersion" : "0.1.0",
+    "newVersion" : "0.2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/aws-powertools/powertools-lambda-java/pull/1881",
+  "project" : "powertools-lambda-java",
+  "projectOrganisation" : "aws-powertools",
+  "breakingCommit" : "467553b85e4844210459fdb3be30754a661857c8",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "10.12.3",
+    "newVersion" : "10.25.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "MIT No Attribution"
+}

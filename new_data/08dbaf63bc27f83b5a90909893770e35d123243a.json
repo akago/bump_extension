@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/jare/pull/360",
+  "project" : "jare",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "08dbaf63bc27f83b5a90909893770e35d123243a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.jcabi.incubator",
+    "dependencyArtifactID" : "xembly",
+    "previousVersion" : "0.32.1",
+    "newVersion" : "0.32.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

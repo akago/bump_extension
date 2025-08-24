@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/assertj/assertj-generator/pull/225",
+  "project" : "assertj-generator",
+  "projectOrganisation" : "assertj",
+  "breakingCommit" : "197522b159a73bf31b3a8f46bc1028af0bc6682d",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.11",
+    "newVersion" : "3.16.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

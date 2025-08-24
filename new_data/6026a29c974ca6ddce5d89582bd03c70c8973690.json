@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/veraPDF/veraPDF-rest/pull/178",
+  "project" : "veraPDF-rest",
+  "projectOrganisation" : "veraPDF",
+  "breakingCommit" : "6026a29c974ca6ddce5d89582bd03c70c8973690",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "commons-io",
+    "dependencyArtifactID" : "commons-io",
+    "previousVersion" : "2.7",
+    "newVersion" : "2.14.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "GNU General Public License v3.0"
+}

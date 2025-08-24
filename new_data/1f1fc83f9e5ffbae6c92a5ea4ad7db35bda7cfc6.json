@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/eclipse-osgi-technology/osgi.enroute/pull/211",
+  "project" : "osgi.enroute",
+  "projectOrganisation" : "eclipse-osgi-technology",
+  "breakingCommit" : "1f1fc83f9e5ffbae6c92a5ea4ad7db35bda7cfc6",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.felix",
+    "dependencyArtifactID" : "org.apache.felix.webconsole.plugins.ds",
+    "previousVersion" : "2.0.8",
+    "newVersion" : "2.3.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

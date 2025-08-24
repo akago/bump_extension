@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/sfuhrm/radiobrowser4j/pull/169",
+  "project" : "radiobrowser4j",
+  "projectOrganisation" : "sfuhrm",
+  "breakingCommit" : "8a5cfa2058c87590f8a51b4dfb71223f3128ea26",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.google.code.gson",
+    "dependencyArtifactID" : "gson",
+    "previousVersion" : "2.11.0",
+    "newVersion" : "2.12.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

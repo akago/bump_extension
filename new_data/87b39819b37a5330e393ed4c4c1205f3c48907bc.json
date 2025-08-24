@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/yegor256/requs/pull/117",
+  "project" : "requs",
+  "projectOrganisation" : "yegor256",
+  "breakingCommit" : "87b39819b37a5330e393ed4c4c1205f3c48907bc",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.doxia",
+    "dependencyArtifactID" : "doxia-sink-api",
+    "previousVersion" : "2.0.0-M3",
+    "newVersion" : "2.0.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Other"
+}

@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven/pull/1889",
+  "project" : "maven",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "23cc32713165f0033e0fdce08c71106ba38747b2",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.maven.plugin-tools",
+    "dependencyArtifactID" : "maven-plugin-tools-ant",
+    "previousVersion" : "2.4.2",
+    "newVersion" : "3.15.1",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

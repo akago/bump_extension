@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/Hack23/cia/pull/7474",
+  "project" : "cia",
+  "projectOrganisation" : "Hack23",
+  "breakingCommit" : "dd7b31a4e7e2a159f7b0565af7d57a7cbbb2d10b",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "bot",
+  "breakingCommitAuthor" : "human",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.junit.vintage",
+    "dependencyArtifactID" : "junit-vintage-engine",
+    "previousVersion" : "5.13.0",
+    "newVersion" : "5.13.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

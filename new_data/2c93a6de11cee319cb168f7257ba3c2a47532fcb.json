@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/DSpace/DSpace/pull/10991",
+  "project" : "DSpace",
+  "projectOrganisation" : "DSpace",
+  "breakingCommit" : "2c93a6de11cee319cb168f7257ba3c2a47532fcb",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.checkerframework",
+    "dependencyArtifactID" : "checker-qual",
+    "previousVersion" : "3.49.4",
+    "newVersion" : "3.49.5",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "patch",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "BSD 3-Clause \"New\" or \"Revised\" License"
+}

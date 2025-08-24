@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/artipie/artipie/pull/1482",
+  "project" : "artipie",
+  "projectOrganisation" : "artipie",
+  "breakingCommit" : "2d5db733dc2592fb2924aa5f7a2c0c5ba0c74855",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.commons",
+    "dependencyArtifactID" : "commons-lang3",
+    "previousVersion" : "3.14.0",
+    "newVersion" : "3.18.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "minor",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "MIT License"
+}

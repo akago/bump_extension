@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/zxing/zxing/pull/1860",
+  "project" : "zxing",
+  "projectOrganisation" : "zxing",
+  "breakingCommit" : "73e34abfd52c79beeb724d91c2ff0613764c87ed",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jcommander",
+    "dependencyArtifactID" : "jcommander",
+    "previousVersion" : "1.85",
+    "newVersion" : "2.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

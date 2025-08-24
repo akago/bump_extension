@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/causeway/pull/2965",
+  "project" : "causeway",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "474db6760da26054c5516f98bbf00062700f84ad",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.jvnet.jaxb2_commons",
+    "dependencyArtifactID" : "jaxb2-namespace-prefix",
+    "previousVersion" : "unknown",
+    "newVersion" : "unknown",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "other",
+    "dependencySection" : "profileBuildPlugins"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

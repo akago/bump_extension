@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/maven/pull/2538",
+  "project" : "maven",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "da8c514091e0d6d697a27dc0d11d63c3818560e7",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.codehaus.plexus",
+    "dependencyArtifactID" : "plexus-utils",
+    "previousVersion" : "3.0.24",
+    "newVersion" : "4.0.2",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencies"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

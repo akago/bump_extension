@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/directory-kerby/pull/439",
+  "project" : "directory-kerby",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "2ea78e2f6d62f22055b1fb6aca43cad33326b23a",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "com.puppycrawl.tools",
+    "dependencyArtifactID" : "checkstyle",
+    "previousVersion" : "9.3",
+    "newVersion" : "10.0",
+    "dependencyScope" : "compile",
+    "versionUpdateType" : "major",
+    "dependencySection" : "buildPluginManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

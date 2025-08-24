@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/valtech/aem-easy-content-upgrade/pull/256",
+  "project" : "aem-easy-content-upgrade",
+  "projectOrganisation" : "valtech",
+  "breakingCommit" : "1755a86b8f3dfed2ec87fcf1d76f329f4acdc87e",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "javax.servlet",
+    "dependencyArtifactID" : "javax.servlet-api",
+    "previousVersion" : "3.0.1",
+    "newVersion" : "4.0.1",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Other"
+}

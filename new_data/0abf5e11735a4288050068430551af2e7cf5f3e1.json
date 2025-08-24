@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1023",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "0abf5e11735a4288050068430551af2e7cf5f3e1",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "org.apache.tomcat",
+    "dependencyArtifactID" : "tomcat-jasper",
+    "previousVersion" : "8.5.53",
+    "newVersion" : "10.1.28",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}

@@ -1,0 +1,2681 @@
+{
+  "stratum/fabric-tna" : {
+    "url" : "https://www.github.com/stratum/fabric-tna",
+    "lastCheckedAt" : null
+  },
+  "stream-pi/client" : {
+    "url" : "https://www.github.com/stream-pi/client",
+    "lastCheckedAt" : "2025-07-25T19:51:20.502+00:00"
+  },
+
+  "paulcwarren/spring-content-examples" : {
+    "url" : "https://www.github.com/paulcwarren/spring-content-examples",
+    "lastCheckedAt" : "2023-08-01T19:07:37.548+00:00"
+  },
+  "apache/hop" : {
+    "url" : "https://www.github.com/apache/hop",
+    "lastCheckedAt" : "2023-08-06T08:20:42.212+00:00"
+  },
+  "palatable/lambda" : {
+    "url" : "https://www.github.com/palatable/lambda",
+    "lastCheckedAt" : "2023-08-01T17:42:14.952+00:00"
+  },
+
+  "strimzi/strimzi-kafka-oauth" : {
+    "url" : "https://www.github.com/strimzi/strimzi-kafka-oauth",
+    "lastCheckedAt" : "2025-07-24T15:17:51.009+00:00"
+  },
+  
+  "streamnative/aop" : {
+    "url" : "https://www.github.com/streamnative/aop",
+    "lastCheckedAt" : "2025-07-24T14:23:54.100+00:00"
+  },
+  "streamnative/kop" : {
+    "url" : "https://www.github.com/streamnative/kop",
+    "lastCheckedAt" : "2025-07-24T15:17:49.614+00:00"
+  },
+  
+  "openhab/openhab-core" : {
+    "url" : "https://www.github.com/openhab/openhab-core",
+    "lastCheckedAt" : "2025-07-24T14:43:31.819+00:00"
+  },
+  "openhab/static-code-analysis" : {
+    "url" : "https://www.github.com/openhab/static-code-analysis",
+    "lastCheckedAt" : "2025-07-24T14:13:55.449+00:00"
+  },
+  "openjdk/jcstress" : {
+    "url" : "https://www.github.com/openjdk/jcstress",
+    "lastCheckedAt" : "2025-07-24T14:15:25.551+00:00"
+  },
+  "openjdk/jmc" : {
+    "url" : "https://www.github.com/openjdk/jmc",
+    "lastCheckedAt" : "2025-07-24T14:18:38.430+00:00"
+  },
+  "openjdk/jmh" : {
+    "url" : "https://www.github.com/openjdk/jmh",
+    "lastCheckedAt" : "2025-07-24T14:12:21.737+00:00"
+  },
+  "openjdk/jol" : {
+    "url" : "https://www.github.com/openjdk/jol",
+    "lastCheckedAt" : "2025-07-24T14:12:55.367+00:00"
+  },
+  "panda-lang/panda" : {
+    "url" : "https://www.github.com/panda-lang/panda",
+    "lastCheckedAt" : "2025-07-24T10:00:34.963+00:00"
+  },
+  "apache/hudi" : {
+    "url" : "https://www.github.com/apache/hudi",
+    "lastCheckedAt" : "2025-07-24T10:00:43.142+00:00"
+  },
+  "apache/incubator-hugegraph" : {
+    "url" : "https://www.github.com/apache/incubator-hugegraph",
+    "lastCheckedAt" : "2025-07-24T10:00:44.502+00:00"
+  },
+  "apache/incubator-hugegraph-commons" : {
+    "url" : "https://www.github.com/apache/incubator-hugegraph-commons",
+    "lastCheckedAt" : "2025-07-24T10:00:45.682+00:00"
+  },
+  "apache/incubator-hugegraph-computer" : {
+    "url" : "https://www.github.com/apache/incubator-hugegraph-computer",
+    "lastCheckedAt" : "2025-07-24T10:00:46.822+00:00"
+  },
+  "apache/incubator-hugegraph-toolchain" : {
+    "url" : "https://www.github.com/apache/incubator-hugegraph-toolchain",
+    "lastCheckedAt" : "2025-07-24T10:00:47.963+00:00"
+  },
+  "apache/incubator-linkis" : {
+    "url" : "https://www.github.com/apache/incubator-linkis",
+    "lastCheckedAt" : "2025-07-24T10:00:49.711+00:00"
+  },
+  "apache/incubator-seatunnel" : {
+    "url" : "https://www.github.com/apache/incubator-seatunnel",
+    "lastCheckedAt" : "2025-07-24T10:00:52.702+00:00"
+  },
+  "apache/incubator-seatunnel-web" : {
+    "url" : "https://www.github.com/apache/incubator-seatunnel-web",
+    "lastCheckedAt" : "2025-07-24T10:00:54.270+00:00"
+  },
+  "apache/incubator-sedona" : {
+    "url" : "https://www.github.com/apache/incubator-sedona",
+    "lastCheckedAt" : "2025-07-24T10:00:15.742+00:00"
+  },
+  "apache/incubator-streampipes" : {
+    "url" : "https://www.github.com/apache/incubator-streampipes",
+    "lastCheckedAt" : "2025-07-24T10:00:18.909+00:00"
+  },
+  "apache/incubator-uniffle" : {
+    "url" : "https://www.github.com/apache/incubator-uniffle",
+    "lastCheckedAt" : "2025-07-24T10:00:22.333+00:00"
+  },
+  "apache/incubator-wayang" : {
+    "url" : "https://www.github.com/apache/incubator-wayang",
+    "lastCheckedAt" : "2025-07-24T10:00:23.554+00:00"
+  },
+  "apache/inlong" : {
+    "url" : "https://www.github.com/apache/inlong",
+    "lastCheckedAt" : "2025-07-24T10:00:25.087+00:00"
+  },
+  "apache/iotdb" : {
+    "url" : "https://www.github.com/apache/iotdb",
+    "lastCheckedAt" : "2025-07-24T10:00:28.839+00:00"
+  },
+  "apache/isis" : {
+    "url" : "https://www.github.com/apache/isis",
+    "lastCheckedAt" : "2025-07-24T10:00:30.189+00:00"
+  },
+  "apache/juddi" : {
+    "url" : "https://www.github.com/apache/juddi",
+    "lastCheckedAt" : "2025-07-24T10:00:31.488+00:00"
+  },
+  "apache/juneau" : {
+    "url" : "https://www.github.com/apache/juneau",
+    "lastCheckedAt" : "2025-07-24T10:00:32.503+00:00"
+  },
+  "apache/karaf-winegrower" : {
+    "url" : "https://www.github.com/apache/karaf-winegrower",
+    "lastCheckedAt" : "2025-07-24T10:00:33.669+00:00"
+  },
+  "apache/knox" : {
+    "url" : "https://www.github.com/apache/knox",
+    "lastCheckedAt" : "2025-07-24T09:59:44.323+00:00"
+  },
+  "apache/kylin" : {
+    "url" : "https://www.github.com/apache/kylin",
+    "lastCheckedAt" : "2025-07-24T09:59:45.444+00:00"
+  },
+  "apache/logging-chainsaw" : {
+    "url" : "https://www.github.com/apache/logging-chainsaw",
+    "lastCheckedAt" : "2025-07-24T09:59:46.586+00:00"
+  },
+  "apache/logging-log4j2" : {
+    "url" : "https://www.github.com/apache/logging-log4j2",
+    "lastCheckedAt" : "2025-07-24T09:59:48.980+00:00"
+  },
+  "apache/mahout" : {
+    "url" : "https://www.github.com/apache/mahout",
+    "lastCheckedAt" : "2025-07-24T09:59:50.269+00:00"
+  },
+  "apache/maven" : {
+    "url" : "https://www.github.com/apache/maven",
+    "lastCheckedAt" : "2025-07-24T09:59:52.847+00:00"
+  },
+  "apache/maven-antrun-plugin" : {
+    "url" : "https://www.github.com/apache/maven-antrun-plugin",
+    "lastCheckedAt" : "2025-07-24T09:59:54.137+00:00"
+  },
+  "apache/maven-archetypes" : {
+    "url" : "https://www.github.com/apache/maven-archetypes",
+    "lastCheckedAt" : "2025-07-24T09:59:55.417+00:00"
+  },
+  "apache/maven-assembly-plugin" : {
+    "url" : "https://www.github.com/apache/maven-assembly-plugin",
+    "lastCheckedAt" : "2025-07-24T09:59:56.710+00:00"
+  },
+  "apache/maven-build-cache-extension" : {
+    "url" : "https://www.github.com/apache/maven-build-cache-extension",
+    "lastCheckedAt" : "2025-07-24T09:59:58.002+00:00"
+  },
+  "apache/maven-changelog-plugin" : {
+    "url" : "https://www.github.com/apache/maven-changelog-plugin",
+    "lastCheckedAt" : "2025-07-24T09:59:59.211+00:00"
+  },
+  "apache/maven-checkstyle-plugin" : {
+    "url" : "https://www.github.com/apache/maven-checkstyle-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:00.391+00:00"
+  },
+  "apache/maven-clean-plugin" : {
+    "url" : "https://www.github.com/apache/maven-clean-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:01.737+00:00"
+  },
+  "apache/maven-compiler-plugin" : {
+    "url" : "https://www.github.com/apache/maven-compiler-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:03.319+00:00"
+  },
+  "apache/maven-dependency-analyzer" : {
+    "url" : "https://www.github.com/apache/maven-dependency-analyzer",
+    "lastCheckedAt" : "2025-07-24T10:00:04.543+00:00"
+  },
+  "apache/maven-dependency-plugin" : {
+    "url" : "https://www.github.com/apache/maven-dependency-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:05.933+00:00"
+  },
+  "apache/maven-dependency-tree" : {
+    "url" : "https://www.github.com/apache/maven-dependency-tree",
+    "lastCheckedAt" : "2025-07-24T10:00:07.115+00:00"
+  },
+  "apache/maven-deploy-plugin" : {
+    "url" : "https://www.github.com/apache/maven-deploy-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:08.428+00:00"
+  },
+  "apache/maven-ear-plugin" : {
+    "url" : "https://www.github.com/apache/maven-ear-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:09.759+00:00"
+  },
+  "apache/maven-gpg-plugin" : {
+    "url" : "https://www.github.com/apache/maven-gpg-plugin",
+    "lastCheckedAt" : "2025-07-24T10:00:11.004+00:00"
+  },
+  "apache/maven-help-plugin" : {
+    "url" : "https://www.github.com/apache/maven-help-plugin",
+    "lastCheckedAt" : "2025-07-24T09:59:10.562+00:00"
+  },
+  "apache/maven-indexer" : {
+    "url" : "https://www.github.com/apache/maven-indexer",
+    "lastCheckedAt" : "2025-07-24T09:59:11.913+00:00"
+  },
+  
+  "openjump-gis/openjump" : {
+    "url" : "https://www.github.com/openjump-gis/openjump",
+    "lastCheckedAt" : "2025-07-24T09:58:54.627+00:00"
+  },
+  "openl-tablets/openl-tablets" : {
+    "url" : "https://www.github.com/openl-tablets/openl-tablets",
+    "lastCheckedAt" : "2025-07-24T09:58:55.697+00:00"
+  },
+  "openmainframeproject/ade" : {
+    "url" : "https://www.github.com/openmainframeproject/ade",
+    "lastCheckedAt" : "2025-07-24T09:58:56.835+00:00"
+  },
+  "openmaptiles/planetiler-openmaptiles" : {
+    "url" : "https://www.github.com/openmaptiles/planetiler-openmaptiles",
+    "lastCheckedAt" : "2025-07-24T09:58:59.404+00:00"
+  },
+  "openmessaging/benchmark" : {
+    "url" : "https://www.github.com/openmessaging/benchmark",
+    "lastCheckedAt" : "2025-07-24T09:59:00.645+00:00"
+  },
+  "openmessaging/dledger" : {
+    "url" : "https://www.github.com/openmessaging/dledger",
+    "lastCheckedAt" : "2025-07-24T09:59:01.995+00:00"
+  },
+  "openmrs/openmrs-core" : {
+    "url" : "https://www.github.com/openmrs/openmrs-core",
+    "lastCheckedAt" : "2025-07-24T09:59:05.693+00:00"
+  },
+  "openmrs/openmrs-module-appointmentscheduling" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-appointmentscheduling",
+    "lastCheckedAt" : "2025-07-24T09:59:06.949+00:00"
+  },
+  "openmrs/openmrs-module-dhisreport" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-dhisreport",
+    "lastCheckedAt" : "2025-07-24T09:59:08.054+00:00"
+  },
+  "openmrs/openmrs-module-emrapi" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-emrapi",
+    "lastCheckedAt" : "2025-07-24T09:59:09.163+00:00"
+  },
+  "openmrs/openmrs-module-fhir2" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-fhir2",
+    "lastCheckedAt" : "2025-07-24T10:01:08.072+00:00"
+  },
+  "openmrs/openmrs-module-htmlformentry" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-htmlformentry",
+    "lastCheckedAt" : "2025-07-24T10:01:09.298+00:00"
+  },
+  "openmrs/openmrs-module-reporting" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-reporting",
+    "lastCheckedAt" : "2025-07-24T10:01:10.853+00:00"
+  },
+  "openmrs/openmrs-module-uiframework" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-uiframework",
+    "lastCheckedAt" : "2025-07-24T10:01:12.164+00:00"
+  },
+  "openmrs/openmrs-module-webservices.rest" : {
+    "url" : "https://www.github.com/openmrs/openmrs-module-webservices.rest",
+    "lastCheckedAt" : "2025-07-24T10:01:14.523+00:00"
+  },
+  "openpnp/openpnp" : {
+    "url" : "https://www.github.com/openpnp/openpnp",
+    "lastCheckedAt" : "2025-07-24T10:01:17.583+00:00"
+  },
+  "openpreserve/jhove" : {
+    "url" : "https://www.github.com/openpreserve/jhove",
+    "lastCheckedAt" : "2025-07-24T10:01:18.848+00:00"
+  },
+  "openraven/magpie" : {
+    "url" : "https://www.github.com/openraven/magpie",
+    "lastCheckedAt" : "2025-07-24T10:01:20.058+00:00"
+  },
+  "openrewrite/rewrite-maven-plugin" : {
+    "url" : "https://www.github.com/openrewrite/rewrite-maven-plugin",
+    "lastCheckedAt" : "2025-07-24T10:01:21.153+00:00"
+  },
+  "opensagres/xdocreport" : {
+    "url" : "https://www.github.com/opensagres/xdocreport",
+    "lastCheckedAt" : "2025-07-24T10:01:22.485+00:00"
+  },
+  "openstreetmap/OSM-binary" : {
+    "url" : "https://www.github.com/openstreetmap/OSM-binary",
+    "lastCheckedAt" : "2025-07-24T10:00:55.594+00:00"
+  },
+  "opentable/otj-pg-embedded" : {
+    "url" : "https://www.github.com/opentable/otj-pg-embedded",
+    "lastCheckedAt" : "2025-07-24T10:00:57.083+00:00"
+  },
+  "opentripplanner/OpenTripPlanner" : {
+    "url" : "https://www.github.com/opentripplanner/OpenTripPlanner",
+    "lastCheckedAt" : "2025-07-24T10:00:58.457+00:00"
+  },
+  "openworm/org.geppetto.core" : {
+    "url" : "https://www.github.com/openworm/org.geppetto.core",
+    "lastCheckedAt" : "2025-07-24T10:00:59.509+00:00"
+  },
+  "openworm/org.geppetto.frontend" : {
+    "url" : "https://www.github.com/openworm/org.geppetto.frontend",
+    "lastCheckedAt" : "2025-07-24T10:01:00.613+00:00"
+  },
+  "openzipkin-contrib/brave-opentracing" : {
+    "url" : "https://www.github.com/openzipkin-contrib/brave-opentracing",
+    "lastCheckedAt" : "2025-07-24T10:01:01.802+00:00"
+  },
+  "openzipkin-contrib/zipkin-storage-kafka" : {
+    "url" : "https://www.github.com/openzipkin-contrib/zipkin-storage-kafka",
+    "lastCheckedAt" : "2025-07-24T10:01:03.025+00:00"
+  },
+  "openzipkin/brave" : {
+    "url" : "https://www.github.com/openzipkin/brave",
+    "lastCheckedAt" : "2025-07-24T10:01:04.313+00:00"
+  },
+  "openzipkin/brave-cassandra" : {
+    "url" : "https://www.github.com/openzipkin/brave-cassandra",
+    "lastCheckedAt" : "2025-07-24T10:01:05.545+00:00"
+  },
+  "openzipkin/brave-example" : {
+    "url" : "https://www.github.com/openzipkin/brave-example",
+    "lastCheckedAt" : "2025-07-24T10:01:06.768+00:00"
+  },
+  "openzipkin/zipkin" : {
+    "url" : "https://www.github.com/openzipkin/zipkin",
+    "lastCheckedAt" : "2025-07-24T09:59:33.287+00:00"
+  },
+  "openzipkin/zipkin-aws" : {
+    "url" : "https://www.github.com/openzipkin/zipkin-aws",
+    "lastCheckedAt" : "2025-07-24T09:59:34.364+00:00"
+  },
+  "openzipkin/zipkin-dependencies" : {
+    "url" : "https://www.github.com/openzipkin/zipkin-dependencies",
+    "lastCheckedAt" : "2025-07-24T09:59:35.611+00:00"
+  },
+  "openzipkin/zipkin-finagle" : {
+    "url" : "https://www.github.com/openzipkin/zipkin-finagle",
+    "lastCheckedAt" : "2025-07-24T09:59:36.943+00:00"
+  },
+  "openzipkin/zipkin-gcp" : {
+    "url" : "https://www.github.com/openzipkin/zipkin-gcp",
+    "lastCheckedAt" : "2025-07-24T09:59:38.376+00:00"
+  },
+  "openzipkin/zipkin-reporter-java" : {
+    "url" : "https://www.github.com/openzipkin/zipkin-reporter-java",
+    "lastCheckedAt" : "2025-07-24T09:59:39.431+00:00"
+  },
+  "ops4j/org.ops4j.pax.web" : {
+    "url" : "https://www.github.com/ops4j/org.ops4j.pax.web",
+    "lastCheckedAt" : "2025-07-24T09:59:40.680+00:00"
+  },
+  "optimatika/ojAlgo" : {
+    "url" : "https://www.github.com/optimatika/ojAlgo",
+    "lastCheckedAt" : "2025-07-24T09:59:41.871+00:00"
+  },
+  "oracle/olcut" : {
+    "url" : "https://www.github.com/oracle/olcut",
+    "lastCheckedAt" : "2025-07-24T09:59:43.076+00:00"
+  },
+  "oracle/opengrok" : {
+    "url" : "https://www.github.com/oracle/opengrok",
+    "lastCheckedAt" : "2025-07-24T09:59:18.891+00:00"
+  },
+  "oracle/oracle-r2dbc" : {
+    "url" : "https://www.github.com/oracle/oracle-r2dbc",
+    "lastCheckedAt" : "2025-07-24T09:59:20.198+00:00"
+  },
+  "oracle/tribuo" : {
+    "url" : "https://www.github.com/oracle/tribuo",
+    "lastCheckedAt" : "2025-07-24T09:59:21.535+00:00"
+  },
+  "oracle/weblogic-kubernetes-operator" : {
+    "url" : "https://www.github.com/oracle/weblogic-kubernetes-operator",
+    "lastCheckedAt" : "2025-07-24T09:59:22.748+00:00"
+  },
+  "oracle/weblogic-monitoring-exporter" : {
+    "url" : "https://www.github.com/oracle/weblogic-monitoring-exporter",
+    "lastCheckedAt" : "2025-07-24T09:59:24.005+00:00"
+  },
+  "orbisgis/cts" : {
+    "url" : "https://www.github.com/orbisgis/cts",
+    "lastCheckedAt" : "2025-07-24T09:59:25.144+00:00"
+  },
+  "orbisgis/h2gis" : {
+    "url" : "https://www.github.com/orbisgis/h2gis",
+    "lastCheckedAt" : "2025-07-24T09:59:27.711+00:00"
+  },
+  "oriedita/oriedita" : {
+    "url" : "https://www.github.com/oriedita/oriedita",
+    "lastCheckedAt" : "2025-07-24T09:59:29.891+00:00"
+  },
+  "orientechnologies/orientdb" : {
+    "url" : "https://www.github.com/orientechnologies/orientdb",
+    "lastCheckedAt" : "2025-07-24T09:59:31.028+00:00"
+  },
+  "oripa/oripa" : {
+    "url" : "https://www.github.com/oripa/oripa",
+    "lastCheckedAt" : "2025-07-24T09:59:32.238+00:00"
+  },
+  "orphan-oss/launch4j-maven-plugin" : {
+    "url" : "https://www.github.com/orphan-oss/launch4j-maven-plugin",
+    "lastCheckedAt" : "2025-07-24T09:58:54.593+00:00"
+  },
+  "ory/hydra-client-java" : {
+    "url" : "https://www.github.com/ory/hydra-client-java",
+    "lastCheckedAt" : "2025-07-24T09:58:55.666+00:00"
+  },
+  "osalvador/ReplicaDB" : {
+    "url" : "https://www.github.com/osalvador/ReplicaDB",
+    "lastCheckedAt" : "2025-07-24T09:58:56.830+00:00"
+  },
+  "osgi/osgi-test" : {
+    "url" : "https://www.github.com/osgi/osgi-test",
+    "lastCheckedAt" : "2025-07-24T09:58:59.103+00:00"
+  },
+  "osgi/osgi.enroute" : {
+    "url" : "https://www.github.com/osgi/osgi.enroute",
+    "lastCheckedAt" : "2025-07-24T09:59:00.639+00:00"
+  },
+  "osgi/slf4j-osgi" : {
+    "url" : "https://www.github.com/osgi/slf4j-osgi",
+    "lastCheckedAt" : "2025-07-24T09:59:02.066+00:00"
+  },
+  "oshi/oshi" : {
+    "url" : "https://www.github.com/oshi/oshi",
+    "lastCheckedAt" : "2025-07-24T09:59:03.193+00:00"
+  },
+  "osiegmar/FastCSV" : {
+    "url" : "https://www.github.com/osiegmar/FastCSV",
+    "lastCheckedAt" : "2025-07-24T09:59:04.253+00:00"
+  },
+  "osiegmar/logback-gelf" : {
+    "url" : "https://www.github.com/osiegmar/logback-gelf",
+    "lastCheckedAt" : "2025-07-24T09:59:05.592+00:00"
+  },
+  "oskariorg/oskari-server" : {
+    "url" : "https://www.github.com/oskariorg/oskari-server",
+    "lastCheckedAt" : "2025-07-24T09:59:06.698+00:00"
+  },
+  "oskopek/javaanpr" : {
+    "url" : "https://www.github.com/oskopek/javaanpr",
+    "lastCheckedAt" : "2025-07-24T09:59:07.746+00:00"
+  },
+  "osscameroon/js-generator" : {
+    "url" : "https://www.github.com/osscameroon/js-generator",
+    "lastCheckedAt" : "2025-07-24T09:59:08.852+00:00"
+  },
+  "otavanopisto/muikku" : {
+    "url" : "https://www.github.com/otavanopisto/muikku",
+    "lastCheckedAt" : "2025-07-24T09:59:09.883+00:00"
+  },
+  "otavanopisto/pyramus" : {
+    "url" : "https://www.github.com/otavanopisto/pyramus",
+    "lastCheckedAt" : "2025-07-24T09:59:10.990+00:00"
+  },
+  "overture-stack/ego" : {
+    "url" : "https://www.github.com/overture-stack/ego",
+    "lastCheckedAt" : "2025-07-24T09:59:12.239+00:00"
+  },
+  "oxctl/spring-security-lti13" : {
+    "url" : "https://www.github.com/oxctl/spring-security-lti13",
+    "lastCheckedAt" : "2025-07-24T09:59:13.433+00:00"
+  },
+  "ozlerhakan/poiji" : {
+    "url" : "https://www.github.com/ozlerhakan/poiji",
+    "lastCheckedAt" : "2025-07-24T09:59:14.490+00:00"
+  },
+  "pac4j/dropwizard-pac4j" : {
+    "url" : "https://www.github.com/pac4j/dropwizard-pac4j",
+    "lastCheckedAt" : "2025-07-24T09:59:15.569+00:00"
+  },
+  "pac4j/javalin-pac4j" : {
+    "url" : "https://www.github.com/pac4j/javalin-pac4j",
+    "lastCheckedAt" : "2025-07-24T09:59:16.552+00:00"
+  },
+  "pac4j/jax-rs-pac4j" : {
+    "url" : "https://www.github.com/pac4j/jax-rs-pac4j",
+    "lastCheckedAt" : "2025-07-24T09:59:17.682+00:00"
+  },
+  "pac4j/jee-pac4j" : {
+    "url" : "https://www.github.com/pac4j/jee-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:36.097+00:00"
+  },
+  "pac4j/pac4j" : {
+    "url" : "https://www.github.com/pac4j/pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:39.346+00:00"
+  },
+  "pac4j/play-pac4j" : {
+    "url" : "https://www.github.com/pac4j/play-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:40.461+00:00"
+  },
+  "pac4j/spark-pac4j" : {
+    "url" : "https://www.github.com/pac4j/spark-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:41.524+00:00"
+  },
+  "pac4j/spring-security-pac4j" : {
+    "url" : "https://www.github.com/pac4j/spring-security-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:42.624+00:00"
+  },
+  "pac4j/spring-webmvc-pac4j" : {
+    "url" : "https://www.github.com/pac4j/spring-webmvc-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:43.748+00:00"
+  },
+  "pac4j/undertow-pac4j" : {
+    "url" : "https://www.github.com/pac4j/undertow-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:44.791+00:00"
+  },
+  "pac4j/vertx-pac4j" : {
+    "url" : "https://www.github.com/pac4j/vertx-pac4j",
+    "lastCheckedAt" : "2025-07-24T10:01:45.909+00:00"
+  },
+  "package-url/packageurl-java" : {
+    "url" : "https://www.github.com/package-url/packageurl-java",
+    "lastCheckedAt" : "2025-07-24T10:01:46.970+00:00"
+  },
+  "padreati/rapaio" : {
+    "url" : "https://www.github.com/padreati/rapaio",
+    "lastCheckedAt" : "2025-07-24T10:01:23.576+00:00"
+  },
+  "pagehelper/Mybatis-PageHelper" : {
+    "url" : "https://www.github.com/pagehelper/Mybatis-PageHelper",
+    "lastCheckedAt" : "2025-07-24T10:01:24.946+00:00"
+  },
+  "paritytrading/juncture" : {
+    "url" : "https://www.github.com/paritytrading/juncture",
+    "lastCheckedAt" : "2025-07-24T10:01:26.092+00:00"
+  },
+  "paritytrading/nassau" : {
+    "url" : "https://www.github.com/paritytrading/nassau",
+    "lastCheckedAt" : "2025-07-24T10:01:27.304+00:00"
+  },
+  "paritytrading/parity" : {
+    "url" : "https://www.github.com/paritytrading/parity",
+    "lastCheckedAt" : "2025-07-24T10:01:28.598+00:00"
+  },
+  "paritytrading/philadelphia" : {
+    "url" : "https://www.github.com/paritytrading/philadelphia",
+    "lastCheckedAt" : "2025-07-24T10:01:29.816+00:00"
+  },
+  "paritytrading/philadelphia-extras" : {
+    "url" : "https://www.github.com/paritytrading/philadelphia-extras",
+    "lastCheckedAt" : "2025-07-24T10:01:30.998+00:00"
+  },
+  "paseto-toolkit/jpaseto" : {
+    "url" : "https://www.github.com/paseto-toolkit/jpaseto",
+    "lastCheckedAt" : "2025-07-24T10:01:32.220+00:00"
+  },
+  "paulcwarren/spring-content" : {
+    "url" : "https://www.github.com/paulcwarren/spring-content",
+    "lastCheckedAt" : "2025-07-24T10:01:33.550+00:00"
+  },
+  "paultuckey/urlrewritefilter" : {
+    "url" : "https://www.github.com/paultuckey/urlrewritefilter",
+    "lastCheckedAt" : "2025-07-24T10:01:34.880+00:00"
+  },
+  "pazone/ashot" : {
+    "url" : "https://www.github.com/pazone/ashot",
+    "lastCheckedAt" : "2025-07-24T09:58:54.652+00:00"
+  },
+  "pentaho/pentaho-kettle" : {
+    "url" : "https://www.github.com/pentaho/pentaho-kettle",
+    "lastCheckedAt" : "2025-07-24T09:58:56.082+00:00"
+  },
+  "pentaho/pentaho-platform" : {
+    "url" : "https://www.github.com/pentaho/pentaho-platform",
+    "lastCheckedAt" : "2025-07-24T09:58:57.472+00:00"
+  },
+  "performancecopilot/parfait" : {
+    "url" : "https://www.github.com/performancecopilot/parfait",
+    "lastCheckedAt" : "2025-07-24T09:58:58.632+00:00"
+  },
+  "perplexhub/rsql-jpa-specification" : {
+    "url" : "https://www.github.com/perplexhub/rsql-jpa-specification",
+    "lastCheckedAt" : "2025-07-24T09:58:59.818+00:00"
+  },
+  "personium/personium-core" : {
+    "url" : "https://www.github.com/personium/personium-core",
+    "lastCheckedAt" : "2025-07-24T09:59:00.939+00:00"
+  },
+  
+  "streamnative/mop" : {
+    "url" : "https://www.github.com/streamnative/mop",
+    "lastCheckedAt" : "2025-07-24T10:01:49.413+00:00"
+  },
+  "streamnative/pulsar-flink" : {
+    "url" : "https://www.github.com/streamnative/pulsar-flink",
+    "lastCheckedAt" : "2025-07-24T10:01:50.873+00:00"
+  },
+  "streamnative/pulsar-io-cloud-storage" : {
+    "url" : "https://www.github.com/streamnative/pulsar-io-cloud-storage",
+    "lastCheckedAt" : "2025-07-24T10:01:52.352+00:00"
+  },
+  "streamnative/rop" : {
+    "url" : "https://www.github.com/streamnative/rop",
+    "lastCheckedAt" : "2025-07-24T10:01:53.852+00:00"
+  },
+  "streamreasoning/rsp4j" : {
+    "url" : "https://www.github.com/streamreasoning/rsp4j",
+    "lastCheckedAt" : "2025-07-24T10:01:54.936+00:00"
+  },
+  "streamthoughts/jikkou" : {
+    "url" : "https://www.github.com/streamthoughts/jikkou",
+    "lastCheckedAt" : "2025-07-24T10:01:56.631+00:00"
+  },
+  "streamthoughts/kafka-connect-file-pulse" : {
+    "url" : "https://www.github.com/streamthoughts/kafka-connect-file-pulse",
+    "lastCheckedAt" : "2025-07-24T10:01:57.745+00:00"
+  },
+  "streamxhub/jobx" : {
+    "url" : "https://www.github.com/streamxhub/jobx",
+    "lastCheckedAt" : "2025-07-24T10:01:59.028+00:00"
+  },
+  "strimzi/strimzi-kafka-bridge" : {
+    "url" : "https://www.github.com/strimzi/strimzi-kafka-bridge",
+    "lastCheckedAt" : "2025-07-24T10:02:00.429+00:00"
+  },
+  "palladian/palladian" : {
+    "url" : "https://www.github.com/palladian/palladian",
+    "lastCheckedAt" : "2025-07-22T15:19:29.418+00:00"
+  },
+  
+  "apache/maven-install-plugin": {
+    "url": "https://www.github.com/apache/maven-install-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:24.485+00:00"
+  },
+  "apache/maven-integration-testing": {
+    "url": "https://www.github.com/apache/maven-integration-testing",
+    "lastCheckedAt": "2025-07-17T20:01:25.570+00:00"
+  },
+  "apache/maven-invoker": {
+    "url": "https://www.github.com/apache/maven-invoker",
+    "lastCheckedAt": "2025-07-17T20:01:27.495+00:00"
+  },
+  "apache/maven-invoker-plugin": {
+    "url": "https://www.github.com/apache/maven-invoker-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:29.505+00:00"
+  },
+  "apache/maven-jar-plugin": {
+    "url": "https://www.github.com/apache/maven-jar-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:30.707+00:00"
+  },
+  "apache/maven-jarsigner-plugin": {
+    "url": "https://www.github.com/apache/maven-jarsigner-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:33.066+00:00"
+  },
+  "apache/maven-javadoc-plugin": {
+    "url": "https://www.github.com/apache/maven-javadoc-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:35.555+00:00"
+  },
+  "apache/maven-jlink-plugin": {
+    "url": "https://www.github.com/apache/maven-jlink-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:37.739+00:00"
+  },
+  "apache/maven-mvnd": {
+    "url": "https://www.github.com/apache/maven-mvnd",
+    "lastCheckedAt": "2025-07-17T20:01:40.675+00:00"
+  },
+  "apache/maven-pdf-plugin": {
+    "url": "https://www.github.com/apache/maven-pdf-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:41.799+00:00"
+  },
+  "apache/maven-pmd-plugin": {
+    "url": "https://www.github.com/apache/maven-pmd-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:44.052+00:00"
+  },
+  "apache/maven-project-info-reports-plugin": {
+    "url": "https://www.github.com/apache/maven-project-info-reports-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:46.097+00:00"
+  },
+  "apache/maven-resolver": {
+    "url": "https://www.github.com/apache/maven-resolver",
+    "lastCheckedAt": "2025-07-17T20:01:47.716+00:00"
+  },
+  "apache/maven-resources-plugin": {
+    "url": "https://www.github.com/apache/maven-resources-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:50.157+00:00"
+  },
+  "apache/maven-shade-plugin": {
+    "url": "https://www.github.com/apache/maven-shade-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:52.223+00:00"
+  },
+  "apache/maven-shared-utils": {
+    "url": "https://www.github.com/apache/maven-shared-utils",
+    "lastCheckedAt": "2025-07-17T20:01:54.110+00:00"
+  },
+  "apache/maven-site-plugin": {
+    "url": "https://www.github.com/apache/maven-site-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:56.107+00:00"
+  },
+  "apache/maven-source-plugin": {
+    "url": "https://www.github.com/apache/maven-source-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:57.197+00:00"
+  },
+  "apache/maven-surefire": {
+    "url": "https://www.github.com/apache/maven-surefire",
+    "lastCheckedAt": "2025-07-17T20:01:59.200+00:00"
+  },
+  "apache/maven-toolchains-plugin": {
+    "url": "https://www.github.com/apache/maven-toolchains-plugin",
+    "lastCheckedAt": "2025-07-17T20:02:01.446+00:00"
+  },
+  "apache/maven-verifier-plugin": {
+    "url": "https://www.github.com/apache/maven-verifier-plugin",
+    "lastCheckedAt": "2025-07-17T20:02:03.210+00:00"
+  },
+  "apache/maven-war-plugin": {
+    "url": "https://www.github.com/apache/maven-war-plugin",
+    "lastCheckedAt": "2025-07-17T20:02:05.278+00:00"
+  },
+  "apache/maven-wrapper": {
+    "url": "https://www.github.com/apache/maven-wrapper",
+    "lastCheckedAt": "2025-07-17T20:02:08.367+00:00"
+  },
+  "apache/mina-ftpserver": {
+    "url": "https://www.github.com/apache/mina-ftpserver",
+    "lastCheckedAt": "2025-07-17T20:02:09.621+00:00"
+  },
+  "apache/mina-sshd": {
+    "url": "https://www.github.com/apache/mina-sshd",
+    "lastCheckedAt": "2025-07-17T20:02:10.797+00:00"
+  },
+  "apache/mnemonic": {
+    "url": "https://www.github.com/apache/mnemonic",
+    "lastCheckedAt": "2025-07-17T20:02:11.905+00:00"
+  },
+  "apache/myfaces": {
+    "url": "https://www.github.com/apache/myfaces",
+    "lastCheckedAt": "2025-07-17T20:02:13.002+00:00"
+  },
+  "apache/myfaces-tobago": {
+    "url": "https://www.github.com/apache/myfaces-tobago",
+    "lastCheckedAt": "2025-07-17T20:02:20.735+00:00"
+  },
+  "apache/netbeans-html4j": {
+    "url": "https://www.github.com/apache/netbeans-html4j",
+    "lastCheckedAt": "2025-07-17T20:02:21.796+00:00"
+  },
+  "apache/nifi": {
+    "url": "https://www.github.com/apache/nifi",
+    "lastCheckedAt": "2025-07-17T20:02:27.519+00:00"
+  },
+  "apache/nifi-registry": {
+    "url": "https://www.github.com/apache/nifi-registry",
+    "lastCheckedAt": "2025-07-17T20:02:28.882+00:00"
+  },
+  "apache/olingo-odata2": {
+    "url": "https://www.github.com/apache/olingo-odata2",
+    "lastCheckedAt": "2025-07-17T20:02:30.068+00:00"
+  },
+  "apache/olingo-odata4": {
+    "url": "https://www.github.com/apache/olingo-odata4",
+    "lastCheckedAt": "2025-07-17T20:02:31.290+00:00"
+  },
+  "apache/opennlp": {
+    "url": "https://www.github.com/apache/opennlp",
+    "lastCheckedAt": "2025-07-17T20:02:32.434+00:00"
+  },
+  "apache/ozone": {
+    "url": "https://www.github.com/apache/ozone",
+    "lastCheckedAt": "2025-07-17T20:02:37.828+00:00"
+  },
+  "apache/parquet-format": {
+    "url": "https://www.github.com/apache/parquet-format",
+    "lastCheckedAt": "2025-07-17T20:02:39.182+00:00"
+  },
+  "apache/parquet-mr": {
+    "url": "https://www.github.com/apache/parquet-mr",
+    "lastCheckedAt": "2025-07-17T20:02:40.482+00:00"
+  },
+  "apache/pinot": {
+    "url": "https://www.github.com/apache/pinot",
+    "lastCheckedAt": "2025-07-17T20:02:49.994+00:00"
+  },
+  "apache/plc4x": {
+    "url": "https://www.github.com/apache/plc4x",
+    "lastCheckedAt": "2025-07-17T20:02:50.989+00:00"
+  },
+  "apache/pulsar": {
+    "url": "https://www.github.com/apache/pulsar",
+    "lastCheckedAt": "2025-07-17T20:02:55.527+00:00"
+  },
+  "apache/pulsar-adapters": {
+    "url": "https://www.github.com/apache/pulsar-adapters",
+    "lastCheckedAt": "2025-07-17T20:02:56.747+00:00"
+  },
+  "apache/pulsar-connectors": {
+    "url": "https://www.github.com/apache/pulsar-connectors",
+    "lastCheckedAt": "2025-07-17T20:02:57.616+00:00"
+  },
+  "apache/pulsar-presto": {
+    "url": "https://www.github.com/apache/pulsar-presto",
+    "lastCheckedAt": "2025-07-17T19:48:40.003+00:00"
+  },
+  "apache/qpid-jms": {
+    "url": "https://www.github.com/apache/qpid-jms",
+    "lastCheckedAt": "2025-07-17T19:48:41.305+00:00"
+  },
+  "apache/qpid-proton-j": {
+    "url": "https://www.github.com/apache/qpid-proton-j",
+    "lastCheckedAt": "2025-07-17T19:48:42.473+00:00"
+  },
+  "apache/qpid-protonj2": {
+    "url": "https://www.github.com/apache/qpid-protonj2",
+    "lastCheckedAt": "2025-07-17T19:48:43.516+00:00"
+  },
+  "apache/ratis": {
+    "url": "https://www.github.com/apache/ratis",
+    "lastCheckedAt": "2025-07-17T19:48:44.683+00:00"
+  },
+  "apache/rocketmq": {
+    "url": "https://www.github.com/apache/rocketmq",
+    "lastCheckedAt": "2025-07-17T19:48:46.933+00:00"
+  },
+  "apache/rocketmq-connect": {
+    "url": "https://www.github.com/apache/rocketmq-connect",
+    "lastCheckedAt": "2025-07-17T19:48:48.313+00:00"
+  },
+  "apache/rocketmq-eventbridge": {
+    "url": "https://www.github.com/apache/rocketmq-eventbridge",
+    "lastCheckedAt": "2025-07-17T19:48:49.434+00:00"
+  },
+  "apache/rocketmq-spring": {
+    "url": "https://www.github.com/apache/rocketmq-spring",
+    "lastCheckedAt": "2025-07-17T19:48:50.700+00:00"
+  },
+  "apache/santuario-xml-security-java": {
+    "url": "https://www.github.com/apache/santuario-xml-security-java",
+    "lastCheckedAt": "2025-07-17T19:48:51.731+00:00"
+  },
+  "apache/servicecomb-java-chassis": {
+    "url": "https://www.github.com/apache/servicecomb-java-chassis",
+    "lastCheckedAt": "2025-07-17T19:48:52.760+00:00"
+  },
+  "apache/servicecomb-pack": {
+    "url": "https://www.github.com/apache/servicecomb-pack",
+    "lastCheckedAt": "2025-07-17T19:48:54.078+00:00"
+  },
+  "apache/shardingsphere-elasticjob": {
+    "url": "https://www.github.com/apache/shardingsphere-elasticjob",
+    "lastCheckedAt": "2025-07-17T19:48:56.446+00:00"
+  },
+  "apache/shardingsphere-elasticjob-ui": {
+    "url": "https://www.github.com/apache/shardingsphere-elasticjob-ui",
+    "lastCheckedAt": "2025-07-17T19:48:57.671+00:00"
+  },
+  "apache/shenyu": {
+    "url": "https://www.github.com/apache/shenyu",
+    "lastCheckedAt": "2025-07-17T19:49:01.445+00:00"
+  },
+  "apache/shiro": {
+    "url": "https://www.github.com/apache/shiro",
+    "lastCheckedAt": "2025-07-17T19:49:03.805+00:00"
+  },
+  "apache/skywalking": {
+    "url": "https://www.github.com/apache/skywalking",
+    "lastCheckedAt": "2025-07-17T19:49:06.244+00:00"
+  },
+  "apache/skywalking-java": {
+    "url": "https://www.github.com/apache/skywalking-java",
+    "lastCheckedAt": "2025-07-17T19:49:08.612+00:00"
+  },
+  "apache/streams": {
+    "url": "https://www.github.com/apache/streams",
+    "lastCheckedAt": "2025-07-17T19:49:09.593+00:00"
+  },
+  "apache/struts": {
+    "url": "https://www.github.com/apache/struts",
+    "lastCheckedAt": "2025-07-17T19:49:10.626+00:00"
+  },
+  "apache/struts-examples": {
+    "url": "https://www.github.com/apache/struts-examples",
+    "lastCheckedAt": "2025-07-17T19:49:11.594+00:00"
+  },
+  "apache/submarine": {
+    "url": "https://www.github.com/apache/submarine",
+    "lastCheckedAt": "2025-07-17T19:49:12.875+00:00"
+  },
+  "apache/syncope": {
+    "url": "https://www.github.com/apache/syncope",
+    "lastCheckedAt": "2025-07-17T19:49:15.429+00:00"
+  },
+  "apache/systemds": {
+    "url": "https://www.github.com/apache/systemds",
+    "lastCheckedAt": "2025-07-17T19:49:16.715+00:00"
+  },
+  "apache/tinkerpop": {
+    "url": "https://www.github.com/apache/tinkerpop",
+    "lastCheckedAt": "2025-07-17T19:49:19.061+00:00"
+  },
+  "apache/tomcat-jakartaee-migration": {
+    "url": "https://www.github.com/apache/tomcat-jakartaee-migration",
+    "lastCheckedAt": "2025-07-17T19:49:20.144+00:00"
+  },
+  "apache/tomee": {
+    "url": "https://www.github.com/apache/tomee",
+    "lastCheckedAt": "2025-07-17T19:49:22.245+00:00"
+  },
+  "apache/unomi": {
+    "url": "https://www.github.com/apache/unomi",
+    "lastCheckedAt": "2025-07-17T19:49:23.289+00:00"
+  },
+  "apache/ws-wss4j": {
+    "url": "https://www.github.com/apache/ws-wss4j",
+    "lastCheckedAt": "2025-07-17T19:49:24.472+00:00"
+  },
+  "apache/zeppelin": {
+    "url": "https://www.github.com/apache/zeppelin",
+    "lastCheckedAt": "2025-07-17T19:49:27.183+00:00"
+  },
+  "apereo/java-cas-client": {
+    "url": "https://www.github.com/apereo/java-cas-client",
+    "lastCheckedAt": "2025-07-17T19:49:29.539+00:00"
+  },
+  "apereo/person-directory": {
+    "url": "https://www.github.com/apereo/person-directory",
+    "lastCheckedAt": "2025-07-17T19:49:30.790+00:00"
+  },
+  "apiman/apiman": {
+    "url": "https://www.github.com/apiman/apiman",
+    "lastCheckedAt": "2025-07-17T19:49:31.907+00:00"
+  },
+  "apiman/apiman-plugins": {
+    "url": "https://www.github.com/apiman/apiman-plugins",
+    "lastCheckedAt": "2025-07-17T19:49:33.092+00:00"
+  },
+  "apolloconfig/apollo": {
+    "url": "https://www.github.com/apolloconfig/apollo",
+    "lastCheckedAt": "2025-07-17T19:49:34.659+00:00"
+  },
+  "appform-io/dropwizard-service-discovery": {
+    "url": "https://www.github.com/appform-io/dropwizard-service-discovery",
+    "lastCheckedAt": "2025-07-17T19:49:36.084+00:00"
+  },
+  "applitools/eyes.sdk.java3": {
+    "url": "https://www.github.com/applitools/eyes.sdk.java3",
+    "lastCheckedAt": "2025-07-17T19:50:36.517+00:00"
+  },
+  "approvals/ApprovalTests.Java": {
+    "url": "https://www.github.com/approvals/ApprovalTests.Java",
+    "lastCheckedAt": "2025-07-17T19:50:37.517+00:00"
+  },
+  "arachan/JasperReportsBoot": {
+    "url": "https://www.github.com/arachan/JasperReportsBoot",
+    "lastCheckedAt": "2025-07-17T19:50:38.462+00:00"
+  },
+  "aragozin/jvm-tools": {
+    "url": "https://www.github.com/aragozin/jvm-tools",
+    "lastCheckedAt": "2025-07-17T19:50:39.623+00:00"
+  },
+  "arangodb/arangodb-java-driver": {
+    "url": "https://www.github.com/arangodb/arangodb-java-driver",
+    "lastCheckedAt": "2025-07-17T19:50:40.676+00:00"
+  },
+  "arangodb/jackson-dataformat-velocypack": {
+    "url": "https://www.github.com/arangodb/jackson-dataformat-velocypack",
+    "lastCheckedAt": "2025-07-17T19:50:41.688+00:00"
+  },
+  "arangodb/java-velocypack": {
+    "url": "https://www.github.com/arangodb/java-velocypack",
+    "lastCheckedAt": "2025-07-17T19:50:42.750+00:00"
+  },
+  "arangodb/spring-data": {
+    "url": "https://www.github.com/arangodb/spring-data",
+    "lastCheckedAt": "2025-07-17T19:50:43.834+00:00"
+  },
+  "arces-wot/SEPA": {
+    "url": "https://www.github.com/arces-wot/SEPA",
+    "lastCheckedAt": "2025-07-17T19:50:45.000+00:00"
+  },
+  "archifacts/archifacts": {
+    "url": "https://www.github.com/archifacts/archifacts",
+    "lastCheckedAt": "2025-07-17T19:50:45.987+00:00"
+  },
+  "arextest/arex-agent-java": {
+    "url": "https://www.github.com/arextest/arex-agent-java",
+    "lastCheckedAt": "2025-07-17T19:50:47.196+00:00"
+  },
+  "arloor/HttpProxy": {
+    "url": "https://www.github.com/arloor/HttpProxy",
+    "lastCheckedAt": "2025-07-17T19:50:48.152+00:00"
+  },
+  "arquillian/arquillian-container-osgi": {
+    "url": "https://www.github.com/arquillian/arquillian-container-osgi",
+    "lastCheckedAt": "2025-07-17T19:50:49.226+00:00"
+  },
+  "arquillian/arquillian-container-tomcat": {
+    "url": "https://www.github.com/arquillian/arquillian-container-tomcat",
+    "lastCheckedAt": "2025-07-17T19:50:50.187+00:00"
+  },
+  "arquillian/arquillian-container-weld": {
+    "url": "https://www.github.com/arquillian/arquillian-container-weld",
+    "lastCheckedAt": "2025-07-17T19:50:51.171+00:00"
+  },
+  "artipie/artipie": {
+    "url": "https://www.github.com/artipie/artipie",
+    "lastCheckedAt": "2025-07-17T19:50:52.184+00:00"
+  },
+  "artipie/asto": {
+    "url": "https://www.github.com/artipie/asto",
+    "lastCheckedAt": "2025-07-17T19:50:53.456+00:00"
+  },
+  "artipie/composer-adapter": {
+    "url": "https://www.github.com/artipie/composer-adapter",
+    "lastCheckedAt": "2025-07-17T19:51:53.968+00:00"
+  },
+  "artipie/debian-adapter": {
+    "url": "https://www.github.com/artipie/debian-adapter",
+    "lastCheckedAt": "2025-07-17T19:52:54.440+00:00"
+  },
+  "artipie/docker-adapter": {
+    "url": "https://www.github.com/artipie/docker-adapter",
+    "lastCheckedAt": "2025-07-17T19:53:54.897+00:00"
+  },
+  "artipie/files-adapter": {
+    "url": "https://www.github.com/artipie/files-adapter",
+    "lastCheckedAt": "2025-07-17T19:54:55.384+00:00"
+  },
+  "artipie/go-adapter": {
+    "url": "https://www.github.com/artipie/go-adapter",
+    "lastCheckedAt": "2025-07-17T19:55:55.881+00:00"
+  },
+  "artipie/http": {
+    "url": "https://www.github.com/artipie/http",
+    "lastCheckedAt": "2025-07-17T19:56:56.367+00:00"
+  },
+  "artipie/maven-adapter": {
+    "url": "https://www.github.com/artipie/maven-adapter",
+    "lastCheckedAt": "2025-07-17T19:57:56.868+00:00"
+  },
+  "artipie/npm-adapter": {
+    "url": "https://www.github.com/artipie/npm-adapter",
+    "lastCheckedAt": "2025-07-17T19:58:57.328+00:00"
+  },
+  "artipie/nuget-adapter": {
+    "url": "https://www.github.com/artipie/nuget-adapter",
+    "lastCheckedAt": "2025-07-17T19:59:57.830+00:00"
+  },
+  "artipie/pypi-adapter": {
+    "url": "https://www.github.com/artipie/pypi-adapter",
+    "lastCheckedAt": "2025-07-17T20:00:58.387+00:00"
+  },
+  "artipie/rpm-adapter": {
+    "url": "https://www.github.com/artipie/rpm-adapter",
+    "lastCheckedAt": "2025-07-17T20:00:59.451+00:00"
+  },
+  "asciidocfx/AsciidocFX": {
+    "url": "https://www.github.com/asciidocfx/AsciidocFX",
+    "lastCheckedAt": "2025-07-17T20:01:00.602+00:00"
+  },
+  "asciidoctor/asciidoctor-maven-examples": {
+    "url": "https://www.github.com/asciidoctor/asciidoctor-maven-examples",
+    "lastCheckedAt": "2025-07-17T20:01:01.542+00:00"
+  },
+  "asciidoctor/asciidoctor-maven-plugin": {
+    "url": "https://www.github.com/asciidoctor/asciidoctor-maven-plugin",
+    "lastCheckedAt": "2025-07-17T20:01:02.480+00:00"
+  },
+  "aserg-ufmg/apidiff": {
+    "url": "https://www.github.com/aserg-ufmg/apidiff",
+    "lastCheckedAt": "2025-07-17T20:01:03.441+00:00"
+  },
+  "asgardeo/asgardeo-java-oidc-sdk": {
+    "url": "https://www.github.com/asgardeo/asgardeo-java-oidc-sdk",
+    "lastCheckedAt": "2025-07-17T20:01:04.641+00:00"
+  },
+  "asgardeo/asgardeo-java-saml-sdk": {
+    "url": "https://www.github.com/asgardeo/asgardeo-java-saml-sdk",
+    "lastCheckedAt": "2025-07-17T20:01:05.913+00:00"
+  },
+  "asgardeo/asgardeo-tomcat-oidc-agent": {
+    "url": "https://www.github.com/asgardeo/asgardeo-tomcat-oidc-agent",
+    "lastCheckedAt": "2025-07-17T20:01:07.121+00:00"
+  },
+  "asgardeo/asgardeo-tomcat-saml-agent": {
+    "url": "https://www.github.com/asgardeo/asgardeo-tomcat-saml-agent",
+    "lastCheckedAt": "2025-07-17T20:01:08.499+00:00"
+  },
+  "askimed/nf-test": {
+    "url": "https://www.github.com/askimed/nf-test",
+    "lastCheckedAt": "2025-07-17T20:01:09.708+00:00"
+  },
+  "assertj/assertj": {
+    "url": "https://www.github.com/assertj/assertj",
+    "lastCheckedAt": "2025-07-17T20:01:11.928+00:00"
+  },
+  "assertj/assertj-assertions-generator": {
+    "url": "https://www.github.com/assertj/assertj-assertions-generator",
+    "lastCheckedAt": "2025-07-17T20:01:13.264+00:00"
+  },
+  "assertj/assertj-db": {
+    "url": "https://www.github.com/assertj/assertj-db",
+    "lastCheckedAt": "2025-07-17T20:01:14.439+00:00"
+  },
+  "assertj/assertj-guava": {
+    "url": "https://www.github.com/assertj/assertj-guava",
+    "lastCheckedAt": "2025-07-17T20:01:15.648+00:00"
+  },
+  "assertj/assertj-vavr": {
+    "url": "https://www.github.com/assertj/assertj-vavr",
+    "lastCheckedAt": "2025-07-17T20:01:16.756+00:00"
+  },
+  "asterisk-java/asterisk-java": {
+    "url": "https://www.github.com/asterisk-java/asterisk-java",
+    "lastCheckedAt": "2025-07-17T20:01:17.871+00:00"
+  },
+  "asyncapi/jasyncapi": {
+    "url": "https://www.github.com/asyncapi/jasyncapi",
+    "lastCheckedAt": "2025-07-17T20:01:18.856+00:00"
+  },
+  "atjiu/pybbs": {
+    "url": "https://www.github.com/atjiu/pybbs",
+    "lastCheckedAt": "2025-07-17T20:01:19.992+00:00"
+  },
+  "atlanmod/NeoEMF": {
+    "url": "https://www.github.com/atlanmod/NeoEMF",
+    "lastCheckedAt": "2025-07-17T20:01:21.158+00:00"
+  },
+  "atlasmap/atlasmap": {
+    "url": "https://www.github.com/atlasmap/atlasmap",
+    "lastCheckedAt": "2025-07-17T20:01:22.387+00:00"
+  },
+  "atlassian-labs/atlassian-slack-integration-server": {
+    "url": "https://www.github.com/atlassian-labs/atlassian-slack-integration-server",
+    "lastCheckedAt": "2025-07-17T20:01:23.388+00:00"
+  },
+  "atlassian/data-center-helm-charts": {
+    "url": "https://www.github.com/atlassian/data-center-helm-charts",
+    "lastCheckedAt": "2025-07-17T20:04:25.937+00:00"
+  },
+  "atp-mipt/jsyntrax": {
+    "url": "https://www.github.com/atp-mipt/jsyntrax",
+    "lastCheckedAt": "2025-07-17T20:04:26.987+00:00"
+  },
+  "autentia/TNTConcept": {
+    "url": "https://www.github.com/autentia/TNTConcept",
+    "lastCheckedAt": "2025-07-17T20:04:28.140+00:00"
+  },
+  "authorjapps/zerocode": {
+    "url": "https://www.github.com/authorjapps/zerocode",
+    "lastCheckedAt": "2025-07-17T20:04:29.296+00:00"
+  },
+  "authzforce/core": {
+    "url": "https://www.github.com/authzforce/core",
+    "lastCheckedAt": "2025-07-17T20:04:30.285+00:00"
+  },
+  "authzforce/server": {
+    "url": "https://www.github.com/authzforce/server",
+    "lastCheckedAt": "2025-07-17T20:04:31.296+00:00"
+  },
+  "avaje/avaje-config": {
+    "url": "https://www.github.com/avaje/avaje-config",
+    "lastCheckedAt": "2025-07-17T20:04:33.652+00:00"
+  },
+  "avaje/avaje-http": {
+    "url": "https://www.github.com/avaje/avaje-http",
+    "lastCheckedAt": "2025-07-17T20:04:34.769+00:00"
+  },
+  "avaje/avaje-inject": {
+    "url": "https://www.github.com/avaje/avaje-inject",
+    "lastCheckedAt": "2025-07-17T20:04:35.998+00:00"
+  },
+  "avioconsulting/mule-opentelemetry-module": {
+    "url": "https://www.github.com/avioconsulting/mule-opentelemetry-module",
+    "lastCheckedAt": "2025-07-17T20:04:37.128+00:00"
+  },
+  "awaitility/awaitility": {
+    "url": "https://www.github.com/awaitility/awaitility",
+    "lastCheckedAt": "2025-07-17T20:04:38.216+00:00"
+  },
+  "awhitford/lombok.maven": {
+    "url": "https://www.github.com/awhitford/lombok.maven",
+    "lastCheckedAt": "2025-07-17T20:04:39.227+00:00"
+  },
+  "aws-cloudformation/aws-cloudformation-resource-providers-rds": {
+    "url": "https://www.github.com/aws-cloudformation/aws-cloudformation-resource-providers-rds",
+    "lastCheckedAt": "2025-07-17T20:04:41.638+00:00"
+  },
+  "aws-cloudformation/cloudformation-cli-java-plugin": {
+    "url": "https://www.github.com/aws-cloudformation/cloudformation-cli-java-plugin",
+    "lastCheckedAt": "2025-07-17T20:04:42.813+00:00"
+  },
+  "aws-greengrass/aws-greengrass-cli": {
+    "url": "https://www.github.com/aws-greengrass/aws-greengrass-cli",
+    "lastCheckedAt": "2025-07-17T20:04:43.948+00:00"
+  },
+  "aws-greengrass/aws-greengrass-log-manager": {
+    "url": "https://www.github.com/aws-greengrass/aws-greengrass-log-manager",
+    "lastCheckedAt": "2025-07-17T20:04:45.142+00:00"
+  },
+  "aws-greengrass/aws-greengrass-nucleus": {
+    "url": "https://www.github.com/aws-greengrass/aws-greengrass-nucleus",
+    "lastCheckedAt": "2025-07-17T20:04:46.169+00:00"
+  },
+  "aws/amazon-kinesis-video-streams-parser-library": {
+    "url": "https://www.github.com/aws/amazon-kinesis-video-streams-parser-library",
+    "lastCheckedAt": "2025-07-17T20:04:47.332+00:00"
+  },
+  "aws/aws-encryption-sdk-java": {
+    "url": "https://www.github.com/aws/aws-encryption-sdk-java",
+    "lastCheckedAt": "2025-07-17T20:04:48.383+00:00"
+  },
+  "aws/aws-sdk-java-v2": {
+    "url": "https://www.github.com/aws/aws-sdk-java-v2",
+    "lastCheckedAt": "2025-07-17T20:04:53.920+00:00"
+  },
+  "awslabs/amazon-qldb-driver-java": {
+    "url": "https://www.github.com/awslabs/amazon-qldb-driver-java",
+    "lastCheckedAt": "2025-07-17T20:04:54.987+00:00"
+  },
+  "awslabs/aws-athena-query-federation": {
+    "url": "https://www.github.com/awslabs/aws-athena-query-federation",
+    "lastCheckedAt": "2025-07-17T20:04:56.206+00:00"
+  },
+  "awslabs/aws-glue-schema-registry": {
+    "url": "https://www.github.com/awslabs/aws-glue-schema-registry",
+    "lastCheckedAt": "2025-07-17T20:04:57.661+00:00"
+  },
+  "awslabs/aws-lambda-powertools-java": {
+    "url": "https://www.github.com/awslabs/aws-lambda-powertools-java",
+    "lastCheckedAt": "2025-07-17T20:04:59.106+00:00"
+  },
+  "awslabs/aws-saas-boost": {
+    "url": "https://www.github.com/awslabs/aws-saas-boost",
+    "lastCheckedAt": "2025-07-17T20:05:00.305+00:00"
+  },
+  "awslabs/aws-serverless-java-container": {
+    "url": "https://www.github.com/awslabs/aws-serverless-java-container",
+    "lastCheckedAt": "2025-07-17T20:05:01.694+00:00"
+  },
+  "awspring/spring-cloud-aws": {
+    "url": "https://www.github.com/awspring/spring-cloud-aws",
+    "lastCheckedAt": "2025-07-17T20:05:02.855+00:00"
+  },
+  "axtimwalde/mpicbg": {
+    "url": "https://www.github.com/axtimwalde/mpicbg",
+    "lastCheckedAt": "2025-07-17T20:05:03.978+00:00"
+  },
+  "b2ihealthcare/snow-owl": {
+    "url": "https://www.github.com/b2ihealthcare/snow-owl",
+    "lastCheckedAt": "2025-07-17T20:05:06.013+00:00"
+  },
+  "babelfish-for-postgresql/babelfish_compass": {
+    "url": "https://www.github.com/babelfish-for-postgresql/babelfish_compass",
+    "lastCheckedAt": "2025-07-17T20:05:07.106+00:00"
+  },
+  "bakdata/conquery": {
+    "url": "https://www.github.com/bakdata/conquery",
+    "lastCheckedAt": "2025-07-17T20:05:10.153+00:00"
+  },
+  "baked-libs/dough": {
+    "url": "https://www.github.com/baked-libs/dough",
+    "lastCheckedAt": "2025-07-17T20:05:11.387+00:00"
+  },
+  "ballcat-projects/ballcat": {
+    "url": "https://www.github.com/ballcat-projects/ballcat",
+    "lastCheckedAt": "2025-07-17T20:05:12.390+00:00"
+  },
+  "baloise/rocket-chat-rest-client": {
+    "url": "https://www.github.com/baloise/rocket-chat-rest-client",
+    "lastCheckedAt": "2025-07-17T20:05:13.543+00:00"
+  },
+  "baomidou/dynamic-datasource-spring-boot-starter": {
+    "url": "https://www.github.com/baomidou/dynamic-datasource-spring-boot-starter",
+    "lastCheckedAt": "2025-07-17T20:05:15.095+00:00"
+  },
+  "baremaps/baremaps": {
+    "url": "https://www.github.com/baremaps/baremaps",
+    "lastCheckedAt": "2025-07-17T20:05:16.518+00:00"
+  },
+  "barend/java-iban": {
+    "url": "https://www.github.com/barend/java-iban",
+    "lastCheckedAt": "2025-07-17T20:05:17.414+00:00"
+  },
+  "bartoszm/yang2swagger": {
+    "url": "https://www.github.com/bartoszm/yang2swagger",
+    "lastCheckedAt": "2025-07-17T20:05:18.775+00:00"
+  },
+  "bastillion-io/Bastillion": {
+    "url": "https://www.github.com/bastillion-io/Bastillion",
+    "lastCheckedAt": "2025-07-17T20:05:19.802+00:00"
+  },
+  "bastillion-io/Bastillion-EC2": {
+    "url": "https://www.github.com/bastillion-io/Bastillion-EC2",
+    "lastCheckedAt": "2025-07-17T20:05:20.854+00:00"
+  },
+  "bazaarvoice/emodb": {
+    "url": "https://www.github.com/bazaarvoice/emodb",
+    "lastCheckedAt": "2025-07-17T20:05:22.214+00:00"
+  },
+  "beanshell/beanshell": {
+    "url": "https://www.github.com/beanshell/beanshell",
+    "lastCheckedAt": "2025-07-17T19:40:55.486+00:00"
+  },
+  "bekkopen/NoCommons": {
+    "url": "https://www.github.com/bekkopen/NoCommons",
+    "lastCheckedAt": "2025-07-17T19:40:57.490+00:00"
+  },
+  "belaban/JGroups": {
+    "url": "https://www.github.com/belaban/JGroups",
+    "lastCheckedAt": "2025-07-17T19:40:58.536+00:00"
+  },
+  "bellshade/Java": {
+    "url": "https://www.github.com/bellshade/Java",
+    "lastCheckedAt": "2025-07-17T19:40:59.881+00:00"
+  },
+  "bhlangonijr/chesslib": {
+    "url": "https://www.github.com/bhlangonijr/chesslib",
+    "lastCheckedAt": "2025-07-17T19:41:01.095+00:00"
+  },
+  "bigdataprocessor/bigdataprocessor2": {
+    "url": "https://www.github.com/bigdataprocessor/bigdataprocessor2",
+    "lastCheckedAt": "2025-07-17T19:41:02.207+00:00"
+  },
+  "bigdataviewer/bigdataviewer-core": {
+    "url": "https://www.github.com/bigdataviewer/bigdataviewer-core",
+    "lastCheckedAt": "2025-07-17T19:41:03.398+00:00"
+  },
+  "bigdataviewer/bigdataviewer-playground": {
+    "url": "https://www.github.com/bigdataviewer/bigdataviewer-playground",
+    "lastCheckedAt": "2025-07-17T19:41:04.413+00:00"
+  },
+  "bigdataviewer/bigdataviewer-vistools": {
+    "url": "https://www.github.com/bigdataviewer/bigdataviewer-vistools",
+    "lastCheckedAt": "2025-07-17T19:41:05.526+00:00"
+  },
+  "bio-guoda/preston": {
+    "url": "https://www.github.com/bio-guoda/preston",
+    "lastCheckedAt": "2025-07-17T19:41:06.655+00:00"
+  },
+  "biocryst/biozernike": {
+    "url": "https://www.github.com/biocryst/biozernike",
+    "lastCheckedAt": "2025-07-17T19:41:07.703+00:00"
+  },
+  "bioinformatics-ua/dicoogle": {
+    "url": "https://www.github.com/bioinformatics-ua/dicoogle",
+    "lastCheckedAt": "2025-07-17T19:41:08.993+00:00"
+  },
+  "biojava/biojava": {
+    "url": "https://www.github.com/biojava/biojava",
+    "lastCheckedAt": "2025-07-17T19:41:10.261+00:00"
+  },
+  "biscuit-auth/biscuit-java": {
+    "url": "https://www.github.com/biscuit-auth/biscuit-java",
+    "lastCheckedAt": "2025-07-17T19:41:14.426+00:00"
+  },
+  "bitextor/pdf-extract": {
+    "url": "https://www.github.com/bitextor/pdf-extract",
+    "lastCheckedAt": "2025-07-17T19:41:16.075+00:00"
+  },
+  "bitquest/bitquest": {
+    "url": "https://www.github.com/bitquest/bitquest",
+    "lastCheckedAt": "2025-07-17T19:41:17.326+00:00"
+  },
+  "bitwig/bitwig-extensions": {
+    "url": "https://www.github.com/bitwig/bitwig-extensions",
+    "lastCheckedAt": "2025-07-17T19:41:18.521+00:00"
+  },
+  "bitwig/dawproject": {
+    "url": "https://www.github.com/bitwig/dawproject",
+    "lastCheckedAt": "2025-07-17T19:41:19.662+00:00"
+  },
+  "bjansen/swagger-schema-validator": {
+    "url": "https://www.github.com/bjansen/swagger-schema-validator",
+    "lastCheckedAt": "2025-07-17T19:41:20.608+00:00"
+  },
+  "bkiers/Liqp": {
+    "url": "https://www.github.com/bkiers/Liqp",
+    "lastCheckedAt": "2025-07-17T19:41:22.993+00:00"
+  },
+  "blockchaintp/daml-on-sawtooth": {
+    "url": "https://www.github.com/blockchaintp/daml-on-sawtooth",
+    "lastCheckedAt": "2025-07-17T19:41:24.039+00:00"
+  },
+  "personium/personium-engine": {
+    "url": "https://www.github.com/personium/personium-engine",
+    "lastCheckedAt": "2025-07-17T19:46:51.553+00:00"
+  },
+  "perwendel/spark": {
+    "url": "https://www.github.com/perwendel/spark",
+    "lastCheckedAt": "2025-07-17T19:46:52.654+00:00"
+  },
+  "petitparser/java-petitparser": {
+    "url": "https://www.github.com/petitparser/java-petitparser",
+    "lastCheckedAt": "2025-07-17T19:46:53.690+00:00"
+  },
+  "pf4j/pf4j": {
+    "url": "https://www.github.com/pf4j/pf4j",
+    "lastCheckedAt": "2025-07-17T19:46:54.912+00:00"
+  },
+  "pgjdbc/r2dbc-postgresql": {
+    "url": "https://www.github.com/pgjdbc/r2dbc-postgresql",
+    "lastCheckedAt": "2025-07-17T19:46:56.447+00:00"
+  },
+  "phax/as2-lib": {
+    "url": "https://www.github.com/phax/as2-lib",
+    "lastCheckedAt": "2025-07-17T19:46:57.521+00:00"
+  },
+  "phax/ph-commons": {
+    "url": "https://www.github.com/phax/ph-commons",
+    "lastCheckedAt": "2025-07-17T19:46:58.452+00:00"
+  },
+  "phax/ph-css": {
+    "url": "https://www.github.com/phax/ph-css",
+    "lastCheckedAt": "2025-07-17T19:46:59.430+00:00"
+  },
+  "phax/phase4": {
+    "url": "https://www.github.com/phax/phase4",
+    "lastCheckedAt": "2025-07-17T19:47:00.558+00:00"
+  },
+  "phax/phoss-smp": {
+    "url": "https://www.github.com/phax/phoss-smp",
+    "lastCheckedAt": "2025-07-17T19:47:01.517+00:00"
+  },
+  "phenotips/phenotips": {
+    "url": "https://www.github.com/phenotips/phenotips",
+    "lastCheckedAt": "2025-07-17T19:47:02.717+00:00"
+  },
+  "phisix-org/phisix": {
+    "url": "https://www.github.com/phisix-org/phisix",
+    "lastCheckedAt": "2025-07-17T19:47:03.752+00:00"
+  },
+  "phoenixctms/ctsms": {
+    "url": "https://www.github.com/phoenixctms/ctsms",
+    "lastCheckedAt": "2025-07-17T19:47:04.768+00:00"
+  },
+  "pholser/junit-quickcheck": {
+    "url": "https://www.github.com/pholser/junit-quickcheck",
+    "lastCheckedAt": "2025-07-17T19:47:05.731+00:00"
+  },
+  "phybros/servertap": {
+    "url": "https://www.github.com/phybros/servertap",
+    "lastCheckedAt": "2025-07-17T19:47:07.055+00:00"
+  },
+  "picturesafe/picturesafe-search": {
+    "url": "https://www.github.com/picturesafe/picturesafe-search",
+    "lastCheckedAt": "2025-07-17T19:47:08.129+00:00"
+  },
+  "pig-mesh/excel-spring-boot-starter": {
+    "url": "https://www.github.com/pig-mesh/excel-spring-boot-starter",
+    "lastCheckedAt": "2025-07-17T19:47:09.239+00:00"
+  },
+  "pig-mesh/pig": {
+    "url": "https://www.github.com/pig-mesh/pig",
+    "lastCheckedAt": "2025-07-17T19:47:10.304+00:00"
+  },
+  "pinpoint-apm/pinpoint": {
+    "url": "https://www.github.com/pinpoint-apm/pinpoint",
+    "lastCheckedAt": "2025-07-17T19:47:12.649+00:00"
+  },
+  "pinterest/DoctorK": {
+    "url": "https://www.github.com/pinterest/DoctorK",
+    "lastCheckedAt": "2025-07-17T19:47:14.012+00:00"
+  },
+  "pinterest/orion": {
+    "url": "https://www.github.com/pinterest/orion",
+    "lastCheckedAt": "2025-07-17T19:47:18.447+00:00"
+  },
+  "pinterest/singer": {
+    "url": "https://www.github.com/pinterest/singer",
+    "lastCheckedAt": "2025-07-17T19:47:19.462+00:00"
+  },
+  "pipauwel/IFCtoRDF": {
+    "url": "https://www.github.com/pipauwel/IFCtoRDF",
+    "lastCheckedAt": "2025-07-17T19:47:20.480+00:00"
+  },
+  "piranhacloud/piranha": {
+    "url": "https://www.github.com/piranhacloud/piranha",
+    "lastCheckedAt": "2025-07-17T19:47:21.589+00:00"
+  },
+  "pircbotx/pircbotx": {
+    "url": "https://www.github.com/pircbotx/pircbotx",
+    "lastCheckedAt": "2025-07-17T19:47:22.734+00:00"
+  },
+  "pitest/pitclipse": {
+    "url": "https://www.github.com/pitest/pitclipse",
+    "lastCheckedAt": "2025-07-17T19:47:23.740+00:00"
+  },
+  "pitest/pitest-junit5-plugin": {
+    "url": "https://www.github.com/pitest/pitest-junit5-plugin",
+    "lastCheckedAt": "2025-07-17T19:47:24.833+00:00"
+  },
+  "pivovarit/parallel-collectors": {
+    "url": "https://www.github.com/pivovarit/parallel-collectors",
+    "lastCheckedAt": "2025-07-17T19:47:25.872+00:00"
+  },
+  "pkiraly/metadata-qa-api": {
+    "url": "https://www.github.com/pkiraly/metadata-qa-api",
+    "lastCheckedAt": "2025-07-17T19:47:26.815+00:00"
+  },
+  "pkiraly/metadata-qa-marc": {
+    "url": "https://www.github.com/pkiraly/metadata-qa-marc",
+    "lastCheckedAt": "2025-07-17T19:47:27.955+00:00"
+  },
+  "plaid/plaid-java": {
+    "url": "https://www.github.com/plaid/plaid-java",
+    "lastCheckedAt": "2025-07-17T19:47:29.048+00:00"
+  },
+  "plantuml/plantuml-server": {
+    "url": "https://www.github.com/plantuml/plantuml-server",
+    "lastCheckedAt": "2025-07-17T19:47:30.141+00:00"
+  },
+  "platformio/platformio-eclipse-ide": {
+    "url": "https://www.github.com/platformio/platformio-eclipse-ide",
+    "lastCheckedAt": "2025-07-17T19:47:31.024+00:00"
+  },
+  "playframework/netty-reactive-streams": {
+    "url": "https://www.github.com/playframework/netty-reactive-streams",
+    "lastCheckedAt": "2025-07-17T19:47:31.998+00:00"
+  },
+  "plivo/plivo-java": {
+    "url": "https://www.github.com/plivo/plivo-java",
+    "lastCheckedAt": "2025-07-17T19:47:33.041+00:00"
+  },
+  "pmckeown/dependency-track-maven-plugin": {
+    "url": "https://www.github.com/pmckeown/dependency-track-maven-plugin",
+    "lastCheckedAt": "2025-07-17T19:47:35.127+00:00"
+  },
+  "pmd/pmd": {
+    "url": "https://www.github.com/pmd/pmd",
+    "lastCheckedAt": "2025-07-17T19:47:38.665+00:00"
+  },
+  "pmd/pmd-designer": {
+    "url": "https://www.github.com/pmd/pmd-designer",
+    "lastCheckedAt": "2025-07-17T19:47:41.642+00:00"
+  },
+  "pmd/pmd-eclipse-plugin": {
+    "url": "https://www.github.com/pmd/pmd-eclipse-plugin",
+    "lastCheckedAt": "2025-07-17T19:47:44.035+00:00"
+  },
+  "pmem/pmemkv-java": {
+    "url": "https://www.github.com/pmem/pmemkv-java",
+    "lastCheckedAt": "2025-07-17T19:47:45.147+00:00"
+  },
+  "pmikova/java-runtime-decompiler": {
+    "url": "https://www.github.com/pmikova/java-runtime-decompiler",
+    "lastCheckedAt": "2025-07-17T19:47:46.230+00:00"
+  },
+  "pngencoder/pngencoder": {
+    "url": "https://www.github.com/pngencoder/pngencoder",
+    "lastCheckedAt": "2025-07-17T19:44:45.581+00:00"
+  },
+  "pnopjp/jmeter-plugins": {
+    "url": "https://www.github.com/pnopjp/jmeter-plugins",
+    "lastCheckedAt": "2025-07-17T19:44:46.637+00:00"
+  },
+  "polarismesh/femas": {
+    "url": "https://www.github.com/polarismesh/femas",
+    "lastCheckedAt": "2025-07-17T19:44:47.967+00:00"
+  },
+  "polarismesh/polaris-java": {
+    "url": "https://www.github.com/polarismesh/polaris-java",
+    "lastCheckedAt": "2025-07-17T19:44:48.970+00:00"
+  },
+  "poolborges/unicenta-pos": {
+    "url": "https://www.github.com/poolborges/unicenta-pos",
+    "lastCheckedAt": "2025-07-17T19:44:49.840+00:00"
+  },
+  "pop4959/LWCX": {
+    "url": "https://www.github.com/pop4959/LWCX",
+    "lastCheckedAt": "2025-07-17T19:44:51.020+00:00"
+  },
+  "porscheinformatik/sonarqube-licensecheck": {
+    "url": "https://www.github.com/porscheinformatik/sonarqube-licensecheck",
+    "lastCheckedAt": "2025-07-17T19:44:52.136+00:00"
+  },
+  "postgis/postgis-java": {
+    "url": "https://www.github.com/postgis/postgis-java",
+    "lastCheckedAt": "2025-07-17T19:44:53.086+00:00"
+  },
+  "powsybl/powsybl-core": {
+    "url": "https://www.github.com/powsybl/powsybl-core",
+    "lastCheckedAt": "2025-07-17T19:44:56.933+00:00"
+  },
+  "powsybl/powsybl-open-loadflow": {
+    "url": "https://www.github.com/powsybl/powsybl-open-loadflow",
+    "lastCheckedAt": "2025-07-17T19:44:58.019+00:00"
+  },
+  "powsybl/powsybl-single-line-diagram": {
+    "url": "https://www.github.com/powsybl/powsybl-single-line-diagram",
+    "lastCheckedAt": "2025-07-17T19:45:00.223+00:00"
+  },
+  "prebid/prebid-server-java": {
+    "url": "https://www.github.com/prebid/prebid-server-java",
+    "lastCheckedAt": "2025-07-17T19:45:02.422+00:00"
+  },
+  "preesm/preesm": {
+    "url": "https://www.github.com/preesm/preesm",
+    "lastCheckedAt": "2025-07-17T19:45:03.521+00:00"
+  },
+  "premium-minds/billy": {
+    "url": "https://www.github.com/premium-minds/billy",
+    "lastCheckedAt": "2025-07-17T19:45:04.552+00:00"
+  },
+  "premium-minds/wicket-crudifier": {
+    "url": "https://www.github.com/premium-minds/wicket-crudifier",
+    "lastCheckedAt": "2025-07-17T19:45:05.605+00:00"
+  },
+  "prestodb/presto": {
+    "url": "https://www.github.com/prestodb/presto",
+    "lastCheckedAt": "2025-07-17T19:45:15.489+00:00"
+  },
+  "primefaces-extensions/primefaces-selenium": {
+    "url": "https://www.github.com/primefaces-extensions/primefaces-selenium",
+    "lastCheckedAt": "2025-07-17T19:46:15.969+00:00"
+  },
+  "primefaces-extensions/resources-optimizer-maven-plugin": {
+    "url": "https://www.github.com/primefaces-extensions/resources-optimizer-maven-plugin",
+    "lastCheckedAt": "2025-07-17T19:46:16.934+00:00"
+  },
+  "primefaces/primefaces": {
+    "url": "https://www.github.com/primefaces/primefaces",
+    "lastCheckedAt": "2025-07-17T19:46:19.172+00:00"
+  },
+  "profittrailerbv/ProfitTrailerManager": {
+    "url": "https://www.github.com/profittrailerbv/ProfitTrailerManager",
+    "lastCheckedAt": "2025-07-17T19:46:20.230+00:00"
+  },
+  "project-openubl/ublhub": {
+    "url": "https://www.github.com/project-openubl/ublhub",
+    "lastCheckedAt": "2025-07-17T19:46:21.291+00:00"
+  },
+  "project-openubl/xbuilder-server": {
+    "url": "https://www.github.com/project-openubl/xbuilder-server",
+    "lastCheckedAt": "2025-07-17T19:46:22.408+00:00"
+  },
+  "project-openubl/xsender": {
+    "url": "https://www.github.com/project-openubl/xsender",
+    "lastCheckedAt": "2025-07-17T19:46:23.537+00:00"
+  },
+  "project-thirdeye/thirdeye": {
+    "url": "https://www.github.com/project-thirdeye/thirdeye",
+    "lastCheckedAt": "2025-07-17T19:46:24.648+00:00"
+  },
+  "projectriff/java-function-invoker": {
+    "url": "https://www.github.com/projectriff/java-function-invoker",
+    "lastCheckedAt": "2025-07-17T19:46:25.810+00:00"
+  },
+  "promcteam/proskillapi": {
+    "url": "https://www.github.com/promcteam/proskillapi",
+    "lastCheckedAt": "2025-07-17T19:46:26.978+00:00"
+  },
+  "proofpoint/platform": {
+    "url": "https://www.github.com/proofpoint/platform",
+    "lastCheckedAt": "2025-07-17T19:46:28.106+00:00"
+  },
+  "pschichtel/JavaCAN": {
+    "url": "https://www.github.com/pschichtel/JavaCAN",
+    "lastCheckedAt": "2025-07-17T19:46:29.043+00:00"
+  },
+  "psi-probe/psi-probe": {
+    "url": "https://www.github.com/psi-probe/psi-probe",
+    "lastCheckedAt": "2025-07-17T19:46:33.512+00:00"
+  },
+  "pwm-project/pwm": {
+    "url": "https://www.github.com/pwm-project/pwm",
+    "lastCheckedAt": "2025-07-17T19:46:34.582+00:00"
+  },
+  "pxlsspace/Pxls": {
+    "url": "https://www.github.com/pxlsspace/Pxls",
+    "lastCheckedAt": "2025-07-17T19:46:35.702+00:00"
+  },
+  "qaware/openapi-generator-for-spring": {
+    "url": "https://www.github.com/qaware/openapi-generator-for-spring",
+    "lastCheckedAt": "2025-07-17T19:46:36.780+00:00"
+  },
+  "qbicc/qbicc": {
+    "url": "https://www.github.com/qbicc/qbicc",
+    "lastCheckedAt": "2025-07-17T19:46:37.849+00:00"
+  },
+  "qbicc/qbicc-class-library": {
+    "url": "https://www.github.com/qbicc/qbicc-class-library",
+    "lastCheckedAt": "2025-07-17T19:46:38.808+00:00"
+  },
+  "qoomon/maven-git-versioning-extension": {
+    "url": "https://www.github.com/qoomon/maven-git-versioning-extension",
+    "lastCheckedAt": "2025-07-17T19:46:39.769+00:00"
+  },
+  "qos-ch/reload4j": {
+    "url": "https://www.github.com/qos-ch/reload4j",
+    "lastCheckedAt": "2025-07-17T19:46:40.736+00:00"
+  },
+  "qqxx6661/logRecord": {
+    "url": "https://www.github.com/qqxx6661/logRecord",
+    "lastCheckedAt": "2025-07-17T19:46:41.933+00:00"
+  },
+  "qtc-de/remote-method-guesser": {
+    "url": "https://www.github.com/qtc-de/remote-method-guesser",
+    "lastCheckedAt": "2025-07-17T19:46:42.878+00:00"
+  },
+  "quarkiverse/quarkus-cxf": {
+    "url": "https://www.github.com/quarkiverse/quarkus-cxf",
+    "lastCheckedAt": "2025-07-17T19:46:45.455+00:00"
+  },
+  "quarkiverse/quarkus-dapr": {
+    "url": "https://www.github.com/quarkiverse/quarkus-dapr",
+    "lastCheckedAt": "2025-07-17T19:46:46.584+00:00"
+  },
+  "quarkiverse/quarkus-freemarker": {
+    "url": "https://www.github.com/quarkiverse/quarkus-freemarker",
+    "lastCheckedAt": "2025-07-17T19:46:47.736+00:00"
+  },
+  "quarkiverse/quarkus-github-app": {
+    "url": "https://www.github.com/quarkiverse/quarkus-github-app",
+    "lastCheckedAt": "2025-07-17T19:46:50.517+00:00"
+  },
+  "quarkiverse/quarkus-google-cloud-services": {
+    "url": "https://www.github.com/quarkiverse/quarkus-google-cloud-services",
+    "lastCheckedAt": "2025-07-17T19:41:01.187+00:00"
+  },
+  "quarkiverse/quarkus-jberet": {
+    "url": "https://www.github.com/quarkiverse/quarkus-jberet",
+    "lastCheckedAt": "2025-07-17T19:41:02.474+00:00"
+  },
+  "quarkiverse/quarkus-jooq": {
+    "url": "https://www.github.com/quarkiverse/quarkus-jooq",
+    "lastCheckedAt": "2025-07-17T19:41:03.759+00:00"
+  },
+  "quarkiverse/quarkus-logging-cloudwatch": {
+    "url": "https://www.github.com/quarkiverse/quarkus-logging-cloudwatch",
+    "lastCheckedAt": "2025-07-17T19:41:06.293+00:00"
+  },
+  "quarkiverse/quarkus-logging-json": {
+    "url": "https://www.github.com/quarkiverse/quarkus-logging-json",
+    "lastCheckedAt": "2025-07-17T19:41:07.625+00:00"
+  },
+  "quarkiverse/quarkus-logging-manager": {
+    "url": "https://www.github.com/quarkiverse/quarkus-logging-manager",
+    "lastCheckedAt": "2025-07-17T19:41:08.922+00:00"
+  },
+  "quarkiverse/quarkus-micrometer-registry": {
+    "url": "https://www.github.com/quarkiverse/quarkus-micrometer-registry",
+    "lastCheckedAt": "2025-07-17T19:41:11.455+00:00"
+  },
+  "quarkiverse/quarkus-mybatis": {
+    "url": "https://www.github.com/quarkiverse/quarkus-mybatis",
+    "lastCheckedAt": "2025-07-17T19:41:14.270+00:00"
+  },
+  "quarkiverse/quarkus-neo4j": {
+    "url": "https://www.github.com/quarkiverse/quarkus-neo4j",
+    "lastCheckedAt": "2025-07-17T19:41:16.956+00:00"
+  },
+  "quarkiverse/quarkus-openapi-generator": {
+    "url": "https://www.github.com/quarkiverse/quarkus-openapi-generator",
+    "lastCheckedAt": "2025-07-17T19:41:18.151+00:00"
+  },
+  "quarkiverse/quarkus-operator-sdk": {
+    "url": "https://www.github.com/quarkiverse/quarkus-operator-sdk",
+    "lastCheckedAt": "2025-07-17T19:41:22.839+00:00"
+  },
+  "quarkiverse/quarkus-quinoa": {
+    "url": "https://www.github.com/quarkiverse/quarkus-quinoa",
+    "lastCheckedAt": "2025-07-17T19:41:23.967+00:00"
+  },
+  "quarkiverse/quarkus-rabbitmq-client": {
+    "url": "https://www.github.com/quarkiverse/quarkus-rabbitmq-client",
+    "lastCheckedAt": "2025-07-17T19:41:25.052+00:00"
+  },
+  "quarkiverse/quarkus-renarde": {
+    "url": "https://www.github.com/quarkiverse/quarkus-renarde",
+    "lastCheckedAt": "2025-07-17T19:41:26.467+00:00"
+  },
+  "quarkiverse/quarkus-zeebe": {
+    "url": "https://www.github.com/quarkiverse/quarkus-zeebe",
+    "lastCheckedAt": "2025-07-17T19:41:27.728+00:00"
+  },
+  "quarkus-for-spring-developers/examples": {
+    "url": "https://www.github.com/quarkus-for-spring-developers/examples",
+    "lastCheckedAt": "2025-07-17T19:41:28.903+00:00"
+  },
+  "quarkus-qe/beefy-scenarios": {
+    "url": "https://www.github.com/quarkus-qe/beefy-scenarios",
+    "lastCheckedAt": "2025-07-17T19:41:29.962+00:00"
+  },
+  "quarkus-qe/quarkus-test-framework": {
+    "url": "https://www.github.com/quarkus-qe/quarkus-test-framework",
+    "lastCheckedAt": "2025-07-17T19:41:35.238+00:00"
+  },
+  "quarkus-qe/quarkus-test-suite": {
+    "url": "https://www.github.com/quarkus-qe/quarkus-test-suite",
+    "lastCheckedAt": "2025-07-17T19:41:37.391+00:00"
+  },
+  "quarkusio/gizmo": {
+    "url": "https://www.github.com/quarkusio/gizmo",
+    "lastCheckedAt": "2025-07-17T19:41:38.797+00:00"
+  },
+  "quarkusio/qson": {
+    "url": "https://www.github.com/quarkusio/qson",
+    "lastCheckedAt": "2025-07-17T19:41:39.864+00:00"
+  },
+  "quarkusio/quarkus": {
+    "url": "https://www.github.com/quarkusio/quarkus",
+    "lastCheckedAt": "2025-07-17T19:41:51.719+00:00"
+  },
+  "quarkusio/quarkus-github-bot": {
+    "url": "https://www.github.com/quarkusio/quarkus-github-bot",
+    "lastCheckedAt": "2025-07-17T19:41:52.695+00:00"
+  },
+  "quarkusio/quarkus-http": {
+    "url": "https://www.github.com/quarkusio/quarkus-http",
+    "lastCheckedAt": "2025-07-17T19:41:53.880+00:00"
+  },
+  "quarkusio/quarkus-images": {
+    "url": "https://www.github.com/quarkusio/quarkus-images",
+    "lastCheckedAt": "2025-07-17T19:41:55.134+00:00"
+  },
+  "quarkusio/quarkus-platform": {
+    "url": "https://www.github.com/quarkusio/quarkus-platform",
+    "lastCheckedAt": "2025-07-17T19:41:58.129+00:00"
+  },
+  "quarkusio/quarkus-quickstarts": {
+    "url": "https://www.github.com/quarkusio/quarkus-quickstarts",
+    "lastCheckedAt": "2025-07-17T19:41:59.324+00:00"
+  },
+  "quartz-scheduler/quartz": {
+    "url": "https://www.github.com/quartz-scheduler/quartz",
+    "lastCheckedAt": "2025-07-17T19:42:00.357+00:00"
+  },
+  "strimzi/strimzi-kafka-operator": {
+    "url": "https://www.github.com/strimzi/strimzi-kafka-operator",
+    "lastCheckedAt": "2025-07-17T19:47:50.450+00:00"
+  },
+  "studerw/td-ameritrade-client": {
+    "url": "https://www.github.com/studerw/td-ameritrade-client",
+    "lastCheckedAt": "2025-07-17T19:47:51.391+00:00"
+  },
+  "sualeh/creditcardnumber": {
+    "url": "https://www.github.com/sualeh/creditcardnumber",
+    "lastCheckedAt": "2025-07-17T19:47:52.300+00:00"
+  },
+  "subclipse/subclipse": {
+    "url": "https://www.github.com/subclipse/subclipse",
+    "lastCheckedAt": "2025-07-17T19:47:53.397+00:00"
+  },
+  "subclipse/svnclientadapter": {
+    "url": "https://www.github.com/subclipse/svnclientadapter",
+    "lastCheckedAt": "2025-07-17T19:47:54.392+00:00"
+  },
+  "sundrio/sundrio": {
+    "url": "https://www.github.com/sundrio/sundrio",
+    "lastCheckedAt": "2025-07-17T19:47:55.617+00:00"
+  },
+  "sveditor/sveditor": {
+    "url": "https://www.github.com/sveditor/sveditor",
+    "lastCheckedAt": "2025-07-17T19:47:56.588+00:00"
+  },
+  "svenkubiak/mangooio": {
+    "url": "https://www.github.com/svenkubiak/mangooio",
+    "lastCheckedAt": "2025-07-17T19:47:57.487+00:00"
+  },
+  "sventorben/keycloak-home-idp-discovery": {
+    "url": "https://www.github.com/sventorben/keycloak-home-idp-discovery",
+    "lastCheckedAt": "2025-07-17T19:47:58.466+00:00"
+  },
+  "sventorben/keycloak-restrict-client-auth": {
+    "url": "https://www.github.com/sventorben/keycloak-restrict-client-auth",
+    "lastCheckedAt": "2025-07-17T19:47:59.376+00:00"
+  },
+  "swagger-api/swagger-core": {
+    "url": "https://www.github.com/swagger-api/swagger-core",
+    "lastCheckedAt": "2025-07-17T19:48:00.446+00:00"
+  },
+  "swagger-api/swagger-parser": {
+    "url": "https://www.github.com/swagger-api/swagger-parser",
+    "lastCheckedAt": "2025-07-17T19:48:01.492+00:00"
+  },
+  "sweble/sweble-wikitext": {
+    "url": "https://www.github.com/sweble/sweble-wikitext",
+    "lastCheckedAt": "2025-07-17T19:48:02.684+00:00"
+  },
+  "swri-robotics/bag-database": {
+    "url": "https://www.github.com/swri-robotics/bag-database",
+    "lastCheckedAt": "2025-07-17T19:48:03.929+00:00"
+  },
+  "synyx/urlaubsverwaltung": {
+    "url": "https://www.github.com/synyx/urlaubsverwaltung",
+    "lastCheckedAt": "2025-07-17T19:48:05.164+00:00"
+  },
+  "ta4j/ta4j": {
+    "url": "https://www.github.com/ta4j/ta4j",
+    "lastCheckedAt": "2025-07-17T19:48:06.182+00:00"
+  },
+  "tabulapdf/tabula-java": {
+    "url": "https://www.github.com/tabulapdf/tabula-java",
+    "lastCheckedAt": "2025-07-17T19:48:07.222+00:00"
+  },
+  "tada/pljava": {
+    "url": "https://www.github.com/tada/pljava",
+    "lastCheckedAt": "2025-07-17T19:48:08.243+00:00"
+  },
+  "taimos/HTTPUtils": {
+    "url": "https://www.github.com/taimos/HTTPUtils",
+    "lastCheckedAt": "2025-07-17T19:48:09.251+00:00"
+  },
+  "taimos/dvalin": {
+    "url": "https://www.github.com/taimos/dvalin",
+    "lastCheckedAt": "2025-07-17T19:48:10.461+00:00"
+  },
+  "takari/io.takari.incrementalbuild": {
+    "url": "https://www.github.com/takari/io.takari.incrementalbuild",
+    "lastCheckedAt": "2025-07-17T19:48:11.484+00:00"
+  },
+  "takari/polyglot-maven": {
+    "url": "https://www.github.com/takari/polyglot-maven",
+    "lastCheckedAt": "2025-07-17T19:48:16.053+00:00"
+  },
+  "takari/takari-lifecycle": {
+    "url": "https://www.github.com/takari/takari-lifecycle",
+    "lastCheckedAt": "2025-07-17T19:48:17.114+00:00"
+  },
+  "takari/takari-plugin-testing-project": {
+    "url": "https://www.github.com/takari/takari-plugin-testing-project",
+    "lastCheckedAt": "2025-07-17T19:48:18.868+00:00"
+  },
+  "talsma-ict/context-propagation": {
+    "url": "https://www.github.com/talsma-ict/context-propagation",
+    "lastCheckedAt": "2025-07-17T19:48:19.893+00:00"
+  },
+  "talsma-ict/umldoclet": {
+    "url": "https://www.github.com/talsma-ict/umldoclet",
+    "lastCheckedAt": "2025-07-17T19:48:20.897+00:00"
+  },
+  "tamtam-chat/tamtam-bot-api": {
+    "url": "https://www.github.com/tamtam-chat/tamtam-bot-api",
+    "lastCheckedAt": "2025-07-17T19:48:21.853+00:00"
+  },
+  "taosdata/taos-connector-jdbc": {
+    "url": "https://www.github.com/taosdata/taos-connector-jdbc",
+    "lastCheckedAt": "2025-07-17T19:48:22.834+00:00"
+  },
+  "tapdata/tapdata": {
+    "url": "https://www.github.com/tapdata/tapdata",
+    "lastCheckedAt": "2025-07-17T19:48:25.759+00:00"
+  },
+  "tarantool/cartridge-java": {
+    "url": "https://www.github.com/tarantool/cartridge-java",
+    "lastCheckedAt": "2025-07-17T19:48:26.739+00:00"
+  },
+  "tarantool/cartridge-springdata": {
+    "url": "https://www.github.com/tarantool/cartridge-springdata",
+    "lastCheckedAt": "2025-07-17T19:48:27.776+00:00"
+  },
+  "taxcalcs/taxcalculator": {
+    "url": "https://www.github.com/taxcalcs/taxcalculator",
+    "lastCheckedAt": "2025-07-17T19:48:28.818+00:00"
+  },
+  "tbroyer/gwt-maven-plugin": {
+    "url": "https://www.github.com/tbroyer/gwt-maven-plugin",
+    "lastCheckedAt": "2025-07-17T19:48:29.826+00:00"
+  },
+  "tbsalling/aismessages": {
+    "url": "https://www.github.com/tbsalling/aismessages",
+    "lastCheckedAt": "2025-07-17T19:48:30.893+00:00"
+  },
+  "tdebatty/java-string-similarity": {
+    "url": "https://www.github.com/tdebatty/java-string-similarity",
+    "lastCheckedAt": "2025-07-17T19:48:31.948+00:00"
+  },
+  "tdf/odftoolkit": {
+    "url": "https://www.github.com/tdf/odftoolkit",
+    "lastCheckedAt": "2025-07-17T19:48:32.967+00:00"
+  },
+  "tdunning/log-synth": {
+    "url": "https://www.github.com/tdunning/log-synth",
+    "lastCheckedAt": "2025-07-17T19:48:33.924+00:00"
+  },
+  "teamapps-org/teamapps": {
+    "url": "https://www.github.com/teamapps-org/teamapps",
+    "lastCheckedAt": "2025-07-17T19:48:35.424+00:00"
+  },
+  "techa03/goodsKill": {
+    "url": "https://www.github.com/techa03/goodsKill",
+    "lastCheckedAt": "2025-07-17T19:48:36.308+00:00"
+  },
+  "tectonicus/tectonicus": {
+    "url": "https://www.github.com/tectonicus/tectonicus",
+    "lastCheckedAt": "2025-07-17T19:48:37.232+00:00"
+  },
+  "teixeira-fernando/EcommerceApp": {
+    "url": "https://www.github.com/teixeira-fernando/EcommerceApp",
+    "lastCheckedAt": "2025-07-17T19:48:38.094+00:00"
+  },
+  "teknux-org/jetty-bootstrap": {
+    "url": "https://www.github.com/teknux-org/jetty-bootstrap",
+    "lastCheckedAt": "2025-07-17T19:48:38.957+00:00"
+  },
+  "telefonicaid/perseo-core": {
+    "url": "https://www.github.com/telefonicaid/perseo-core",
+    "lastCheckedAt": "2025-07-17T19:43:54.496+00:00"
+  },
+  "tensorflow/java": {
+    "url": "https://www.github.com/tensorflow/java",
+    "lastCheckedAt": "2025-07-17T19:43:55.608+00:00"
+  },
+  "terrestris/shogun": {
+    "url": "https://www.github.com/terrestris/shogun",
+    "lastCheckedAt": "2025-07-17T19:43:56.754+00:00"
+  },
+  "tesla/m2eclipse-tycho": {
+    "url": "https://www.github.com/tesla/m2eclipse-tycho",
+    "lastCheckedAt": "2025-07-17T19:43:57.682+00:00"
+  },
+  "tesler-platform/tesler": {
+    "url": "https://www.github.com/tesler-platform/tesler",
+    "lastCheckedAt": "2025-07-17T19:43:58.865+00:00"
+  },
+  "testingisdocumenting/webtau": {
+    "url": "https://www.github.com/testingisdocumenting/webtau",
+    "lastCheckedAt": "2025-07-17T19:43:59.892+00:00"
+  },
+  "testingisdocumenting/znai": {
+    "url": "https://www.github.com/testingisdocumenting/znai",
+    "lastCheckedAt": "2025-07-17T19:44:00.972+00:00"
+  },
+  "teverett/OLMReader": {
+    "url": "https://www.github.com/teverett/OLMReader",
+    "lastCheckedAt": "2025-07-17T19:44:01.840+00:00"
+  },
+  "teverett/osgi-example": {
+    "url": "https://www.github.com/teverett/osgi-example",
+    "lastCheckedAt": "2025-07-17T19:44:02.761+00:00"
+  },
+  "teverett/paradoxReader": {
+    "url": "https://www.github.com/teverett/paradoxReader",
+    "lastCheckedAt": "2025-07-17T19:44:03.643+00:00"
+  },
+  "tezlm/community-mod": {
+    "url": "https://www.github.com/tezlm/community-mod",
+    "lastCheckedAt": "2025-07-17T19:44:04.904+00:00"
+  },
+  "the-h-team/Labyrinth": {
+    "url": "https://www.github.com/the-h-team/Labyrinth",
+    "lastCheckedAt": "2025-07-17T19:44:05.924+00:00"
+  },
+  "theborakompanioni/thymeleaf-extras-shiro": {
+    "url": "https://www.github.com/theborakompanioni/thymeleaf-extras-shiro",
+    "lastCheckedAt": "2025-07-17T19:44:06.831+00:00"
+  },
+  "thelastpickle/cassandra-reaper": {
+    "url": "https://www.github.com/thelastpickle/cassandra-reaper",
+    "lastCheckedAt": "2025-07-17T19:44:12.045+00:00"
+  },
+  "thomasdarimont/embedded-spring-boot-keycloak-server": {
+    "url": "https://www.github.com/thomasdarimont/embedded-spring-boot-keycloak-server",
+    "lastCheckedAt": "2025-07-17T19:44:13.248+00:00"
+  },
+  "thomasdarimont/keycloak-project-example": {
+    "url": "https://www.github.com/thomasdarimont/keycloak-project-example",
+    "lastCheckedAt": "2025-07-17T19:44:14.325+00:00"
+  },
+  "thomasjungblut/tjungblut-math": {
+    "url": "https://www.github.com/thomasjungblut/tjungblut-math",
+    "lastCheckedAt": "2025-07-17T19:44:15.066+00:00"
+  },
+  "thulab/IginX": {
+    "url": "https://www.github.com/thulab/IginX",
+    "lastCheckedAt": "2025-07-17T19:44:16.108+00:00"
+  },
+  "thymeleaf/thymeleaf": {
+    "url": "https://www.github.com/thymeleaf/thymeleaf",
+    "lastCheckedAt": "2025-07-17T19:44:17.591+00:00"
+  },
+  "tidb-incubator/TiBigData": {
+    "url": "https://www.github.com/tidb-incubator/TiBigData",
+    "lastCheckedAt": "2025-07-17T19:44:18.719+00:00"
+  },
+  "tikv/client-java": {
+    "url": "https://www.github.com/tikv/client-java",
+    "lastCheckedAt": "2025-07-17T19:44:19.865+00:00"
+  },
+  "timbru31/SilkSpawners": {
+    "url": "https://www.github.com/timbru31/SilkSpawners",
+    "lastCheckedAt": "2025-07-17T19:44:20.805+00:00"
+  },
+  "timpeeters/spring-boot-graceful-shutdown": {
+    "url": "https://www.github.com/timpeeters/spring-boot-graceful-shutdown",
+    "lastCheckedAt": "2025-07-17T19:44:21.690+00:00"
+  },
+  "timveil/hive-jdbc-driver": {
+    "url": "https://www.github.com/timveil/hive-jdbc-driver",
+    "lastCheckedAt": "2025-07-17T19:44:22.844+00:00"
+  },
+  "tinify/tinify-java": {
+    "url": "https://www.github.com/tinify/tinify-java",
+    "lastCheckedAt": "2025-07-17T19:44:24.009+00:00"
+  },
+  "tinylog-org/tinylog": {
+    "url": "https://www.github.com/tinylog-org/tinylog",
+    "lastCheckedAt": "2025-07-17T19:44:26.986+00:00"
+  },
+  "tlaplus/tlaplus": {
+    "url": "https://www.github.com/tlaplus/tlaplus",
+    "lastCheckedAt": "2025-07-17T19:44:28.120+00:00"
+  },
+  "tls-attacker/TLS-Anvil": {
+    "url": "https://www.github.com/tls-attacker/TLS-Anvil",
+    "lastCheckedAt": "2025-07-17T19:44:29.100+00:00"
+  },
+  "tls-attacker/TLS-Attacker": {
+    "url": "https://www.github.com/tls-attacker/TLS-Attacker",
+    "lastCheckedAt": "2025-07-17T19:44:30.115+00:00"
+  },
+  "tntim96/JSCover": {
+    "url": "https://www.github.com/tntim96/JSCover",
+    "lastCheckedAt": "2025-07-17T19:44:31.190+00:00"
+  },
+  "todvora/eet-client": {
+    "url": "https://www.github.com/todvora/eet-client",
+    "lastCheckedAt": "2025-07-17T19:44:32.103+00:00"
+  },
+  "togglz/togglz": {
+    "url": "https://www.github.com/togglz/togglz",
+    "lastCheckedAt": "2025-07-17T19:44:33.508+00:00"
+  },
+  "tokuhirom/avans": {
+    "url": "https://www.github.com/tokuhirom/avans",
+    "lastCheckedAt": "2025-07-17T19:44:34.771+00:00"
+  },
+  "tomsiewert/hetznercloud-java": {
+    "url": "https://www.github.com/tomsiewert/hetznercloud-java",
+    "lastCheckedAt": "2025-07-17T19:44:35.920+00:00"
+  },
+  "tomtom-international/openlr": {
+    "url": "https://www.github.com/tomtom-international/openlr",
+    "lastCheckedAt": "2025-07-17T19:44:37.327+00:00"
+  },
+  "tony19/named-regexp": {
+    "url": "https://www.github.com/tony19/named-regexp",
+    "lastCheckedAt": "2025-07-17T19:44:38.231+00:00"
+  },
+  "toolfactory/narcissus": {
+    "url": "https://www.github.com/toolfactory/narcissus",
+    "lastCheckedAt": "2025-07-17T19:44:39.140+00:00"
+  },
+  "toolisticon/aptk": {
+    "url": "https://www.github.com/toolisticon/aptk",
+    "lastCheckedAt": "2025-07-17T19:44:40.160+00:00"
+  },
+  "tordanik/OSM2World": {
+    "url": "https://www.github.com/tordanik/OSM2World",
+    "lastCheckedAt": "2025-07-17T19:44:41.418+00:00"
+  },
+  "touchmii/OpenTCS-4": {
+    "url": "https://www.github.com/touchmii/OpenTCS-4",
+    "lastCheckedAt": "2025-07-17T19:44:42.392+00:00"
+  },
+  "tr7zw/Item-NBT-API": {
+    "url": "https://www.github.com/tr7zw/Item-NBT-API",
+    "lastCheckedAt": "2025-07-17T19:44:43.389+00:00"
+  },
+  "trackmate-sc/TrackMate": {
+    "url": "https://www.github.com/trackmate-sc/TrackMate",
+    "lastCheckedAt": "2025-07-17T19:44:44.575+00:00"
+  },
+  "trainerlord/WorldSystem": {
+    "url": "https://www.github.com/trainerlord/WorldSystem",
+    "lastCheckedAt": "2025-07-17T19:42:54.011+00:00"
+  },
+  "trakem2/TrakEM2": {
+    "url": "https://www.github.com/trakem2/TrakEM2",
+    "lastCheckedAt": "2025-07-17T19:42:55.135+00:00"
+  },
+  "treasure-data/td-client-java": {
+    "url": "https://www.github.com/treasure-data/td-client-java",
+    "lastCheckedAt": "2025-07-17T19:42:56.180+00:00"
+  },
+  "treasure-data/td-jdbc": {
+    "url": "https://www.github.com/treasure-data/td-jdbc",
+    "lastCheckedAt": "2025-07-17T19:42:57.481+00:00"
+  },
+  "treasure-data/td-logger-java": {
+    "url": "https://www.github.com/treasure-data/td-logger-java",
+    "lastCheckedAt": "2025-07-17T19:42:58.565+00:00"
+  },
+  "trekawek/toxiproxy-java": {
+    "url": "https://www.github.com/trekawek/toxiproxy-java",
+    "lastCheckedAt": "2025-07-17T19:42:59.560+00:00"
+  },
+  "trimou/trimou": {
+    "url": "https://www.github.com/trimou/trimou",
+    "lastCheckedAt": "2025-07-17T19:43:00.576+00:00"
+  },
+  "trinodb/tempto": {
+    "url": "https://www.github.com/trinodb/tempto",
+    "lastCheckedAt": "2025-07-17T19:43:01.821+00:00"
+  },
+  "trinodb/tpcds": {
+    "url": "https://www.github.com/trinodb/tpcds",
+    "lastCheckedAt": "2025-07-17T19:43:02.783+00:00"
+  },
+  "trinodb/trino": {
+    "url": "https://www.github.com/trinodb/trino",
+    "lastCheckedAt": "2025-07-17T19:43:12.016+00:00"
+  },
+  "tugraz-isds/systemds": {
+    "url": "https://www.github.com/tugraz-isds/systemds",
+    "lastCheckedAt": "2025-07-17T19:43:13.484+00:00"
+  },
+  "tupilabs/tap4j": {
+    "url": "https://www.github.com/tupilabs/tap4j",
+    "lastCheckedAt": "2025-07-17T19:43:14.572+00:00"
+  },
+  "turesheim/eclipse-launcher": {
+    "url": "https://www.github.com/turesheim/eclipse-launcher",
+    "lastCheckedAt": "2025-07-17T19:43:15.508+00:00"
+  },
+  "turkraft/spring-filter": {
+    "url": "https://www.github.com/turkraft/spring-filter",
+    "lastCheckedAt": "2025-07-17T19:43:16.694+00:00"
+  },
+  "turms-im/turms": {
+    "url": "https://www.github.com/turms-im/turms",
+    "lastCheckedAt": "2025-07-17T19:43:17.763+00:00"
+  },
+  "tushartushar/DesigniteJava": {
+    "url": "https://www.github.com/tushartushar/DesigniteJava",
+    "lastCheckedAt": "2025-07-17T19:43:18.673+00:00"
+  },
+  "twilio/calcite-kudu": {
+    "url": "https://www.github.com/twilio/calcite-kudu",
+    "lastCheckedAt": "2025-07-17T19:43:19.992+00:00"
+  },
+  "twilio/twilio-oai-generator": {
+    "url": "https://www.github.com/twilio/twilio-oai-generator",
+    "lastCheckedAt": "2025-07-17T19:43:21.027+00:00"
+  },
+  "twonote/radosgw-admin4j": {
+    "url": "https://www.github.com/twonote/radosgw-admin4j",
+    "lastCheckedAt": "2025-07-17T19:43:22.133+00:00"
+  },
+  "tywo45/t-io": {
+    "url": "https://www.github.com/tywo45/t-io",
+    "lastCheckedAt": "2025-07-17T19:43:23.290+00:00"
+  },
+  "uPortal-Project/CalendarPortlet": {
+    "url": "https://www.github.com/uPortal-Project/CalendarPortlet",
+    "lastCheckedAt": "2025-07-17T19:43:24.268+00:00"
+  },
+  "uPortal-Project/CoursesPortlet": {
+    "url": "https://www.github.com/uPortal-Project/CoursesPortlet",
+    "lastCheckedAt": "2025-07-17T19:43:25.356+00:00"
+  },
+  "uPortal-Project/NewsReaderPortlet": {
+    "url": "https://www.github.com/uPortal-Project/NewsReaderPortlet",
+    "lastCheckedAt": "2025-07-17T19:43:26.514+00:00"
+  },
+  "uPortal-Project/WebproxyPortlet": {
+    "url": "https://www.github.com/uPortal-Project/WebproxyPortlet",
+    "lastCheckedAt": "2025-07-17T19:43:27.518+00:00"
+  },
+  "uber/RemoteShuffleService": {
+    "url": "https://www.github.com/uber/RemoteShuffleService",
+    "lastCheckedAt": "2025-07-17T19:43:28.847+00:00"
+  },
+  "uber/h3-java": {
+    "url": "https://www.github.com/uber/h3-java",
+    "lastCheckedAt": "2025-07-17T19:43:29.990+00:00"
+  },
+  "ucloud/ucloud-sdk-java": {
+    "url": "https://www.github.com/ucloud/ucloud-sdk-java",
+    "lastCheckedAt": "2025-07-17T19:43:31.081+00:00"
+  },
+  "uhafner/autograding-github-action": {
+    "url": "https://www.github.com/uhafner/autograding-github-action",
+    "lastCheckedAt": "2025-07-17T19:43:32.104+00:00"
+  },
+  "uhafner/codingstyle": {
+    "url": "https://www.github.com/uhafner/codingstyle",
+    "lastCheckedAt": "2025-07-17T19:43:34.948+00:00"
+  },
+  "ukwa/webarchive-discovery": {
+    "url": "https://www.github.com/ukwa/webarchive-discovery",
+    "lastCheckedAt": "2025-07-17T19:43:36.061+00:00"
+  },
+  "undertow-io/undertow": {
+    "url": "https://www.github.com/undertow-io/undertow",
+    "lastCheckedAt": "2025-07-17T19:43:38.244+00:00"
+  },
+  "unic/neba": {
+    "url": "https://www.github.com/unic/neba",
+    "lastCheckedAt": "2025-07-17T19:43:39.203+00:00"
+  },
+  "unicode-org/cldr": {
+    "url": "https://www.github.com/unicode-org/cldr",
+    "lastCheckedAt": "2025-07-17T19:43:42.275+00:00"
+  },
+  "unnamed/command-flow": {
+    "url": "https://www.github.com/unnamed/command-flow",
+    "lastCheckedAt": "2025-07-17T19:43:43.594+00:00"
+  },
+  "urmi-21/MetaOmGraph": {
+    "url": "https://www.github.com/urmi-21/MetaOmGraph",
+    "lastCheckedAt": "2025-07-17T19:43:44.504+00:00"
+  },
+  "usdAG/cstc": {
+    "url": "https://www.github.com/usdAG/cstc",
+    "lastCheckedAt": "2025-07-17T19:43:47.253+00:00"
+  },
+  "usethesource/capsule": {
+    "url": "https://www.github.com/usethesource/capsule",
+    "lastCheckedAt": "2025-07-17T19:43:48.264+00:00"
+  },
+  "usethesource/clair": {
+    "url": "https://www.github.com/usethesource/clair",
+    "lastCheckedAt": "2025-07-17T19:43:49.531+00:00"
+  },
+  "usethesource/rascal": {
+    "url": "https://www.github.com/usethesource/rascal",
+    "lastCheckedAt": "2025-07-17T19:43:50.578+00:00"
+  },
+  "usethesource/rascal-eclipse": {
+    "url": "https://www.github.com/usethesource/rascal-eclipse",
+    "lastCheckedAt": "2025-07-17T19:43:51.507+00:00"
+  },
+  "usethesource/vallang": {
+    "url": "https://www.github.com/usethesource/vallang",
+    "lastCheckedAt": "2025-07-17T19:43:52.513+00:00"
+  },
+  "usnistgov/liboscal-java": {
+    "url": "https://www.github.com/usnistgov/liboscal-java",
+    "lastCheckedAt": "2025-07-17T19:43:53.486+00:00"
+  },
+  "utPLSQL/utPLSQL-cli": {
+    "url": "https://www.github.com/utPLSQL/utPLSQL-cli",
+    "lastCheckedAt": "2025-07-17T19:40:55.477+00:00"
+  },
+  "uwolfer/gerrit-rest-java-client": {
+    "url": "https://www.github.com/uwolfer/gerrit-rest-java-client",
+    "lastCheckedAt": "2025-07-17T19:40:56.527+00:00"
+  },
+  "v12technology/fluxtion": {
+    "url": "https://www.github.com/v12technology/fluxtion",
+    "lastCheckedAt": "2025-07-17T19:40:57.582+00:00"
+  },
+  "vaadin/cookbook": {
+    "url": "https://www.github.com/vaadin/cookbook",
+    "lastCheckedAt": "2025-07-17T19:40:58.845+00:00"
+  },
+  "vaadin/docs": {
+    "url": "https://www.github.com/vaadin/docs",
+    "lastCheckedAt": "2025-07-17T19:40:59.929+00:00"
+  },
+  "vaadin/flow": {
+    "url": "https://www.github.com/vaadin/flow",
+    "lastCheckedAt": "2025-07-17T19:41:08.864+00:00"
+  },
+  "vaadin/hilla": {
+    "url": "https://www.github.com/vaadin/hilla",
+    "lastCheckedAt": "2025-07-17T19:41:13.646+00:00"
+  },
+  "vaadin/platform": {
+    "url": "https://www.github.com/vaadin/platform",
+    "lastCheckedAt": "2025-07-17T19:41:17.923+00:00"
+  },
+  "vaadin/skeleton-starter-flow-spring": {
+    "url": "https://www.github.com/vaadin/skeleton-starter-flow-spring",
+    "lastCheckedAt": "2025-07-17T19:41:18.975+00:00"
+  },
+  "valery1707/kaitai-maven-plugin": {
+    "url": "https://www.github.com/valery1707/kaitai-maven-plugin",
+    "lastCheckedAt": "2025-07-17T19:41:20.428+00:00"
+  },
+  "valfirst/jbehave-junit-runner": {
+    "url": "https://www.github.com/valfirst/jbehave-junit-runner",
+    "lastCheckedAt": "2025-07-17T19:41:21.525+00:00"
+  },
+  "validator/htmlparser": {
+    "url": "https://www.github.com/validator/htmlparser",
+    "lastCheckedAt": "2025-07-17T19:41:22.589+00:00"
+  },
+  "valtech/aem-easy-content-upgrade": {
+    "url": "https://www.github.com/valtech/aem-easy-content-upgrade",
+    "lastCheckedAt": "2025-07-17T19:41:23.720+00:00"
+  },
+  "vandmo/dependency-lock-maven-plugin": {
+    "url": "https://www.github.com/vandmo/dependency-lock-maven-plugin",
+    "lastCheckedAt": "2025-07-17T19:41:24.696+00:00"
+  },
+  "vassalengine/vassal": {
+    "url": "https://www.github.com/vassalengine/vassal",
+    "lastCheckedAt": "2025-07-17T19:41:25.876+00:00"
+  },
+  "vaulttec/sonar-auth-oidc": {
+    "url": "https://www.github.com/vaulttec/sonar-auth-oidc",
+    "lastCheckedAt": "2025-07-17T19:41:27.169+00:00"
+  },
+  "vdurmont/semver4j": {
+    "url": "https://www.github.com/vdurmont/semver4j",
+    "lastCheckedAt": "2025-07-17T19:41:28.317+00:00"
+  },
+  "veraPDF/veraPDF-apps": {
+    "url": "https://www.github.com/veraPDF/veraPDF-apps",
+    "lastCheckedAt": "2025-07-17T19:41:29.307+00:00"
+  },
+  "veraPDF/veraPDF-library": {
+    "url": "https://www.github.com/veraPDF/veraPDF-library",
+    "lastCheckedAt": "2025-07-17T19:41:30.391+00:00"
+  },
+  "veraPDF/veraPDF-validation": {
+    "url": "https://www.github.com/veraPDF/veraPDF-validation",
+    "lastCheckedAt": "2025-07-17T19:41:32.058+00:00"
+  },
+  "verhas/jamal": {
+    "url": "https://www.github.com/verhas/jamal",
+    "lastCheckedAt": "2025-07-17T19:41:33.036+00:00"
+  },
+  "verhas/javageci": {
+    "url": "https://www.github.com/verhas/javageci",
+    "lastCheckedAt": "2025-07-17T19:41:33.890+00:00"
+  },
+  "versly/wsdoc": {
+    "url": "https://www.github.com/versly/wsdoc",
+    "lastCheckedAt": "2025-07-17T19:41:35.014+00:00"
+  },
+  "vert-x3/vertx-amqp-client": {
+    "url": "https://www.github.com/vert-x3/vertx-amqp-client",
+    "lastCheckedAt": "2025-07-17T19:41:36.184+00:00"
+  },
+  "vert-x3/vertx-auth": {
+    "url": "https://www.github.com/vert-x3/vertx-auth",
+    "lastCheckedAt": "2025-07-17T19:41:37.223+00:00"
+  },
+  "vert-x3/vertx-camel-bridge": {
+    "url": "https://www.github.com/vert-x3/vertx-camel-bridge",
+    "lastCheckedAt": "2025-07-17T19:41:38.861+00:00"
+  },
+  "vert-x3/vertx-cassandra-client": {
+    "url": "https://www.github.com/vert-x3/vertx-cassandra-client",
+    "lastCheckedAt": "2025-07-17T19:41:40.062+00:00"
+  },
+  "vert-x3/vertx-circuit-breaker": {
+    "url": "https://www.github.com/vert-x3/vertx-circuit-breaker",
+    "lastCheckedAt": "2025-07-17T19:41:41.354+00:00"
+  },
+  "vert-x3/vertx-codetrans": {
+    "url": "https://www.github.com/vert-x3/vertx-codetrans",
+    "lastCheckedAt": "2025-07-17T19:41:42.617+00:00"
+  },
+  "vert-x3/vertx-config": {
+    "url": "https://www.github.com/vert-x3/vertx-config",
+    "lastCheckedAt": "2025-07-17T19:41:44.079+00:00"
+  },
+  "vert-x3/vertx-consul-client": {
+    "url": "https://www.github.com/vert-x3/vertx-consul-client",
+    "lastCheckedAt": "2025-07-17T19:41:45.362+00:00"
+  },
+  "vert-x3/vertx-dropwizard-metrics": {
+    "url": "https://www.github.com/vert-x3/vertx-dropwizard-metrics",
+    "lastCheckedAt": "2025-07-17T19:41:46.747+00:00"
+  },
+  "vert-x3/vertx-examples": {
+    "url": "https://www.github.com/vert-x3/vertx-examples",
+    "lastCheckedAt": "2025-07-17T19:41:47.875+00:00"
+  },
+  "vert-x3/vertx-grpc": {
+    "url": "https://www.github.com/vert-x3/vertx-grpc",
+    "lastCheckedAt": "2025-07-17T19:41:49.042+00:00"
+  },
+  "vert-x3/vertx-hazelcast": {
+    "url": "https://www.github.com/vert-x3/vertx-hazelcast",
+    "lastCheckedAt": "2025-07-17T19:41:50.233+00:00"
+  },
+  "vert-x3/vertx-health-check": {
+    "url": "https://www.github.com/vert-x3/vertx-health-check",
+    "lastCheckedAt": "2025-07-17T19:41:51.523+00:00"
+  },
+  "vert-x3/vertx-ignite": {
+    "url": "https://www.github.com/vert-x3/vertx-ignite",
+    "lastCheckedAt": "2025-07-17T19:41:52.648+00:00"
+  },
+  "vert-x3/vertx-infinispan": {
+    "url": "https://www.github.com/vert-x3/vertx-infinispan",
+    "lastCheckedAt": "2025-07-17T19:41:53.768+00:00"
+  },
+  "vert-x3/vertx-jdbc-client": {
+    "url": "https://www.github.com/vert-x3/vertx-jdbc-client",
+    "lastCheckedAt": "2025-07-17T19:41:55.024+00:00"
+  },
+  "vert-x3/vertx-kafka-client": {
+    "url": "https://www.github.com/vert-x3/vertx-kafka-client",
+    "lastCheckedAt": "2025-07-17T19:41:56.315+00:00"
+  },
+  "vert-x3/vertx-lang-groovy": {
+    "url": "https://www.github.com/vert-x3/vertx-lang-groovy",
+    "lastCheckedAt": "2025-07-17T19:41:57.357+00:00"
+  },
+  "vert-x3/vertx-mail-client": {
+    "url": "https://www.github.com/vert-x3/vertx-mail-client",
+    "lastCheckedAt": "2025-07-17T19:41:58.504+00:00"
+  },
+  "vert-x3/vertx-maven-service-factory": {
+    "url": "https://www.github.com/vert-x3/vertx-maven-service-factory",
+    "lastCheckedAt": "2025-07-17T19:41:59.600+00:00"
+  },
+  "vert-x3/vertx-micrometer-metrics": {
+    "url": "https://www.github.com/vert-x3/vertx-micrometer-metrics",
+    "lastCheckedAt": "2025-07-17T19:42:00.724+00:00"
+  },
+  "vert-x3/vertx-mongo-client": {
+    "url": "https://www.github.com/vert-x3/vertx-mongo-client",
+    "lastCheckedAt": "2025-07-17T19:42:03.162+00:00"
+  },
+  "vert-x3/vertx-mqtt": {
+    "url": "https://www.github.com/vert-x3/vertx-mqtt",
+    "lastCheckedAt": "2025-07-17T19:42:04.616+00:00"
+  },
+  "vert-x3/vertx-proton": {
+    "url": "https://www.github.com/vert-x3/vertx-proton",
+    "lastCheckedAt": "2025-07-17T19:42:05.845+00:00"
+  },
+  "vert-x3/vertx-rabbitmq-client": {
+    "url": "https://www.github.com/vert-x3/vertx-rabbitmq-client",
+    "lastCheckedAt": "2025-07-17T19:42:07.208+00:00"
+  },
+  "vert-x3/vertx-redis-client": {
+    "url": "https://www.github.com/vert-x3/vertx-redis-client",
+    "lastCheckedAt": "2025-07-17T19:42:08.369+00:00"
+  },
+  "vert-x3/vertx-rx": {
+    "url": "https://www.github.com/vert-x3/vertx-rx",
+    "lastCheckedAt": "2025-07-17T19:42:10.461+00:00"
+  },
+  "vert-x3/vertx-service-discovery": {
+    "url": "https://www.github.com/vert-x3/vertx-service-discovery",
+    "lastCheckedAt": "2025-07-17T19:42:11.982+00:00"
+  },
+  "vert-x3/vertx-service-proxy": {
+    "url": "https://www.github.com/vert-x3/vertx-service-proxy",
+    "lastCheckedAt": "2025-07-17T19:42:13.143+00:00"
+  },
+  "vert-x3/vertx-shell": {
+    "url": "https://www.github.com/vert-x3/vertx-shell",
+    "lastCheckedAt": "2025-07-17T19:42:14.416+00:00"
+  },
+  "vert-x3/vertx-stack": {
+    "url": "https://www.github.com/vert-x3/vertx-stack",
+    "lastCheckedAt": "2025-07-17T19:42:15.607+00:00"
+  },
+  "vert-x3/vertx-stomp": {
+    "url": "https://www.github.com/vert-x3/vertx-stomp",
+    "lastCheckedAt": "2025-07-17T19:42:16.888+00:00"
+  },
+  "vert-x3/vertx-sync": {
+    "url": "https://www.github.com/vert-x3/vertx-sync",
+    "lastCheckedAt": "2025-07-17T19:42:18.194+00:00"
+  },
+  "vert-x3/vertx-tcp-eventbus-bridge": {
+    "url": "https://www.github.com/vert-x3/vertx-tcp-eventbus-bridge",
+    "lastCheckedAt": "2025-07-17T19:42:19.571+00:00"
+  },
+  "vert-x3/vertx-unit": {
+    "url": "https://www.github.com/vert-x3/vertx-unit",
+    "lastCheckedAt": "2025-07-17T19:42:20.833+00:00"
+  },
+  "vert-x3/vertx-web": {
+    "url": "https://www.github.com/vert-x3/vertx-web",
+    "lastCheckedAt": "2025-07-17T19:42:21.931+00:00"
+  },
+  "vert-x3/vertx-zookeeper": {
+    "url": "https://www.github.com/vert-x3/vertx-zookeeper",
+    "lastCheckedAt": "2025-07-17T19:42:23.202+00:00"
+  },
+  "vertical-blank/sql-formatter": {
+    "url": "https://www.github.com/vertical-blank/sql-formatter",
+    "lastCheckedAt": "2025-07-17T19:42:24.269+00:00"
+  },
+  "vertx-china/tree-new-bee": {
+    "url": "https://www.github.com/vertx-china/tree-new-bee",
+    "lastCheckedAt": "2025-07-17T19:42:25.180+00:00"
+  },
+  "veryfi/veryfi-java": {
+    "url": "https://www.github.com/veryfi/veryfi-java",
+    "lastCheckedAt": "2025-07-17T19:42:26.284+00:00"
+  },
+  "vesoft-inc/nebula-java": {
+    "url": "https://www.github.com/vesoft-inc/nebula-java",
+    "lastCheckedAt": "2025-07-17T19:42:27.326+00:00"
+  },
+  "vespa-engine/vespa": {
+    "url": "https://www.github.com/vespa-engine/vespa",
+    "lastCheckedAt": "2025-07-17T19:42:32.644+00:00"
+  },
+  "viadee/camunda-kafka-polling-client": {
+    "url": "https://www.github.com/viadee/camunda-kafka-polling-client",
+    "lastCheckedAt": "2025-07-17T19:42:33.683+00:00"
+  },
+  "viadee/external-task-retry-aspect": {
+    "url": "https://www.github.com/viadee/external-task-retry-aspect",
+    "lastCheckedAt": "2025-07-17T19:42:34.727+00:00"
+  },
+  "viadee/vPAV": {
+    "url": "https://www.github.com/viadee/vPAV",
+    "lastCheckedAt": "2025-07-17T19:42:35.930+00:00"
+  },
+  "viadee/vPW": {
+    "url": "https://www.github.com/viadee/vPW",
+    "lastCheckedAt": "2025-07-17T19:42:37.052+00:00"
+  },
+  "victools/jsonschema-generator": {
+    "url": "https://www.github.com/victools/jsonschema-generator",
+    "lastCheckedAt": "2025-07-17T19:42:38.207+00:00"
+  },
+  "vidstige/jadb": {
+    "url": "https://www.github.com/vidstige/jadb",
+    "lastCheckedAt": "2025-07-17T19:42:39.359+00:00"
+  },
+  "vincentrussell/sql-to-mongo-db-query-converter": {
+    "url": "https://www.github.com/vincentrussell/sql-to-mongo-db-query-converter",
+    "lastCheckedAt": "2025-07-17T19:42:40.552+00:00"
+  },
+  "vincenzopalazzo/material-ui-swing": {
+    "url": "https://www.github.com/vincenzopalazzo/material-ui-swing",
+    "lastCheckedAt": "2025-07-17T19:42:41.632+00:00"
+  },
+  "virtualcell/vcell": {
+    "url": "https://www.github.com/virtualcell/vcell",
+    "lastCheckedAt": "2025-07-17T19:42:42.649+00:00"
+  },
+  "virtualsatellite/VirtualSatellite4-Core": {
+    "url": "https://www.github.com/virtualsatellite/VirtualSatellite4-Core",
+    "lastCheckedAt": "2025-07-17T19:42:43.600+00:00"
+  },
+  "vivo-project/VIVO": {
+    "url": "https://www.github.com/vivo-project/VIVO",
+    "lastCheckedAt": "2025-07-17T19:42:44.594+00:00"
+  },
+  "vivo-project/Vitro": {
+    "url": "https://www.github.com/vivo-project/Vitro",
+    "lastCheckedAt": "2025-07-17T19:42:45.609+00:00"
+  },
+  "vlingo/xoom-actors": {
+    "url": "https://www.github.com/vlingo/xoom-actors",
+    "lastCheckedAt": "2025-07-17T19:42:46.707+00:00"
+  },
+  "vlingo/xoom-auth": {
+    "url": "https://www.github.com/vlingo/xoom-auth",
+    "lastCheckedAt": "2025-07-17T19:42:47.614+00:00"
+  },
+  "vlingo/xoom-cluster": {
+    "url": "https://www.github.com/vlingo/xoom-cluster",
+    "lastCheckedAt": "2025-07-17T19:42:48.900+00:00"
+  },
+  "vlingo/xoom-common": {
+    "url": "https://www.github.com/vlingo/xoom-common",
+    "lastCheckedAt": "2025-07-17T19:42:49.888+00:00"
+  },
+  "vlingo/xoom-designer": {
+    "url": "https://www.github.com/vlingo/xoom-designer",
+    "lastCheckedAt": "2025-07-17T19:42:50.943+00:00"
+  },
+  "vlingo/xoom-examples": {
+    "url": "https://www.github.com/vlingo/xoom-examples",
+    "lastCheckedAt": "2025-07-17T19:42:51.957+00:00"
+  },
+  "vlingo/xoom-helloworld": {
+    "url": "https://www.github.com/vlingo/xoom-helloworld",
+    "lastCheckedAt": "2025-07-17T19:42:52.858+00:00"
+  }
+}

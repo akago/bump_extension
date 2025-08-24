@@ -1,0 +1,19 @@
+{
+  "url" : "https://github.com/apache/struts/pull/1140",
+  "project" : "struts",
+  "projectOrganisation" : "apache",
+  "breakingCommit" : "fcc89b1888320715fbb0c0c67b3b8a0b6ea42782",
+  "prAuthor" : "bot",
+  "preCommitAuthor" : "human",
+  "breakingCommitAuthor" : "bot",
+  "updatedDependency" : {
+    "dependencyGroupID" : "jakarta.servlet.jsp",
+    "dependencyArtifactID" : "jakarta.servlet.jsp-api",
+    "previousVersion" : "3.1.0",
+    "newVersion" : "4.0.0",
+    "dependencyScope" : "provided",
+    "versionUpdateType" : "major",
+    "dependencySection" : "dependencyManagement"
+  },
+  "licenseInfo" : "Apache License 2.0"
+}
